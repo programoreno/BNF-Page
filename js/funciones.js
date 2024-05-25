@@ -1,21 +1,3 @@
-if(document.addEventListener){
-	window.addEventListener("load",comienzo);
-}else if(document.attachEvent){
-	window.attachEvent("onload",comienzo);
-}
-
-function comienzo(){
-    
-    let cerrar = document.getElementById("cerrar");
-
-    if(document.addEventListener){
-        cerrar.addEventListener("click",cerrar_dialogo);
-       
-    }else if (document.attachEvent){
-        cerrar.attachEvent("onclick",cerrar_dialogo);
-    }
-}
-
 function abrir_info(titulo, rareza,obtencion,frase) {
     Swal.fire({
         html:
@@ -32,5 +14,17 @@ function abrir_info(titulo, rareza,obtencion,frase) {
         didOpen: () => {
             document.activeElement.blur();
         }
+    });
+}
+
+function scroll_sets() {
+    // Obtenemos la posición vertical del inicio del contenido adicional
+    const additionalContent = document.getElementById("skins")
+    const additionalContentTop = additionalContent.offsetTop;
+  
+    // Hacemos scroll suave hacia la posición del contenido adicional
+    window.scrollTo({
+      top: additionalContentTop,
+      behavior: 'smooth'
     });
 }
