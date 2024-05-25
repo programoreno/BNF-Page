@@ -84,38 +84,21 @@ h4{
   border-radius: 20px;
   background-color: #fff;
 }
-.swal2-left-align .swal2-html-container {
+div:where(.swal2-container) .swal2-html-container {
   text-align: left !important;
-}
-#dialogo  img{
-  width:200px;
-  height:200px;
-}
-#dialogo  p:first-of-type{
-  margin-top:-15px;
-  font-size: 14px;
-}
-#cerrar{
-  border:none;
-  background-color: transparent;
-}
-#cerrar > img{
-  padding-left: 20px;
-  width: 30px;
-  height: 30px;
 }
 
 /*Rarezas*/
-#common{
+#Common{
   color:rgb(37, 151, 46);
 }
-#rare{
+#Rare{
   color:#638ECB;
 }
-#Srare{
+#SuperRare{
   color:#5433A9;
 }
-#legendary{
+#Legendary{
   /*color:#FFBA08;*/
   color:#FAA307;
 }

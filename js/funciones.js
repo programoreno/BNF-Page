@@ -21,13 +21,18 @@ function abrir_info(titulo, rareza,obtencion,frase) {
         html:
         `<div id="dialogo">
             <div>
-                <h3>${titulo}</h3>
+                <h2>${titulo}</h2>
                 <p id="${rareza}">${rareza}</p>
                 <p>${obtencion}</p>
                 <p>${frase}</p>
             </div> 
-        </div>`
-      });
+        </div>`,
+        showCloseButton: true,
+        showConfirmButton: false,
+        didOpen: () => {
+            document.activeElement.blur();
+        }
+    });
 }
 
 function abrir_dialogo(num){
