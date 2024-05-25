@@ -34,26 +34,3 @@ function abrir_info(titulo, rareza,obtencion,frase) {
         }
     });
 }
-
-function abrir_dialogo(num){
-    /* CIERRO PRIMERO TODOS LOS DIALOG ASI NO SE ACUMULAN */
-    var dialogos = document.getElementsByTagName('dialog');
-    for (var i = 0; i < dialogos.length; i++) {
-        dialogos[i].removeAttribute("open");
-        
-    }
-
-    /* ABRO EL DIALOG CORRESPONDIENTE */
-    for (var i = num-1; i < dialogos.length; i++) {
-        dialogos[i].setAttribute("open","true");
-        break;
-    }
-}   
-
-function cerrar_dialogo(num){
-    var dialogos = document.getElementsByTagName('dialog');
-    for (var i = num-1; i < dialogos.length; i++) {
-        dialogos[i].removeAttribute("open");
-        break;
-    }
-}
