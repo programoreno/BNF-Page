@@ -25,6 +25,14 @@ body{
     align-items: center;
 
 }
+
+@media (min-width:950px) {
+    #tabs{
+      align-items: center;
+      width: 1250px;
+    } 
+  }
+  
 #home-content {
     color:white;
 }

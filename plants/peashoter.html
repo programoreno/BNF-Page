@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/style-page.css">
+    <link rel="stylesheet" href="/css/style-tabs.css">
+    <script src="./js/funciones.js" type="text/javascript"></script>
+
+    <!--Font use-->
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Blaka&family=Poppins:wght@300;400;500;600;800;900&display=swap" rel="stylesheet">
+
+    <!--Sweetalert-->
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+    <title>Home Page</title>
+</head>
+<body>
+    <main>
+        <section id="page">
+            <div id="home-content">
+                <p>#Plants</p>
+                <h1>Peashooter</h1>
+                <p id="explain">How can a single plant grow and shoot so many peas so quickly?
+                    Peashooter says, “Hard work, commitment, and a healthy,
+                    well-balanced breakfast of sunlight and high-fiber carbon dioxide make it all possible.”</p>
+
+                <!--<p id="explain">¿Cómo puede una sola planta crecer y disparar tantos guisantes tan rápido?
+                    El Lanzaguisantes dice: “El trabajo duro,
+                    el compromiso y un desayuno saludable y equilibrado de luz solar y dióxido de carbono rico en fibra lo hacen posible.”</p>-->
+                <a id="links" onclick="scroll_sets()">Ver Mas</a>
+            </div>
+           
+            <div id="imagen">
+                <img id="ima" src="/img/plants/peashoter/peashoter.png">
+            </div>
+        </section>
+
+        <section class="boxes" id="skins">
+        <h1>Skins</h1>
+            <div id="tabs">
+                <article id="tabs-content">
+                <img src="/img/plants/peashoter/Azure_pea.png"/>
+                <h3>Azure Pea</h3>
+                <a onclick="abrir_info('Azure Pea','Common','Reward-O-Tron 9000','Azure Pea gets angry when mistaken for an Ice or a Sad Peashooter. ')">View More</a>
+                </article>
+        
+                <article id="tabs-content">
+                <img src="/img/plants/peashoter/Icon_Peashooter_Skin_ChickPea_Large.png"/>
+                <h3>Chick Pea</h3>
+                <a onclick="abrir_info('Chick Pea','Legendary','Purchasing Deluxe Edition Upgrade or Origin Access Premier subscription','Never underestimate the supreme power of Chick Pea. NEVER!')">View More</a>
+                </article>            
+
+                <article id="tabs-content">
+                <img src="/img/plants/peashoter/Icon_Peashooter_Skin_SpaceRanger_large.png"/>
+                <h3>Highly Decorated Crop</h3>
+                <a onclick="abrir_info('Highly Decorated Crop','Legendary','Garden Party prize map completion reward or Also purchasable from Rux for 200,000 Coins (Nintendo Switch Edition only)','Ironically, it\'s a crime against humanity to look this good.')">View More</a>
+                </article>
+        
+                <article id="tabs-content">
+                <img src="/img/plants/peashoter/Icon_Peashooter_Skin_SpaceRangerSilver_large.png"/>
+                <h3>Future Crop</h3>
+                <a onclick="abrir_info('Future Crop','Legendary','Garden Party prize map, costs 20 Prize Bulbs or Also purchasable from Rux for 200,000 Coins (Nintendo Switch Edition only)','In the future, he protects, and also serves on the weekends for extra cash--because crime doesn\'t pay.')">View More</a>
+                </article>
+        
+                <article id="tabs-content">
+                <img src="/img/plants/peashoter/Pea_of_valiance.png"/>
+                <h3>Pea of Valiance</h3>
+                <a onclick="abrir_info('Pea of Valiance','SuperRare','Founders Edition 4th week reward','Will joust for honor, for justice, for honor again--preferably between nine and five.')">View More</a>
+                </article>
+        
+                <article id="tabs-content">
+                <img src="/img/plants/peashoter/Sappy_pea.png"/>
+                <h3>Sappy Pea</h3>
+                <a onclick="abrir_info('Sappy Pea','Rare','Reward-O-Tron 9000','Contrary to the popular belief, Sappy Pea is not emotional.')">View More</a>
+                </article>
+                
+        
+                <article id="tabs-content">
+                <img src="/img/plants/peashoter/Sea_pea.png"/>
+                <h3>Sea Pea</h3>
+                <a onclick="abrir_info('Sea Pea','Rare','Reward-O-Tron 9000','Sea Pea can\'t actually breathe underwater, which is too bad. He loves it down there!')">View More</a>
+                </article>
+        
+            </div>
+        </section>
+
+        <section class="boxes" id="sets">
+            <h1>Sets</h1>
+            <div id="tabs">
+                <article id="tabs-content">
+                <img src="/img/plants/peashoter/Aviary_set.png"/>
+                <h3>Aviary</h3>
+                <a onclick="abrir_info('Aviary','Rare','Reward-O-Tron 9000','')">View More</a>
+                </article>
+        
+                <article id="tabs-content">
+                <img src="/img/plants/peashoter/CupidSet.png"/>
+                <h3>Cupid's Command</h3>
+                <a onclick="abrir_info('Cupid\'s Command','SuperRare','Three separate items in Valenbrainz prize map, costs 21 Prize Bulbs in total','')">View More</a>
+                </article>
+        
+                <article id="tabs-content">
+                <img src="/img/plants/peashoter/Precious_floral_set.png"/>
+                <h3>Precious Floral</h3>
+                <a onclick="abrir_info('Precious Floral','Rare','Reward-O-Tron 9000','This set is used by Dave Manor NPC Beau Tanic.')">View More</a>
+                </article>
+        
+                <article id="tabs-content">
+                <img src="/img/plants/peashoter/Icon_PeaShooter_Set_SpartanSet_Large.png"/>
+                <h3>Garden Gladiator</h3>
+                <a onclick="abrir_info('Garden Gladiator','Rare','Purchasable from Rux for 550 Rainbow Stars','Step into the garden and face him in vegetal combat!')">View More</a>
+                </article>
+        
+                <article id="tabs-content">
+                <img src="/img/plants/peashoter/Peagyptology_set.png"/>
+                <h3>Peagyptology</h3>
+                <a onclick="abrir_info('Peagyptology','Rare','Reward-O-Tron 9000','This set\'s name is a portmanteau of Pea and Egyptology.')">View More</a>
+                </article>
+        
+        
+            </div>
+        </section>
+
+        <section class="boxes" id="hats">
+            <h1>Hats</h1>
+            <div id="tabs">
+                <article id="tabs-content">
+                    <img src="/img/not_found.png"/>
+                    <h3>Chillbean Pinata </h3>
+                    <a onclick="abrir_info('Chillbean Pinata','Legendary','Reaction','Reward-O-Tron 9000',)">View More</a>
+                </article>
+
+                <article id="tabs-content">
+                <img src="/img/plants/peashoter/Peashooter_party_hat.png"/>
+                <h3>Feastivus Partyhat</h3>
+                <a onclick="abrir_info('Feastivus Partyhat','SuperRare','Universal (plants and zombies)','100% character challenge completion reward during Feastivus')">View More</a>
+                </article>
+        
+                <article id="tabs-content">
+                <img src="/img/plants/peashoter/Gnomish Taco Bait.png"/>
+                <h3>Gnomish Taco Bait</h3>
+                <a onclick="abrir_info('Gnomish Taco Bait','SuperRare','Spectrum','Completing Best Fishing Friend\'s quest')">View More</a>
+                </article>
+        
+                <article id="tabs-content">
+                <img src="/img/plants/peashoter/Law_pea_hat.png"/>
+                <h3>Law Pea</h3>
+                <a onclick="abrir_info('Law Pea','SuperRare','Spectrum','Reward-O-Tron 9000')">View More</a>
+                </article>
+        
+                <article id="tabs-content">
+                <img src="/img/plants/peashoter/Leaf_cadet_peashooter.png"/>
+                <h3>Leaf Cadet</h3>
+                <a onclick="abrir_info('Leaf Cadet','SuperRare','Universal (plants)','Defeating Olds Cool')">View More</a>
+                </article>
+        
+                <article id="tabs-content">
+                <img src="/img/plants/peashoter/Peashooter_mister_mallow.png"/>
+                <h3>Mister Mallow</h3>
+                <a onclick="abrir_info('Mister Mallow','SuperRare','Universal (plants and zombies)','100% character challenge completion reward during Fall Food Fight')">View More</a>
+                </article>
+
+                <article id="tabs-content">
+                    <img src="/img/plants/peashoter/Icon_PeaShooter_HeadProp_KnitMonster_Large.png"/>
+                    <h3>Monster Cap</h3>
+                    <a onclick="abrir_info('Monster Cap','Rare','Spectrum','Snow Day prize map, costs 7 Prize Bulbs')">View More</a>
+                </article>
+
+                <article id="tabs-content">
+                    <img src="/img/plants/peashoter/Pea of honor.png"/>
+                    <h3>Pea of Honor</h3>
+                    <a onclick="abrir_info('Pea of Honor','Common','Standard','Reward-O-Tron 9000')">View More</a>
+                </article>
+
+                <article id="tabs-content">
+                    <img src="/img/plants/peashoter/Queen of Fairies.png"/>
+                    <h3>Queen of Fairies </h3>
+                    <a onclick="abrir_info('Queen of Fairies ','SuperRare','Universal (plants) ','Defeating Major Problem')">View More</a>
+                </article>
+
+                <article id="tabs-content">
+                    <img src="/img/plants/peashoter/Icon_PeaShooter_HeadProp_SkunkRockerHat_Large.png"/>
+                    <h3>Skunk Rocker</h3>
+                    <a onclick="abrir_info('Skunk Rocker','Legendary','Reaction Hat','Purchasable from Rux for 750 Rainbow Stars or Purchasable from Rux for 150,000 Coins (Nintendo Switch Edition only)')">View More</a>
+                </article>
+
+                <article id="tabs-content">
+                    <img src="/img/plants/peashoter/Stinky_the_snail.png"/>
+                    <h3>Stinky the Snail </h3>
+                    <a onclick="abrir_info('Stinky the Snail ','SuperRare','Standard','Reward-O-Tron 9000')">View More</a>
+                </article>
+
+                <article id="tabs-content">
+                    <img src="/img/plants/peashoter/Windmil_lWonderland.png"/>
+                    <h3>Windmill Wonderland</h3>
+                    <a onclick="abrir_info('Windmill Wonderland','SuperRare','Universal (plants and zombies) ','Defeating Sir Biff')">View More</a>
+                </article>
+        
+            </div>
+        </section>
+
+
+    </main>
+</body>
+</html>
