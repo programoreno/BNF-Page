@@ -14,6 +14,7 @@ export class PresentacionComponent implements OnInit{
   constructor(private plantasService: PlantasService){}
 
   plantas:Personaje [];
+  
   nom = 'peashoter';
 
   ngOnInit(): void {

@@ -1,22 +1,15 @@
 <section id="page">
     @for(planta of plantas; track plantas){
-
-        
+            @if(planta.nombre == nom){
                 <div id="home-content">
                     <p>#Plants</p>
                     <h1>{{planta.nombre}}</h1>
                     <p id="explain">{{planta.descrip}}</p>
-
-                    <!--<p id="explain">El insaciable depredador subterráneo de Plantas vs. Zombies que emerge para devorar a los zombis enteros en un solo bocado,
-                        convirtiéndose en la defensa perfecta para tu jardín con su habilidad de atrapar a los enemigos desprevenidos y mantener tu territorio libre de amenazas.</p>-->
-                    <!--<a id="links" onclick="scroll_sets()">Ver Mas</a>-->
                 </div>
-            
                 <div id="imagen">
-                    <img id="ima" src="assets/plants/chomper/chomper.png">
+                    <img id="ima" src="assets/plants/{{planta.nombre}}/{{planta.nombre}}.png">
                 </div>
-            
-
+            }
         
     }
 </section>

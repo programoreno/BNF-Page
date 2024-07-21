@@ -1,11 +1,19 @@
 <section class="boxes" id="skins">
     <h1>Skins</h1>
         <div id="tabs">
-            <article id="tabs-content">
-            <img src="assets/plants/chomper/Abominable_chomper.png"/>
-            <h3>Abominable Chomper</h3>
-            <a onclick="abrir_info('Abominable Chomper','SuperRare','Feastivus prize map, costs 10 Prize Bulbs','Nobody knows what\'s going to happen to him in the summer.')">View More</a>
-            </article>
+            @for(planta of plantas; track plantas){
+                @if(planta.nombre == nom){
+                    @for(skin of skins; track skins){
+                        <article id="tabs-content">
+                        <img src="assets/plants/{{planta.nombre}}/Abominable_chomper.png"/>
+                        <h3>{{skin.nombre}}</h3>
+                        <a (click)="abrir_info(skin.nombre,skin.rareza,skin.obtencion,skin.extra)">View More</a>
+                        </article>
+                    }
+                }
+            }
+        </div>
+            
     
             <article id="tabs-content">
             <img src="assets/plants/chomper/Icon_Chomper_Skin_Defaultblue_large.png"/>
@@ -62,5 +70,5 @@
             <a onclick="abrir_info('Z-Chomp ','Rare','Reward-O-Tron 9000','Don\'t call him a zebra. He only responds to Z-Chomp.')">View More</a>
             </article>
     
-        </div>
+
     </section>
