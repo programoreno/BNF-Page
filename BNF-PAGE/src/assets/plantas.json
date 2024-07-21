@@ -1,0 +1,25 @@
+{
+    "plantas":[
+        {
+            "nombre":"peashoter",
+            "descrip":"How can a single plant grow and shoot so many peas so quickly? Peashooter says, “Hard work, commitment, and a healthy, well-balanced breakfast of sunlight and high-fiber carbon dioxide make it all possible.”",
+            "skins":[
+                {
+                    "foto": 1,
+                    "nombre" : "Azure Pea",
+                    "rareza" : "Common",
+                    "obtencion" : "Reward-O-Tron 9000",
+                    "extra" : "Azure Pea gets angry when mistaken for an Ice or a Sad Peashooter."
+                },
+                {
+                    "foto": 1,
+                    "nombre": "Chick Pea",
+                    "rareza": "Legendary",
+                    "obtencion": "Purchasing Deluxe Edition Upgrade or Origin Access Premier subscription",
+                    "extra": "Never underestimate the supreme power of Chick Pea. NEVER!"
+                  }
+
+            ]
+        }
+    ]
+}
