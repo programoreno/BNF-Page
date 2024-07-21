@@ -1,16 +1,22 @@
 <section id="page">
-    <div id="home-content">
-        <p>#Plants</p>
-        <h1>chomper</h1>
-        <p id="explain">The insatiable underground predator from Plants vs. Zombies that emerges to devour zombies whole in a single bite,
-            becoming the perfect defense for your garden with its ability to catch enemies off guard and keep your territory free from threats.</p>
+    @for(planta of plantas; track plantas){
 
-        <!--<p id="explain">El insaciable depredador subterráneo de Plantas vs. Zombies que emerge para devorar a los zombis enteros en un solo bocado,
-            convirtiéndose en la defensa perfecta para tu jardín con su habilidad de atrapar a los enemigos desprevenidos y mantener tu territorio libre de amenazas.</p>-->
-        <a id="links" onclick="scroll_sets()">Ver Mas</a>
-    </div>
-   
-    <div id="imagen">
-        <img id="ima" src="assets/plants/chomper/chomper.png">
-    </div>
+        
+                <div id="home-content">
+                    <p>#Plants</p>
+                    <h1>{{planta.nombre}}</h1>
+                    <p id="explain">{{planta.descrip}}</p>
+
+                    <!--<p id="explain">El insaciable depredador subterráneo de Plantas vs. Zombies que emerge para devorar a los zombis enteros en un solo bocado,
+                        convirtiéndose en la defensa perfecta para tu jardín con su habilidad de atrapar a los enemigos desprevenidos y mantener tu territorio libre de amenazas.</p>-->
+                    <!--<a id="links" onclick="scroll_sets()">Ver Mas</a>-->
+                </div>
+            
+                <div id="imagen">
+                    <img id="ima" src="assets/plants/chomper/chomper.png">
+                </div>
+            
+
+        
+    }
 </section>
