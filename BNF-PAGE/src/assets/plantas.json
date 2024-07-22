@@ -2,7 +2,7 @@
     "plantas":[
         {
             "nombre":"peashoter",
-            "descrip":"How can a single plant grow and shoot so many peas so quickly? Peashooter says, “Hard work, commitment, and a healthy, well-balanced breakfast of sunlight and high-fiber carbon dioxide make it all possible.”",
+            "descrip":"Peashooters are highly versatile plant combatants. They provide plenty of explosive damage and are effective against smaller targets.",
             "skins":[
                     {
                         "foto": 1,
@@ -178,7 +178,82 @@
                     "extra": ""
                 }
             ]
-            
+        },
+        {
+            "nombre":"chomper",
+            "descrip":"Close range attacker that can snare and slow opponents and can Burrow underground to instantly vanquish opponents. Don't let them see you coming!",
+            "skins":[
+                {
+                    "foto": 1,
+                    "nombre": "Abominable Chomper",
+                    "rareza": "Super Rare",
+                    "obtencion": "Feastivus prize map, costs 10 Prize Bulbs",
+                    "extra": "Nobody knows what's going to happen to him in the summer. Its name is a reference to the Yeti, which is also known as the Abominable Snowman. It could also be somewhat of a reference to the Yeti Chomper variant from Plants vs. Zombies: Garden Warfare 2."
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Bluer Chewer",
+                    "rareza": "Common",
+                    "obtencion": "Fall Festival prize map, costs 10 Prize Bulbs",
+                    "extra": "He really has nothing to be blue about, he's got great friends, racquetball on Tuesdays, and a nice 401(k). Its description is pun on its name and appearance. It has a striking resemblance to Power Chomper's appearance in Plants vs. Zombies: Garden Warfare 2."
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Chomp Knight",
+                    "rareza": "Super Rare",
+                    "obtencion": "Summer DayZ prize map, cost 10 Prize Bulbs",
+                    "extra": "Neither valiant, nor heroic, he's just a chomper stuck in metal armor."
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Chompy-Mâché",
+                    "rareza": "Legendary",
+                    "obtencion": "Purchasable from Rux for 1,000 Rainbow Stars. Purchasable from Rux for 200,000 Coins (Nintendo Switch Edition only)",
+                    "extra": "He's all thrills, frills, and bite."
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Cuddle Chomper",
+                    "rareza": "Super Rare",
+                    "obtencion": "Reward-O-Tron 9000",
+                    "extra": "With fur so soft everyone wants to know his brand of conditioner. This Costume is used by Battle Leader Teddy."
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Messed Up Pup",
+                    "rareza": "Rare",
+                    "obtencion": "Purchasable from Rux for 550 Rainbow Stars",
+                    "extra": "Truly man's best friend-if a best friend licks your face after eating a burrito from a landfill. This Costume's internal name is 'Dirty Dog.'"
+                },
+                {
+                    "foto": 7,
+                    "nombre": "Egg-Streme Makeover",
+                    "rareza": "Rare",
+                    "obtencion": "Purchasable from Rux for 550 Rainbow Stars",
+                    "extra": "He wanted to make a drastic change in his life. He got eggsactly what he asked for."
+                },
+                {
+                    "foto": 8,
+                    "nombre": "Shaggy Shampooie",
+                    "rareza": "Common",
+                    "obtencion": "Valenbrainz prize map, costs 20 Prize Bulbs",
+                    "extra": "He takes great pride in cutting and styling his own hair. This costume is a pink recolor of the Cuddle Chomper costume."
+                },
+                {
+                    "foto": 9,
+                    "nombre": "Olive Chomper",
+                    "rareza": "Common",
+                    "obtencion": "Reward-O-Tron 9000",
+                    "extra": "Olive Chomper likes sitcoms, satires and sailboats. This is commonly used by Chomper Champions. This Costume is used for the Mount Steep NPC Wes Tern. It is also used for the Glutonous Chomper."
+                },
+                {
+                    "foto": 10,
+                    "nombre": "Z-Chomp",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron 9000",
+                    "extra": "Don't call him a zebra. He only responds to Z-Chomp."
+                }
+            ]
             
         }
     ]
