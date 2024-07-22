@@ -1,6 +1,5 @@
 import { Component } from '@angular/core';
 import { PresentacionComponent } from "../../component/presentacion/presentacion.component";
-import { SkinsComponent } from "../../component/skins/skins.component";
 import { TabsComponent } from "../../component/tabs/tabs.component";
 
 @Component({
