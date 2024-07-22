@@ -418,7 +418,44 @@
                     "extra": "It's amazing how loud Flush Flower talks. This Costume is used by Elusive Foe Kitty Sparkles. Champion Sunflowers commonly use this costume."
                 }
             ],
-            "sets":[]
+            "sets":[
+                {
+                    "foto": 1,
+                    "nombre": "Beach-nut",
+                    "rareza": "Rare",
+                    "obtencion": "Purchasing four individual parts from Sergeant Peel in plant Town Center for a total of 500 tacos",
+                    "extra": ""
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Cheerflower",
+                    "rareza": "Rare",
+                    "obtencion": "Purchasable from Rux for 600 Rainbow Stars",
+                    "extra": "This Set has a description: 'Gimme a 'C!' Gimme a 'eerflower!' What does that spell?'"
+                },
+                {
+                    "foto": 3,
+                    "nombre": "DJ Sunlit",
+                    "rareza": "Super Rare",
+                    "obtencion": "Birthdayz prize map, 28 Prize Bulbs total",
+                    "extra": ""
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Leaf Cadet",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "This Set is used by Quest Giver Major Sweetie."
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Pretty Kitty",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "This Set is used by Elusive Foe Kitty Sparkles."
+                }
+            ],
+            "hats":[]            
             
         }
     ]
