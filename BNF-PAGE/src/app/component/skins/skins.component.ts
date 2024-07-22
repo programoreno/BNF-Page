@@ -17,6 +17,7 @@ export class SkinsComponent {
 
   plantas:Personaje [];
   skins:Datos[];
+  sets:Datos[];
   
   nom = 'peashoter';
 
@@ -24,6 +25,7 @@ export class SkinsComponent {
     this.plantasService.getPlantas().subscribe(dato => {
       this.plantas = dato;
       this.skins = this.plantas.flatMap(planta => planta.skins);
+      this.sets = this.plantas.flatMap(planta => planta.sets);
     });
   }
 
