@@ -15,12 +15,11 @@ export class PresentacionComponent implements OnInit{
 
   plantas:Personaje [];
   
-  nom = 'peashoter';
+  nom = 'chomper';
 
   ngOnInit(): void {
     this.plantasService.getPlantas().subscribe(dato =>{
       this.plantas = dato;
-      console.log(dato);
     })
   }
 
