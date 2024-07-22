@@ -455,8 +455,85 @@
                     "extra": "This Set is used by Elusive Foe Kitty Sparkles."
                 }
             ],
-            "hats":[]            
-            
+            "hats":[
+                {
+                    "foto": 1,
+                    "nombre": "Careheals Bear",
+                    "rareza": "Legendary",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Sunflower Partyhat",
+                    "rareza": "Super Rare",
+                    "obtencion": "100% character challenge completion reward during Feastivus",
+                    "extra": ""
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Ice Princess Tiara",
+                    "rareza": "Rare",
+                    "obtencion": "Feastivus prize map, costs 7 prize bulbs",
+                    "extra": ""
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Leaf Cadet Sunflower",
+                    "rareza": "Super Rare",
+                    "obtencion": "Defeating Olds Cool",
+                    "extra": ""
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Masked Tiki Set",
+                    "rareza": "Super Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Mister Mallow",
+                    "rareza": "Super Rare",
+                    "obtencion": "100% character challenge completion reward during Fall Food Fight",
+                    "extra": ""
+                },
+                {
+                    "foto": 7,
+                    "nombre": "Ok Bloomer",
+                    "rareza": "Legendary",
+                    "obtencion": "Purchasable from Rux for 750 Rainbow Stars",
+                    "extra": "The name of this hat is a reference to 'Ok Boomer' meme."
+                },
+                {
+                    "foto": 8,
+                    "nombre": "Queen of Fairies",
+                    "rareza": "Super Rare",
+                    "obtencion": "Defeating Major Problem",
+                    "extra": ""
+                },
+                {
+                    "foto": 9,
+                    "nombre": "Windmill Wonderland",
+                    "rareza": "Super Rare",
+                    "obtencion": "Defeating Sir Biff",
+                    "extra": ""
+                },
+                {
+                    "foto": 10,
+                    "nombre": "Yucky Ducky",
+                    "rareza": "Rare",
+                    "obtencion": "Snow Day prize map, cost 7 prize bulbs",
+                    "extra": ""
+                },
+                {
+                    "foto": 11,
+                    "nombre": "Mask for Trouble",
+                    "rareza": "Super Rare",
+                    "obtencion": "Garden Party prize map, cost 7 prize bulbs",
+                    "extra": ""
+                }
+            ]
         }
     ]
 }
