@@ -7,3 +7,37 @@ body{
     color:white;
     scrollbar-width: none;
 }
+
+#title-dialog{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  #title-dialog > button{
+    width: 50px;
+    height: 25px;
+  }
+  #dialogo{
+    padding:5px 25px;
+    border:none;
+    border-radius: 20px;
+    background-color: #fff;
+  }
+  div:where(.swal2-container) .swal2-html-container {
+    text-align: left !important;
+  }
+  
+  /*Rarezas*/
+  #Common{
+    color:rgb(37, 151, 46);
+  }
+  #Rare{
+    color:#638ECB;
+  }
+  #SuperRare{
+    color:#5433A9;
+  }
+  #Legendary{
+    /*color:#FFBA08;*/
+    color:#FAA307;
+  }
