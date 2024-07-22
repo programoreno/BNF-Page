@@ -254,9 +254,122 @@
                     "extra": "Don't call him a zebra. He only responds to Z-Chomp."
                 }
             ],
-            "sets":[],
-            "hats":[]
-            
+            "sets":[
+                {
+                    "foto": 1,
+                    "nombre": "Bitey Bride",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "This Set is used by Elusive Foe Mrs. Veilbiter. The mouth piece of this set is used for the Glutonous Chomper."
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Cousin Ivan",
+                    "rareza": "Super Rare",
+                    "obtencion": "Purchasable from Rux for 600 rainbow stars",
+                    "extra": "For his uncouth appearance, you should see his multi-media paintings. Expressive!"
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Captain Crabcakes",
+                    "rareza": "Rare",
+                    "obtencion": "Opening Golden Chests in plant Town Center",
+                    "extra": "This Set is used by Dave Manor NPC Dale Boat."
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Merrymaker",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "This set is used by Battle Chest host Bingo-Bongo."
+                }
+            ],
+            "hats":[
+                {
+                    "foto": 1,
+                    "nombre": "Count Wormula",
+                    "rareza": "Rare",
+                    "obtencion": "Lawn of Doom prize map, cost 7 prize bulbs",
+                    "extra": "This hat's name is a play on Count Dracula."
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Feastivus Partyhat",
+                    "rareza": "Super Rare",
+                    "obtencion": "100% character challenge completion reward during Feastivus",
+                    "extra": ""
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Grass Punk",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "This is used by Town Center npc Land Phil."
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Leaf Cadet",
+                    "rareza": "Super Rare",
+                    "obtencion": "Defeating Olds Cool",
+                    "extra": ""
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Mister Mallow",
+                    "rareza": "Super Rare",
+                    "obtencion": "100% character challenge completion reward during Fall Food Fight",
+                    "extra": ""
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Queen of Fairies",
+                    "rareza": "Super Rare",
+                    "obtencion": "Defeating Major Problem",
+                    "extra": ""
+                },
+                {
+                    "foto": 7,
+                    "nombre": "Slug-Sub",
+                    "rareza": "Rare",
+                    "obtencion": "Fall Food Fight prize map, cost 7 prize bulbs",
+                    "extra": ""
+                },
+                {
+                    "foto": 8,
+                    "nombre": "Unicorn Party",
+                    "rareza": "Legendary",
+                    "obtencion": "Reward-O-Tron. Also purchasable from Rux for 150,000 Coins (Nintendo Switch Edition only)",
+                    "extra": ""
+                },
+                {
+                    "foto": 9,
+                    "nombre": "Unicorn Stuffy",
+                    "rareza": "Super Rare",
+                    "obtencion": "Available from Rux as a launch day gift from October 18, 2019 to November 1, 2019",
+                    "extra": "This hat is a reference to the Unicorn Chomper variant from Garden Warfare 2. This hat could also be a reference to the custom-made Unicorn Chomper plush toy that appears in Live From PopCap streams, as it would usually be placed on top of the head of the Keepin the Faith Munny, and both the plush and customization appear to be crocheted."
+                },
+                {
+                    "foto": 10,
+                    "nombre": "Velocity Cap",
+                    "rareza": "Super Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "The blue version of this Hat is used by Bounty Hunt Targets the Bitey Brothers."
+                },
+                {
+                    "foto": 11,
+                    "nombre": "Viking Sundae",
+                    "rareza": "Super Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "This Hat is used by Mount Steep Posse Candidate Champer and the yellow version is used for the Glutonous Chomper."
+                },
+                {
+                    "foto": 12,
+                    "nombre": "Windmill Wonderland",
+                    "rareza": "Super Rare",
+                    "obtencion": "Defeating Sir Biff",
+                    "extra": ""
+                }
+            ] 
         }
     ]
 }
