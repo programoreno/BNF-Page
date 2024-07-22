@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import { PlantasService } from '../../service/plantas.service';
 import { Personaje } from '../../entity/Personaje';
 
@@ -15,7 +15,7 @@ export class PresentacionComponent implements OnInit{
 
   plantas:Personaje [];
   
-  nom = 'chomper';
+  @Input() nom:string;
 
   ngOnInit(): void {
     this.plantasService.getPlantas().subscribe(dato =>{
