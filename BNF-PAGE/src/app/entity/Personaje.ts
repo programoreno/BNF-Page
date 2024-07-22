@@ -4,4 +4,6 @@ export class Personaje {
     nombre: string;
     descrip: string;
     skins: Datos[];
+    sets: Datos[];
+    hats: Datos[];
   }
