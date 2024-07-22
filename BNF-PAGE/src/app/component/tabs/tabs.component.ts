@@ -43,4 +43,10 @@ export class TabsComponent implements OnInit{
         showConfirmButton: false,
     });
   }
+
+  imageError(event: any) {
+    event.target.src = 'assets/not_found.png'
+    
+  }
+
 }
