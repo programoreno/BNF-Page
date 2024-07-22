@@ -186,7 +186,7 @@
                 {
                     "foto": 1,
                     "nombre": "Abominable Chomper",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Feastivus prize map, costs 10 Prize Bulbs",
                     "extra": "Nobody knows what's going to happen to him in the summer. Its name is a reference to the Yeti, which is also known as the Abominable Snowman. It could also be somewhat of a reference to the Yeti Chomper variant from Plants vs. Zombies: Garden Warfare 2."
                 },
@@ -200,7 +200,7 @@
                 {
                     "foto": 3,
                     "nombre": "Chomp Knight",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Summer DayZ prize map, cost 10 Prize Bulbs",
                     "extra": "Neither valiant, nor heroic, he's just a chomper stuck in metal armor."
                 },
@@ -214,7 +214,7 @@
                 {
                     "foto": 5,
                     "nombre": "Cuddle Chomper",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Reward-O-Tron 9000",
                     "extra": "With fur so soft everyone wants to know his brand of conditioner. This Costume is used by Battle Leader Teddy."
                 },
@@ -265,7 +265,7 @@
                 {
                     "foto": 2,
                     "nombre": "Cousin Ivan",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Purchasable from Rux for 600 rainbow stars",
                     "extra": "For his uncouth appearance, you should see his multi-media paintings. Expressive!"
                 },
@@ -295,7 +295,7 @@
                 {
                     "foto": 2,
                     "nombre": "Feastivus Partyhat",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "100% character challenge completion reward during Feastivus",
                     "extra": ""
                 },
@@ -309,21 +309,21 @@
                 {
                     "foto": 4,
                     "nombre": "Leaf Cadet",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Defeating Olds Cool",
                     "extra": ""
                 },
                 {
                     "foto": 5,
                     "nombre": "Mister Mallow",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "100% character challenge completion reward during Fall Food Fight",
                     "extra": ""
                 },
                 {
                     "foto": 6,
                     "nombre": "Queen of Fairies",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Defeating Major Problem",
                     "extra": ""
                 },
@@ -344,28 +344,28 @@
                 {
                     "foto": 9,
                     "nombre": "Unicorn Stuffy",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Available from Rux as a launch day gift from October 18, 2019 to November 1, 2019",
                     "extra": "This hat is a reference to the Unicorn Chomper variant from Garden Warfare 2. This hat could also be a reference to the custom-made Unicorn Chomper plush toy that appears in Live From PopCap streams, as it would usually be placed on top of the head of the Keepin the Faith Munny, and both the plush and customization appear to be crocheted."
                 },
                 {
                     "foto": 10,
                     "nombre": "Velocity Cap",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Reward-O-Tron",
                     "extra": "The blue version of this Hat is used by Bounty Hunt Targets the Bitey Brothers."
                 },
                 {
                     "foto": 11,
                     "nombre": "Viking Sundae",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Reward-O-Tron",
                     "extra": "This Hat is used by Mount Steep Posse Candidate Champer and the yellow version is used for the Glutonous Chomper."
                 },
                 {
                     "foto": 12,
                     "nombre": "Windmill Wonderland",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Defeating Sir Biff",
                     "extra": ""
                 }
