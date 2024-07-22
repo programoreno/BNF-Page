@@ -253,7 +253,9 @@
                     "obtencion": "Reward-O-Tron 9000",
                     "extra": "Don't call him a zebra. He only responds to Z-Chomp."
                 }
-            ]
+            ],
+            "sets":[],
+            "hats":[]
             
         }
     ]

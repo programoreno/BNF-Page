@@ -19,15 +19,25 @@ export class TabsComponent implements OnInit{
     sets:Datos[];
     hats:Datos[];
     
-    nom = 'peashoter';
+    nom = 'chomper';
 
     ngOnInit(): void {
       this.plantasService.getPlantas().subscribe(dato => {
         this.plantas = dato;
-        this.skins = this.plantas.flatMap(planta => planta.skins);
-        this.sets = this.plantas.flatMap(planta => planta.sets);
-        this.hats = this.plantas.flatMap(planta => planta.hats);
+        
       });
+
+      /*FILTRAR DEL JSON LA PLATA QUE QUEREMOS Y Q NOS DE SKINS, SETS Y HATS */
+      const filteredPlantas = this.plantas.filter(planta => planta.nombre === this.nom);
+
+      if (filteredPlantas.length > 0) {
+        const selectedPlanta = filteredPlantas[0];
+
+        this.skins = selectedPlanta.skins;
+        this.sets = selectedPlanta.sets;
+        this.hats = selectedPlanta.hats;
+      }
+      
     }
 
     abrir_info(titulo: string, rareza: string,obtencion: string,frase: string) {
