@@ -17,6 +17,7 @@ export class TabsComponent implements OnInit{
     plantas:Personaje [];
     skins:Datos[];
     sets:Datos[];
+    hats:Datos[];
     
     nom = 'peashoter';
 
@@ -25,6 +26,7 @@ export class TabsComponent implements OnInit{
         this.plantas = dato;
         this.skins = this.plantas.flatMap(planta => planta.skins);
         this.sets = this.plantas.flatMap(planta => planta.sets);
+        this.hats = this.plantas.flatMap(planta => planta.hats);
       });
     }
 

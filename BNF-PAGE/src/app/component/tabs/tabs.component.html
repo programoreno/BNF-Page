@@ -13,20 +13,33 @@
                 </article>
             }
         }
-    </div>
+        </div>
 
-    <h1>Sets</h1>
-    <div id="tabs">
-    @if(planta.nombre == nom){
-        @for(set of sets; track sets){
-            <article id="tabs-content">
-            <img src="assets/plants/{{planta.nombre}}/sets/{{set.foto}}.png" (error)="imageError($event)"/>
-            <h3>{{set.nombre}}</h3>
-            <a (click)="abrir_info(set.nombre,set.rareza,set.obtencion,set.extra)">View More</a>
-            </article>
+        <h1>Sets</h1>
+        <div id="tabs">
+        @if(planta.nombre == nom){
+            @for(set of sets; track sets){
+                <article id="tabs-content">
+                <img src="assets/plants/{{planta.nombre}}/sets/{{set.foto}}.png" (error)="imageError($event)"/>
+                <h3>{{set.nombre}}</h3>
+                <a (click)="abrir_info(set.nombre,set.rareza,set.obtencion,set.extra)">View More</a>
+                </article>
+            }
         }
+        </div>
+    
+        <h1>Hats</h1>
+        <div id="tabs">
+        @if(planta.nombre == nom){
+            @for(hat of hats; track hats){
+                <article id="tabs-content">
+                <img src="assets/plants/{{planta.nombre}}/hats/{{hat.foto}}.png" (error)="imageError($event)"/>
+                <h3>{{hat.nombre}}</h3>
+                <a (click)="abrir_info(hat.nombre,hat.rareza,hat.obtencion,hat.extra)">View More</a>
+                </article>
+            }
+        }
+        </div>
+    
     }
-</div>
-    }
-
 </section>

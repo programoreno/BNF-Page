@@ -35,7 +35,7 @@
                     {
                         "foto": 5,
                         "nombre": "Pea of Valiance",
-                        "rareza": "Super Rare",
+                        "rareza": "SuperRare",
                         "obtencion": "Founders Edition 4th week reward",
                         "extra": "Will joust for honor, for justice, for honor again--preferably between nine and five."
                     },
@@ -66,7 +66,7 @@
                 {
                     "foto": 2,
                     "nombre": "Cupid's Commando",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Three separate items in Valenbrainz prize map, costs 21 Prize Bulbs in total",
                     "extra": ""
                 },
@@ -91,7 +91,94 @@
                     "obtencion": "Reward-O-Tron 9000",
                     "extra": "This set's name is a portmanteau of 'Pea' and 'Egyptology.'"
                 }
+            ],
+            "hats":[
+                {
+                    "foto": 1,
+                    "nombre": "Chillbean Pinata",
+                    "rareza": "Legendary",
+                    "obtencion": "Reward-O-Tron 9000",
+                    "extra": ""
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Feastivus Partyhat",
+                    "rareza": "SuperRare",
+                    "obtencion": "100% character challenge completion reward during Feastivus",
+                    "extra": ""
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Gnomish Taco Bait",
+                    "rareza": "SuperRare",
+                    "obtencion": "Completing Best Fishing Friend's quest",
+                    "extra": ""
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Law Pea",
+                    "rareza": "SuperRare",
+                    "obtencion": "Reward-O-Tron 9000",
+                    "extra": "This Hat is used by Quest Giver Tumbleweed Ted. Its name is a reference to the Law Pea Peashooter variant."
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Leaf Cadet",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Olds Cool",
+                    "extra": ""
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Mister Mallow",
+                    "rareza": "SuperRare",
+                    "obtencion": "100% character challenge completion reward during Fall Food Fight",
+                    "extra": ""
+                },
+                {
+                    "foto": 7,
+                    "nombre": "Monster Cap",
+                    "rareza": "Rare",
+                    "obtencion": "Snow Day prize map, costs 7 Prize Bulbs",
+                    "extra": ""
+                },
+                {
+                    "foto": 8,
+                    "nombre": "Pea of Honor",
+                    "rareza": "Common",
+                    "obtencion": "Reward-O-Tron 9000",
+                    "extra": ""
+                },
+                {
+                    "foto": 9,
+                    "nombre": "Queen of Fairies",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Major Problem",
+                    "extra": ""
+                },
+                {
+                    "foto": 10,
+                    "nombre": "Skunk Rocker",
+                    "rareza": "Legendary",
+                    "obtencion": "Purchasable from Rux for 750 Rainbow Stars. Purchasable from Rux for 150,000 Coins (Nintendo Switch Edition only)",
+                    "extra": "Its name is a pun on 'skunk' and 'punk rocker.'"
+                },
+                {
+                    "foto": 11,
+                    "nombre": "Stinky the Snail",
+                    "rareza": "SuperRare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "This hat is a reference to Stinky the Snail."
+                },
+                {
+                    "foto": 12,
+                    "nombre": "Windmill Wonderland",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Sir Biff",
+                    "extra": ""
+                }
             ]
+            
             
         }
     ]
