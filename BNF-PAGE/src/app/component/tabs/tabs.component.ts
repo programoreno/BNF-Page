@@ -1,4 +1,4 @@
-import { Component, OnInit } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import { PlantasService } from '../../service/plantas.service';
 import { Personaje } from '../../entity/Personaje';
 import { Datos } from '../../entity/Datos';
@@ -19,25 +19,25 @@ export class TabsComponent implements OnInit{
     sets:Datos[];
     hats:Datos[];
     
-    nom = 'chomper';
+    @Input() nom:string;
 
     ngOnInit(): void {
       this.plantasService.getPlantas().subscribe(dato => {
         this.plantas = dato;
+
+        /*FILTRAR DEL JSON LA PLATA QUE QUEREMOS Y Q NOS DE SKINS, SETS Y HATS */
+        const filteredPlantas = this.plantas.filter(planta => planta.nombre === this.nom);
+
+        if (filteredPlantas.length > 0) {
+          const selectedPlanta = filteredPlantas[0];
+
+          this.skins = selectedPlanta.skins;
+          this.sets = selectedPlanta.sets;
+          this.hats = selectedPlanta.hats;
+        }
         
       });
 
-      /*FILTRAR DEL JSON LA PLATA QUE QUEREMOS Y Q NOS DE SKINS, SETS Y HATS */
-      const filteredPlantas = this.plantas.filter(planta => planta.nombre === this.nom);
-
-      if (filteredPlantas.length > 0) {
-        const selectedPlanta = filteredPlantas[0];
-
-        this.skins = selectedPlanta.skins;
-        this.sets = selectedPlanta.sets;
-        this.hats = selectedPlanta.hats;
-      }
-      
     }
 
     abrir_info(titulo: string, rareza: string,obtencion: string,frase: string) {

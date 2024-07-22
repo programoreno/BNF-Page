@@ -370,6 +370,56 @@
                     "extra": ""
                 }
             ] 
+        },
+        {
+            "nombre":"sunflower",
+            "descrip":"Sunflowers are the plant healers. They revive fallen allies quickly and keep everyone in the fight while providing support fire from a safe distance.",
+            "skins":[
+                {
+                    "foto": 1,
+                    "nombre": "Gingersun Flower",
+                    "rareza": "Legendary",
+                    "obtencion": "Purchasable from Rux for 1,000 rainbow stars",
+                    "extra": "A little sweet, a little spice, but to zombies she is not so nice. This Costume's internal name is 'Gingerbread'."
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Solar Eclipse",
+                    "rareza": "Common",
+                    "obtencion": "Summer Nights prize map, 10 Prize Bulbs",
+                    "extra": "She's quieter than most since seeing the dark side of the bloom."
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Sunshine Rocketeer",
+                    "rareza": "Super Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "She trained to voyage the space so she could see the sun up close. This Costume is used by Bounty Hunt Targets the Solar Sisters."
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Sun Monarch",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Every step she takes causes a gust of wind that messes up a Super Brainz's hair. This Costume is used by Battle Leader and Mount Steep Posse Candidate Pollen Kate."
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Sunny Cat",
+                    "rareza": "Super Rare",
+                    "obtencion": "Purchasable from Rux for 800 rainbow stars",
+                    "extra": "Sunny Cat dresses up for Lawn of Doom 364 days early every year. This Costume's internal name is 'Lion'."
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Flush Flower",
+                    "rareza": "Common",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "It's amazing how loud Flush Flower talks. This Costume is used by Elusive Foe Kitty Sparkles. Champion Sunflowers commonly use this costume."
+                }
+            ],
+            "sets":[]
+            
         }
     ]
 }
