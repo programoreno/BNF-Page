@@ -582,7 +582,38 @@
                     "extra": "Boy, was her face purple when she accidentally fell in that grape juice fountain."
                 }
             ],
-            "sets":[]
+            "sets":[
+                {
+                    "foto": 1,
+                    "nombre": "Arch Support",
+                    "rareza": "Super Rare",
+                    "obtencion": "Summer DayZ prize map, 28 Prize Bulbs total",
+                    "extra": ""
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Genie Summoner",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Masked Prickle",
+                    "rareza": "Rare",
+                    "obtencion": "Purchasing four individual parts from Sergeant Peel in plant Mount Steep for a total of 500 tacos",
+                    "extra": ""
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Tourist",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "This Set is used by NPC Passportia."
+                }
+            ],
+            "hats":[]
+            
             
         }
     ]
