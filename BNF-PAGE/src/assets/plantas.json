@@ -794,90 +794,79 @@
                 {
                     "foto": 1,
                     "nombre": "Captain Cannon-Pop",
-                    "rareza": "Reaction",
-                    "categoria": "Legendary",
+                    "rareza": "Legendary",
                     "obtencion": "Reward-O-Tron",
-                    "extra": ""
+                    "extra": "Reaction"
                 },
                 {
                     "foto": 2,
                     "nombre": "Feastivus Partyhat",
-                    "rareza": "Universal (plants and zombies)",
-                    "categoria": "SuperRare",
+                    "rareza": "SuperRare",
                     "obtencion": "100% character challenge completion reward during Feastivus",
-                    "extra": ""
+                    "extra": "Universal (plants and zombies)"
                 },
                 {
                     "foto": 3,
                     "nombre": "Fuzzy Finnigan",
-                    "rareza": "Spectrum",
-                    "categoria": "SuperRare",
+                    "rareza": "SuperRare",
                     "obtencion": "Reward-O-Tron",
-                    "extra": ""
+                    "extra": "Spectrum"
                 },
                 {
                     "foto": 4,
                     "nombre": "Jack-O-Cob",
-                    "rareza": "Spectrum",
-                    "categoria": "Rare",
+                    "rareza": "Rare",
                     "obtencion": "Reward-O-Tron",
-                    "extra": ""
+                    "extra": "Spectrum"
                 },
                 {
                     "foto": 5,
                     "nombre": "Leaf Cadet",
-                    "rareza": "Universal (plants)",
-                    "categoria": "SuperRare",
+                    "rareza": "SuperRare",
                     "obtencion": "Defeating Olds Cool",
-                    "extra": ""
+                    "extra": "Universal (plants)"
                 },
                 {
                     "foto": 6,
                     "nombre": "Mister Mallow",
-                    "rareza": "Universal (plants and zombies)",
-                    "categoria": "SuperRare",
+                    "rareza": "SuperRare",
                     "obtencion": "100% character challenge completion reward during Fall Food Fight",
-                    "extra": ""
+                    "extra": "Universal (plants and zombies)"
                 },
                 {
                     "foto": 7,
                     "nombre": "Mythic Minotaur",
-                    "rareza": "Reaction",
-                    "categoria": "Legendary",
+                    "rareza": "Legendary",
                     "obtencion": "Lawn of Doom prize map, cost 10 prize bulbs",
-                    "extra": ""
+                    "extra": "Reaction"
                 },
                 {
                     "foto": 8,
                     "nombre": "Pulverizing Popper",
-                    "rareza": "Spectrum",
-                    "categoria": "SuperRare",
+                    "rareza": "SuperRare",
                     "obtencion": "Reward-O-Tron",
-                    "extra": ""
+                    "extra": "Spectrum"
                 },
                 {
                     "foto": 9,
                     "nombre": "Queen of Fairies",
-                    "rareza": "Universal (plants)",
-                    "categoria": "SuperRare",
+                    "rareza": "SuperRare",
                     "obtencion": "Defeating Major Problem",
-                    "extra": ""
+                    "extra": "Universal (plants)"
                 },
                 {
                     "foto": 10,
                     "nombre": "Scare-Cob",
-                    "rareza": "Standard",
-                    "categoria": "Rare",
+                    "rareza": "Rare",
                     "obtencion": "100% character challenge completion reward during Lawn of Doom",
-                    "extra": ""
+                    "extra": "Standard"
                 },
                 {
                     "foto": 11,
                     "nombre": "Windmill Wonderland",
-                    "rareza": "Universal (plants and zombies)",
-                    "categoria": "SuperRare",
+                    "rareza": "SuperRare",
                     "obtencion": "Defeating Sir Biff",
-                    "extra": ""
+                    "extra": "Universal (plants and zombies)"
                 }
             ]
         },
@@ -889,7 +878,6 @@
                     "foto": 1,
                     "nombre": "Astral Perfection",
                     "rareza": "Legendary",
-                    "categoria": "Legendary",
                     "obtencion": "Springening prize map, 100% completion reward",
                     "extra": "She believed the universe had a plan for her. It said, \"Eat Stray Gloves.\" That can't be right."
                 },
@@ -897,7 +885,6 @@
                     "foto": 2,
                     "nombre": "Celestial Beauty",
                     "rareza": "Legendary",
-                    "categoria": "Legendary",
                     "obtencion": "Springening prize map, cost 0 prize bulbs",
                     "extra": "She's prettier, smarter, and cooler than you, but does she have six cantaloupes? I didn't think so."
                 },
@@ -905,7 +892,6 @@
                     "foto": 3,
                     "nombre": "Doom Rose",
                     "rareza": "SuperRare",
-                    "categoria": "SuperRare",
                     "obtencion": "Lawn of Doom prize map, cost 10 prize bulbs",
                     "extra": "Doom Roses only grow in a cave, at night, in October."
                 },
@@ -913,7 +899,6 @@
                     "foto": 4,
                     "nombre": "Fairy Queen",
                     "rareza": "SuperRare",
-                    "categoria": "SuperRare",
                     "obtencion": "Reward-O-Tron",
                     "extra": "Fairy Queens love lots about the non-fairy world, especially skee ball.\nThis Costume is used by Bounty Hunt Target Queenigma."
                 },
@@ -921,7 +906,6 @@
                     "foto": 5,
                     "nombre": "Peacedrop Petals",
                     "rareza": "Rare",
-                    "categoria": "Rare",
                     "obtencion": "Reward-O-Tron",
                     "extra": "Peacedrop drops the peace only when fighting zombies."
                 },
@@ -929,7 +913,6 @@
                     "foto": 6,
                     "nombre": "Queen Bun-Bun",
                     "rareza": "Rare",
-                    "categoria": "Rare",
                     "obtencion": "Purchasable from Rux for 550 rainbow stars",
                     "extra": "She reigns over love, rabbits, and microwave burritos.\nThis Costume's internal name is \"LoveBunny\""
                 },
@@ -937,7 +920,6 @@
                     "foto": 7,
                     "nombre": "Ivory Rose",
                     "rareza": "Common",
-                    "categoria": "Common",
                     "obtencion": "Reward-O-Tron",
                     "extra": "How she eats that many hot dogs and stays so spotless, we'll never know.\nThis costume is used by Battle Leader Queen Capra.\nChampion Roses commonly use this costume."
                 }
@@ -947,7 +929,6 @@
                     "foto": 1,
                     "nombre": "Royal Rose",
                     "rareza": "SuperRare",
-                    "categoria": "SuperRare",
                     "obtencion": "Purchasable from Sergeant Peel in plant Town Center for 300 tacos after unlocking 35 medals for the region",
                     "extra": "This costume is used by Battle Leader Queen Capra."
                 },
@@ -955,7 +936,6 @@
                     "foto": 2,
                     "nombre": "Fresh Princess",
                     "rareza": "Rare",
-                    "categoria": "Rare",
                     "obtencion": "Reward-O-Tron",
                     "extra": "This costume is a reference to actor and rapper Will Smith's rap pseudonym \"The Fresh Prince\"."
                 },
@@ -963,7 +943,6 @@
                     "foto": 3,
                     "nombre": "Superstar",
                     "rareza": "Rare",
-                    "categoria": "Rare",
                     "obtencion": "Reward-O-Tron",
                     "extra": ""
                 }
@@ -973,7 +952,6 @@
                     "foto": 1,
                     "nombre": "Cheese Platter",
                     "rareza": "Common",
-                    "categoria": "Spectrum",
                     "obtencion": "Purchasable from Sergeant Peel in Mount Steep",
                     "extra": ""
                 },
@@ -981,91 +959,251 @@
                     "foto": 2,
                     "nombre": "Rose Partyhat",
                     "rareza": "SuperRare",
-                    "categoria": "Universal (plants and zombies)",
                     "obtencion": "100% character challenge completion reward during Feastivus",
-                    "extra": ""
+                    "extra": "Universal (plants and zombies)"
                 },
                 {
                     "foto": 3,
                     "nombre": "Feastivus Topper",
                     "rareza": "Rare",
-                    "categoria": "Standard",
                     "obtencion": "Feastivus prize map, costs 7 prize bulbs",
-                    "extra": ""
+                    "extra": "Standard"
                 },
                 {
                     "foto": 4,
                     "nombre": "Floral Topper",
                     "rareza": "Rare",
-                    "categoria": "Spectrum",
                     "obtencion": "Reward-O-Tron",
-                    "extra": ""
+                    "extra": "Spectrum"
                 },
                 {
                     "foto": 5,
                     "nombre": "Fortune Cap",
                     "rareza": "SuperRare",
-                    "categoria": "Spectrum",
                     "obtencion": "Reward-O-Tron",
-                    "extra": ""
+                    "extra": "Spectrum"
                 },
                 {
                     "foto": 6,
                     "nombre": "Fortune Speller",
                     "rareza": "Rare",
-                    "categoria": "Standard",
                     "obtencion": "Purchasable from Rux for 150 Rainbow Stars",
-                    "extra": ""
+                    "extra": "Standard"
                 },
                 {
                     "foto": 7,
                     "nombre": "Leaf Cadet Rose",
                     "rareza": "SuperRare",
-                    "categoria": "Universal (plants)",
                     "obtencion": "Defeating Olds Cool",
-                    "extra": ""
+                    "extra": "Universal (plants)"
                 },
                 {
                     "foto": 8,
                     "nombre": "Legendary Presto",
                     "rareza": "Legendary",
-                    "categoria": "Reaction",
                     "obtencion": "Reward-O-Tron",
-                    "extra": ""
+                    "extra": "Reaction"
                 },
                 {
                     "foto": 9,
                     "nombre": "Rose Mister Mallow",
                     "rareza": "SuperRare",
-                    "categoria": "Universal (plants and zombies)",
                     "obtencion": "100% character challenge completion reward during Fall Food Fight",
-                    "extra": ""
+                    "extra": "Universal (plants and zombies)"
                 },
                 {
                     "foto": 10,
                     "nombre": "Queen of Fairies Rose",
                     "rareza": "SuperRare",
-                    "categoria": "Universal (plants)",
                     "obtencion": "Defeating Major Problem",
-                    "extra": ""
+                    "extra": "Universal (plants)"
                 },
                 {
                     "foto": 11,
                     "nombre": "Whip Top",
                     "rareza": "Rare",
-                    "categoria": "Spectrum",
                     "obtencion": "Reward-O-Tron",
-                    "extra": ""
+                    "extra": "Spectrum"
                 },
                 {
                     "foto": 12,
                     "nombre": "Windmill Wonderland Rose",
                     "rareza": "SuperRare",
-                    "categoria": "Universal (plants and zombies)",
                     "obtencion": "Defeating Sir Biff",
-                    "extra": ""
+                    "extra": "Universal (plants and zombies)"
                 }
             ]
+        },
+        {
+            "nombre":"citron",
+            "descrip":"Citrons are the mobile team defenders. The Peel Shield provides cover for allies. Best to hold strategic locations or help the team break through tough chokepoints.",
+            "skins":[
+                {
+                    "foto": 1,
+                    "nombre": "Choco-Tron",
+                    "rareza": "SuperRare",
+                    "obtencion": "Reward-O-Tron 9000",
+                    "extra": "This Costume is a reference to Terry's Chocolate Orange, an orange shaped chocolate confection infused with orange oil."
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Citron 5000",
+                    "rareza": "Rare",
+                    "obtencion": "Luck O' the Zombie prize map, costs 10 Prize Bulbs",
+                    "extra": "From a distant future where neon is back in style. "
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Citronaut",
+                    "rareza": "Legendary",
+                    "obtencion": "Purchasable from Rux for 1,000 Rainbow Stars",
+                    "extra": "He didn't get the memo that the battle's not in space anymore..."
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Citronian Ancient",
+                    "rareza": "Legendary",
+                    "obtencion": "Purchasable from Rux for 1,000 Rainbow Stars",
+                    "extra": "Being around since the earliest civilizations makes him a GREAT trivia contest partner."
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Orange Rind Cowboy",
+                    "rareza": "Rare",
+                    "obtencion": "Purchasable from Rux for 550 Rainbow Stars",
+                    "extra": "His zest for justice is his most appealing quality."
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Pand-Orange",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron 9000",
+                    "extra": "A futuristic bounty hunter dressed as a panda can mean only one thing: panda outlaws! CUTE!"
+                },
+                {
+                    "foto": 7,
+                    "nombre": "Sublime Lime",
+                    "rareza": "Common",
+                    "obtencion": "Reward-O-Tron 9000",
+                    "extra": "Sublime Lime thinks everything rhymes with lime."
+                },
+                {
+                    "foto": 8,
+                    "nombre": "Sci-Fi Spy Guy",
+                    "rareza": "Legendary",
+                    "obtencion": "Purchasable from Rux for 1,000 Rainbow Stars",
+                    "extra": "Sci-Fi Spy Guy comes from the future to warn you not to get bangs, Karen."
+                }
+            ],
+            "sets":[
+                {
+                    "foto": 1,
+                    "nombre": "Citrus-Cyber",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron 9000",
+                    "extra": ""
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Nerdy But Nice",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron 9000",
+                    "extra": ""
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Lawful Good",
+                    "rareza": "Rare",
+                    "obtencion": "Purchasable from Sergeant Peel in Mount Steep for 300 Sheriff Badges after unlocking 35 medals for the region",
+                    "extra": "This set is a reference to character alignments in Dungeons and Dragons. This set is used by Sergeant Peel."
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Orange & Mellow",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron 9000",
+                    "extra": "This set is used by Mark."
+                }
+            ],
+            "hats":[
+                {
+                    "foto": 1,
+                    "nombre": "Bagel Halo",
+                    "rareza": "Legendary",
+                    "obtencion": "Reward-O-Tron 9000",
+                    "extra": "Reaction"
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Beauty Bow",
+                    "rareza": "Common",
+                    "obtencion": "Reward-O-Tron 9000",
+                    "extra": "Spectrum"
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Feastivus Partyhat",
+                    "rareza": "SuperRare",
+                    "obtencion": "100% character challenge completion reward during Feastivus",
+                    "extra": "Universal (plants and zombies)"
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Feathered Sun Cap",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron 9000",
+                    "extra": "Spectrum"
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Juiced Beetle",
+                    "rareza": "SuperRare",
+                    "obtencion": "Valenbrainz prize map, costs 7 Prize Bulbs",
+                    "extra": "Spectrum"
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Leaf Cadet",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Olds Cool",
+                    "extra": "Universal (plants)"
+                },
+                {
+                    "foto": 7,
+                    "nombre": "Makeshift Reindeer",
+                    "rareza": "Rare",
+                    "obtencion": "Feastivus prize map, costs 5 Prize Bulbs",
+                    "extra": "Standard"
+                },
+                {
+                    "foto": 8,
+                    "nombre": "Mister Mallow",
+                    "rareza": "SuperRare",
+                    "obtencion": "100% character challenge completion reward during Fall Food Fight",
+                    "extra": "Universal (plants and zombies)"
+                },
+                {
+                    "foto": 9,
+                    "nombre": "Queen of Fairies",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Major Problem",
+                    "extra": "Universal (plants)"
+                },
+                {
+                    "foto": 10,
+                    "nombre": "Werble the Turtle",
+                    "rareza": " SuperRare",
+                    "obtencion": "Reward-O-Tron 9000",
+                    "extra": "Spectrum"
+                },
+                {
+                    "foto": 11,
+                    "nombre": "Windmill Wonderland",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Sir Biff",
+                    "extra": "Universal (plants and zombies)"
+                }
+            ] 
         }
     ]
 }
