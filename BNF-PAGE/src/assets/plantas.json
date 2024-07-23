@@ -752,8 +752,134 @@
                     "obtencion": "Purchasing the Season's Eatingz Upgrade",
                     "extra": "Undisputed master of the underground wrap battle. The description is a pun of 'rap battle' and 'wrap.'"
                 }
+            ],
+            "sets":[
+                {
+                    "foto": 1,
+                    "nombre": "Corn Conqueror",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Corny",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "This set is used by Town Center NPC Corny Corn."
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Grand-Masked Cob",
+                    "rareza": "Super Rare",
+                    "obtencion": "Purchasable from Rux for 600 Rainbow Stars",
+                    "extra": "If you need justice and a big 'C' carved into something, call him. The appearance, description, and internal name of this set, 'Zorro,' is a reference to Zorro."
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Royal Candy Corn",
+                    "rareza": "Super Rare",
+                    "obtencion": "Four separate items in Fall Food Fight prize map, cost 28 prize bulbs in total",
+                    "extra": "The name of the costume is a pun on the 'corn' in Candy Corn."
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Officer Cob",
+                    "rareza": "Super Rare",
+                    "obtencion": "Purchasable from Rux for 600 Rainbow Stars",
+                    "extra": "Officer Cob does things by the book, and that book is 'Good Policing'--which he wrote!"
+                }
+            ],
+            "hats":[
+                {
+                    "foto": 1,
+                    "nombre": "Captain Cannon-Pop",
+                    "rareza": "Reaction",
+                    "categoria": "Legendary",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Feastivus Partyhat",
+                    "rareza": "Universal (plants and zombies)",
+                    "categoria": "Super Rare",
+                    "obtencion": "100% character challenge completion reward during Feastivus",
+                    "extra": ""
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Fuzzy Finnigan",
+                    "rareza": "Spectrum",
+                    "categoria": "Super Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Jack-O-Cob",
+                    "rareza": "Spectrum",
+                    "categoria": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Leaf Cadet",
+                    "rareza": "Universal (plants)",
+                    "categoria": "Super Rare",
+                    "obtencion": "Defeating Olds Cool",
+                    "extra": ""
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Mister Mallow",
+                    "rareza": "Universal (plants and zombies)",
+                    "categoria": "Super Rare",
+                    "obtencion": "100% character challenge completion reward during Fall Food Fight",
+                    "extra": ""
+                },
+                {
+                    "foto": 7,
+                    "nombre": "Mythic Minotaur",
+                    "rareza": "Reaction",
+                    "categoria": "Legendary",
+                    "obtencion": "Lawn of Doom prize map, cost 10 prize bulbs",
+                    "extra": ""
+                },
+                {
+                    "foto": 8,
+                    "nombre": "Pulverizing Popper",
+                    "rareza": "Spectrum",
+                    "categoria": "Super Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 9,
+                    "nombre": "Queen of Fairies",
+                    "rareza": "Universal (plants)",
+                    "categoria": "Super Rare",
+                    "obtencion": "Defeating Major Problem",
+                    "extra": ""
+                },
+                {
+                    "foto": 10,
+                    "nombre": "Scare-Cob",
+                    "rareza": "Standard",
+                    "categoria": "Rare",
+                    "obtencion": "100% character challenge completion reward during Lawn of Doom",
+                    "extra": ""
+                },
+                {
+                    "foto": 11,
+                    "nombre": "Windmill Wonderland",
+                    "rareza": "Universal (plants and zombies)",
+                    "categoria": "Super Rare",
+                    "obtencion": "Defeating Sir Biff",
+                    "extra": ""
+                }
             ]
-            
         }
     ]
 }

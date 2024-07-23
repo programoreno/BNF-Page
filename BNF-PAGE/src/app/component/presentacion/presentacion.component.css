@@ -73,3 +73,8 @@
         border: 10px solid rgb(255,255,255,0.2);
 	}
 }
+
+p > a{
+    text-decoration: none;
+    color:white;
+}
