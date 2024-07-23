@@ -771,21 +771,21 @@
                 {
                     "foto": 3,
                     "nombre": "Grand-Masked Cob",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Purchasable from Rux for 600 Rainbow Stars",
                     "extra": "If you need justice and a big 'C' carved into something, call him. The appearance, description, and internal name of this set, 'Zorro,' is a reference to Zorro."
                 },
                 {
                     "foto": 4,
                     "nombre": "Royal Candy Corn",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Four separate items in Fall Food Fight prize map, cost 28 prize bulbs in total",
                     "extra": "The name of the costume is a pun on the 'corn' in Candy Corn."
                 },
                 {
                     "foto": 5,
                     "nombre": "Officer Cob",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Purchasable from Rux for 600 Rainbow Stars",
                     "extra": "Officer Cob does things by the book, and that book is 'Good Policing'--which he wrote!"
                 }
@@ -803,7 +803,7 @@
                     "foto": 2,
                     "nombre": "Feastivus Partyhat",
                     "rareza": "Universal (plants and zombies)",
-                    "categoria": "Super Rare",
+                    "categoria": "SuperRare",
                     "obtencion": "100% character challenge completion reward during Feastivus",
                     "extra": ""
                 },
@@ -811,7 +811,7 @@
                     "foto": 3,
                     "nombre": "Fuzzy Finnigan",
                     "rareza": "Spectrum",
-                    "categoria": "Super Rare",
+                    "categoria": "SuperRare",
                     "obtencion": "Reward-O-Tron",
                     "extra": ""
                 },
@@ -827,7 +827,7 @@
                     "foto": 5,
                     "nombre": "Leaf Cadet",
                     "rareza": "Universal (plants)",
-                    "categoria": "Super Rare",
+                    "categoria": "SuperRare",
                     "obtencion": "Defeating Olds Cool",
                     "extra": ""
                 },
@@ -835,7 +835,7 @@
                     "foto": 6,
                     "nombre": "Mister Mallow",
                     "rareza": "Universal (plants and zombies)",
-                    "categoria": "Super Rare",
+                    "categoria": "SuperRare",
                     "obtencion": "100% character challenge completion reward during Fall Food Fight",
                     "extra": ""
                 },
@@ -851,7 +851,7 @@
                     "foto": 8,
                     "nombre": "Pulverizing Popper",
                     "rareza": "Spectrum",
-                    "categoria": "Super Rare",
+                    "categoria": "SuperRare",
                     "obtencion": "Reward-O-Tron",
                     "extra": ""
                 },
@@ -859,7 +859,7 @@
                     "foto": 9,
                     "nombre": "Queen of Fairies",
                     "rareza": "Universal (plants)",
-                    "categoria": "Super Rare",
+                    "categoria": "SuperRare",
                     "obtencion": "Defeating Major Problem",
                     "extra": ""
                 },
@@ -875,11 +875,74 @@
                     "foto": 11,
                     "nombre": "Windmill Wonderland",
                     "rareza": "Universal (plants and zombies)",
-                    "categoria": "Super Rare",
+                    "categoria": "SuperRare",
                     "obtencion": "Defeating Sir Biff",
                     "extra": ""
                 }
             ]
+        },
+        {
+            "nombre":"rose",
+            "descrip":"Roses support the plants with boosts to speed and damage. Their Goatify spell is great at making enemies scatter.",
+            "skins":[
+                {
+                    "foto": 1,
+                    "nombre": "Astral Perfection",
+                    "rareza": "Legendary",
+                    "categoria": "Legendary",
+                    "obtencion": "Springening prize map, 100% completion reward",
+                    "extra": "She believed the universe had a plan for her. It said, \"Eat Stray Gloves.\" That can't be right."
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Celestial Beauty",
+                    "rareza": "Legendary",
+                    "categoria": "Legendary",
+                    "obtencion": "Springening prize map, cost 0 prize bulbs",
+                    "extra": "She's prettier, smarter, and cooler than you, but does she have six cantaloupes? I didn't think so."
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Doom Rose",
+                    "rareza": "SuperRare",
+                    "categoria": "SuperRare",
+                    "obtencion": "Lawn of Doom prize map, cost 10 prize bulbs",
+                    "extra": "Doom Roses only grow in a cave, at night, in October."
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Fairy Queen",
+                    "rareza": "SuperRare",
+                    "categoria": "SuperRare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Fairy Queens love lots about the non-fairy world, especially skee ball.\nThis Costume is used by Bounty Hunt Target Queenigma."
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Peacedrop Petals",
+                    "rareza": "Rare",
+                    "categoria": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Peacedrop drops the peace only when fighting zombies."
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Queen Bun-Bun",
+                    "rareza": "Rare",
+                    "categoria": "Rare",
+                    "obtencion": "Purchasable from Rux for 550 rainbow stars",
+                    "extra": "She reigns over love, rabbits, and microwave burritos.\nThis Costume's internal name is \"LoveBunny\""
+                },
+                {
+                    "foto": 7,
+                    "nombre": "Ivory Rose",
+                    "rareza": "Common",
+                    "categoria": "Common",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "How she eats that many hot dogs and stays so spotless, we'll never know.\nThis costume is used by Battle Leader Queen Capra.\nChampion Roses commonly use this costume."
+                }
+            ]
+            
         }
     ]
 }
