@@ -534,6 +534,56 @@
                     "extra": ""
                 }
             ]
+        },
+        {
+            "nombre":"cactus",
+            "descrip":"Long range specialists. Use Petal Propeller to get to high ground or take to the air with your flying garlic to attack from above.",
+            "skins":[
+                {
+                    "foto": 1,
+                    "nombre": "Blush Cactus",
+                    "rareza": "Common",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "If she felt embarrassed, you'd never know it."
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Cactiraffe",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Don't ask why she's dressed like a giraffe--it's private. This Costume's name is a portmanteau of 'cactus' and 'giraffe.' This Costume is used by Battle Leader No-Neck Raffi."
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Cactus-Ra",
+                    "rareza": "Legendary",
+                    "obtencion": "Purchasable from Rux for 1,000 Rainbow Stars",
+                    "extra": "An ancient Cactus who loves cats, bugs, and triangles--in that order. This Costume's internal name is 'Egypt.'"
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Empress Thorn",
+                    "rareza": "SuperRare",
+                    "obtencion": "Purchasable from Rux for 800 Rainbow Stars",
+                    "extra": "Let them eat cake--with thorn sprinkles! Both her description and internal name, 'Antoinette,' are a reference to French Monarch 'Marie Antoinette.'"
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Prickle Overlord",
+                    "rareza": "SuperRare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "She rules with a prickly, well, everything! This Costume is used by Funderdome Battle Arena host Harmela."
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Violet Femme",
+                    "rareza": "Common",
+                    "obtencion": "Birthdayz Prize map, costs 10 Prize bulbs",
+                    "extra": "Boy, was her face purple when she accidentally fell in that grape juice fountain."
+                }
+            ],
+            "sets":[]
+            
         }
     ]
 }
