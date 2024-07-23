@@ -586,7 +586,7 @@
                 {
                     "foto": 1,
                     "nombre": "Arch Support",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Summer DayZ prize map, 28 Prize Bulbs total",
                     "extra": ""
                 },
@@ -612,9 +612,92 @@
                     "extra": "This Set is used by NPC Passportia."
                 }
             ],
-            "hats":[]
-            
-            
+            "hats":[
+                {
+                    "foto": 1,
+                    "nombre": "Dessert Fox",
+                    "rareza": "Legendary",
+                    "obtencion": "Birthdayz Prize map, costs 20 Prize bulbs",
+                    "extra": ""
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Cactus partyhat",
+                    "rareza": "SuperRare",
+                    "obtencion": "100% character challenge completion reward during Feastivus",
+                    "extra": "Universal (plants and zombies)"
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Fruit Noggin",
+                    "rareza": "Common",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Goggles of the Ancients",
+                    "rareza": "SuperRare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Spectrum"
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Hydrant-Helm",
+                    "rareza": "SuperRare",
+                    "obtencion": "Purchasable from Sergeant Peel in plant Town Center",
+                    "extra": "Spectrum"
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Leaf Cadet",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Olds Cool",
+                    "extra": "Universal (plants)"
+                },
+                {
+                    "foto": 7,
+                    "nombre": "Cactus mister mallow",
+                    "rareza": "SuperRare",
+                    "obtencion": "100% character challenge completion reward during Fall Food Fight",
+                    "extra": "Universal (plants and zombies)"
+                },
+                {
+                    "foto": 8,
+                    "nombre": "Prickle Witch",
+                    "rareza": "Rare",
+                    "obtencion": "Lawn of Doom prize map, costs 5 prize bulbs",
+                    "extra": "Standard"
+                },
+                {
+                    "foto": 9,
+                    "nombre": "Queen of Fairies cactus",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Major Problem",
+                    "extra": "Universal (plants)"
+                },
+                {
+                    "foto": 10,
+                    "nombre": "Spudow! hat",
+                    "rareza": "Legendary",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Reaction"
+                },
+                {
+                    "foto": 11,
+                    "nombre": "Succulent Braids",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Spectrum. This Hat is used by Quest Giver Exposition Al."
+                },
+                {
+                    "foto": 12,
+                    "nombre": "Windmill Wonderland cactus",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Sir Biff",
+                    "extra": "Universal (plants and zombies)"
+                }
+            ]
         }
     ]
 }
