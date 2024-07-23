@@ -698,6 +698,62 @@
                     "extra": "Universal (plants and zombies)"
                 }
             ]
+        },
+        {
+            "nombre":"kernel corn",
+            "descrip":"Raised in the military tradition, Kernel Corns come off cold as frozen niblets, but their hearts are as warm and soft as melted butter.",
+            "skins":[
+                {
+                    "foto": 1,
+                    "nombre": "Ancient Grains",
+                    "rareza": "SuperRare",
+                    "obtencion": "Purchasable from Rux for 800 Rainbow Stars, Purchasable from Rux for 160,000 coins (Nintendo Switch Edition only)",
+                    "extra": "Is he really ancient? Or is he just not into showers? Both, probably. This Costume's internal name is 'CaveMan.'"
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Blade of the Beetle",
+                    "rareza": "Legendary",
+                    "obtencion": "Valenbrainz prize map completion reward",
+                    "extra": "Available to cut the ribbon at grand-opening ceremonies."
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Corn Brotherhood",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Corn Brotherhood are loyal to Purple Grain and sad-corn-core music. This costume is used by Dave Manor NPC Sour Corn."
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Foodal Lord Dracornius",
+                    "rareza": "Legendary",
+                    "obtencion": "Valenbrainz prize map, cost 20 prize bulbs, Also purchasable from Rux for 200,000 Coins (Nintendo Switch Edition only)",
+                    "extra": "He lives by a code, and that code is '1-2-3-4-#.' The name is a pun of 'feudal lord,' 'corn,' and 'draconian.'"
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Purple grain",
+                    "rareza": "Common",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Purple Grain makes sweet music for your ears. This Costume's name and description is a pun on the famous Prince song 'Purple Rain' and 'grain.' This Costume is mentioned in the Corn Brotherhood's description."
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Blue Bull",
+                    "rareza": "Rare",
+                    "obtencion": "Purchasable from Sergeant Peel in Mount Steep for 500 badges after unlocking all 50 medals for the region",
+                    "extra": "Don't wave a red cape in front of him--he lost one ages ago and he's still sad about it. This Costume is used by Battle Leader Bluehorn. The Costume's name could also be a parody of the energy drink 'Red Bull.'"
+                },
+                {
+                    "foto": 7,
+                    "nombre": "Wrapping Corn",
+                    "rareza": "SuperRare",
+                    "obtencion": "Purchasing the Season's Eatingz Upgrade",
+                    "extra": "Undisputed master of the underground wrap battle. The description is a pun of 'rap battle' and 'wrap.'"
+                }
+            ]
+            
         }
     ]
 }
