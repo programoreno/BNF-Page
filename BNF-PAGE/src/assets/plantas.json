@@ -946,8 +946,8 @@
                 {
                     "foto": 1,
                     "nombre": "Royal Rose",
-                    "rareza": "Super Rare",
-                    "categoria": "Super Rare",
+                    "rareza": "SuperRare",
+                    "categoria": "SuperRare",
                     "obtencion": "Purchasable from Sergeant Peel in plant Town Center for 300 tacos after unlocking 35 medals for the region",
                     "extra": "This costume is used by Battle Leader Queen Capra."
                 },
@@ -980,7 +980,7 @@
                 {
                     "foto": 2,
                     "nombre": "Rose Partyhat",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "categoria": "Universal (plants and zombies)",
                     "obtencion": "100% character challenge completion reward during Feastivus",
                     "extra": ""
@@ -1004,7 +1004,7 @@
                 {
                     "foto": 5,
                     "nombre": "Fortune Cap",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "categoria": "Spectrum",
                     "obtencion": "Reward-O-Tron",
                     "extra": ""
@@ -1020,7 +1020,7 @@
                 {
                     "foto": 7,
                     "nombre": "Leaf Cadet Rose",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "categoria": "Universal (plants)",
                     "obtencion": "Defeating Olds Cool",
                     "extra": ""
@@ -1036,7 +1036,7 @@
                 {
                     "foto": 9,
                     "nombre": "Rose Mister Mallow",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "categoria": "Universal (plants and zombies)",
                     "obtencion": "100% character challenge completion reward during Fall Food Fight",
                     "extra": ""
@@ -1044,7 +1044,7 @@
                 {
                     "foto": 10,
                     "nombre": "Queen of Fairies Rose",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "categoria": "Universal (plants)",
                     "obtencion": "Defeating Major Problem",
                     "extra": ""
@@ -1060,7 +1060,7 @@
                 {
                     "foto": 12,
                     "nombre": "Windmill Wonderland Rose",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "categoria": "Universal (plants and zombies)",
                     "obtencion": "Defeating Sir Biff",
                     "extra": ""
