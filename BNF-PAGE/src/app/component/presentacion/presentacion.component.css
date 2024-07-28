@@ -13,6 +13,21 @@
 
 }
 
+@media(max-width:1300px){
+    #page{
+        flex-direction: column;
+    }
+    #page img{
+        transform:scale(65%);
+    }
+    #home-content{
+        padding: 0 20px ;
+    }
+    #home-content > #explain{
+        width: 100% !important;
+    }
+}
+
 @media (min-width:950px) {
     #tabs{
       align-items: center;

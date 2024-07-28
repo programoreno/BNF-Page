@@ -2,11 +2,12 @@ import { Component, OnInit } from '@angular/core';
 import { RouterLink } from '@angular/router';
 import { PlantasService } from '../../service/plantas.service';
 import { Personaje } from '../../entity/Personaje';
+import { CommonModule } from '@angular/common';
 
 @Component({
   selector: 'app-plantas',
   standalone: true,
-  imports: [RouterLink],
+  imports: [RouterLink,CommonModule],
   templateUrl: './plantas.component.html',
   styleUrl: './plantas.component.css'
 })
