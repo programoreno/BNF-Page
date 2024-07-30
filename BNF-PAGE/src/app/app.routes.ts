@@ -2,10 +2,14 @@ import { Routes } from '@angular/router';
 import { PlantasComponent } from './pages/plantas/plantas.component';
 import { HomeComponent } from './pages/home/home.component';
 import { AlbunPlantasComponent } from './pages/albun-plantas/albun-plantas.component';
+import { ZombiesComponent } from './pages/zombies/zombies.component';
+import { AlbunZombiesComponent } from './pages/albun-zombies/albun-zombies.component';
 
 export const routes: Routes = [
     {path : 'home', component:HomeComponent},
     {path : '', redirectTo:'home',pathMatch:'full'},
     {path : 'plantas', component:PlantasComponent},
-    {path : 'plantas/:planta', component:AlbunPlantasComponent},
+    {path : 'plantas/:personaje', component:AlbunPlantasComponent},
+    {path : 'zombies', component:ZombiesComponent},
+    {path : 'zombies/:personaje', component:AlbunZombiesComponent},
 ];
