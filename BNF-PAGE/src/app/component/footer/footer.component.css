@@ -1,0 +1,13 @@
+section{
+    height: 350px;
+    background-color: red;
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 20px;
+}
+section a {
+    font-family: "Blaka", system-ui;
+    font-size: 40px;
+    color: white;
+    text-decoration: none;
+}
