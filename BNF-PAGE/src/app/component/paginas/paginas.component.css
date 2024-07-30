@@ -1,0 +1,18 @@
+section{
+    height: 250px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    background: linear-gradient(to right, #F4D03F, #16A085);
+}
+
+section img{
+    transition: 0.5s;
+    transform: scale(75%);
+}
+section img:hover{
+    transition: 0.5s;
+    transform: scale(100%);
+}

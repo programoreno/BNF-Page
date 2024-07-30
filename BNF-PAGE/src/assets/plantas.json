@@ -3,6 +3,7 @@
         {
             "nombre":"peashoter",
             "descrip":"Peashooters are highly versatile plant combatants. They provide plenty of explosive damage and are effective against smaller targets.",
+            "clase":"ataque",
             "skins":[
                     {
                         "foto": 1,
@@ -182,6 +183,7 @@
         {
             "nombre":"chomper",
             "descrip":"Close range attacker that can snare and slow opponents and can Burrow underground to instantly vanquish opponents. Don't let them see you coming!",
+            "clase":"ataque",
             "skins":[
                 {
                     "foto": 1,
@@ -373,6 +375,7 @@
         },
         {
             "nombre":"sunflower",
+            "clase":"apoyo",
             "descrip":"Sunflowers are the plant healers. They revive fallen allies quickly and keep everyone in the fight while providing support fire from a safe distance.",
             "skins":[
                 {
@@ -538,6 +541,7 @@
         {
             "nombre":"cactus",
             "descrip":"Long range specialists. Use Petal Propeller to get to high ground or take to the air with your flying garlic to attack from above.",
+            "clase":"defensa",
             "skins":[
                 {
                     "foto": 1,
@@ -702,6 +706,7 @@
         {
             "nombre":"kernel corn",
             "descrip":"Raised in the military tradition, Kernel Corns come off cold as frozen niblets, but their hearts are as warm and soft as melted butter.",
+            "clase":"ataque",
             "skins":[
                 {
                     "foto": 1,
@@ -873,6 +878,7 @@
         {
             "nombre":"rose",
             "descrip":"Roses support the plants with boosts to speed and damage. Their Goatify spell is great at making enemies scatter.",
+            "clase":"apoyo",
             "skins":[
                 {
                     "foto": 1,
@@ -1037,6 +1043,7 @@
         {
             "nombre":"citron",
             "descrip":"Citrons are the mobile team defenders. The Peel Shield provides cover for allies. Best to hold strategic locations or help the team break through tough chokepoints.",
+            "clase":"defensa",
             "skins":[
                 {
                     "foto": 1,

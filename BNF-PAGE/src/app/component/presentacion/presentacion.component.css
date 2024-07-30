@@ -93,3 +93,16 @@ p > a{
     text-decoration: none;
     color:white;
 }
+.clas{
+    display: flex;
+    margin-top:-20px;
+    margin-left: -20px;
+}
+.clase{
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 20px;
+}
+.ima{
+    transform: scale(50%);
+}

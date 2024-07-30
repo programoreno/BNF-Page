@@ -2,6 +2,7 @@ import { Component, OnInit } from '@angular/core';
 import { PresentacionComponent } from '../../component/presentacion/presentacion.component';
 import { TabsComponent } from '../../component/tabs/tabs.component';
 import { ActivatedRoute } from '@angular/router';
+import { Router } from 'express';
 
 @Component({
   selector: 'app-albun-plantas',
@@ -17,7 +18,7 @@ export class AlbunPlantasComponent implements OnInit{
   nom:string;
 
   ngOnInit(): void {
-    this.nom = this.route.snapshot.params['planta'];
+    this.nom = this.route.snapshot.params['personaje'];
   }
 
 }
