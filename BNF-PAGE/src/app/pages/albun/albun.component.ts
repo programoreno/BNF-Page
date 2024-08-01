@@ -25,7 +25,6 @@ export class AlbunComponent implements OnInit{
     this.team = this.route.snapshot.params['pagina'];
     this.personajesService.getPersonajes(this.team).subscribe(dato =>{
       this.personajes = dato;
-      console.log(dato);
     });
     
   }
