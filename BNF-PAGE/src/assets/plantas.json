@@ -1,7 +1,7 @@
 {
     "plantas":[
         {
-            "nombre":"peashoter",
+            "nombre":"peashooter",
             "descrip":"Peashooters are highly versatile plant combatants. They provide plenty of explosive damage and are effective against smaller targets.",
             "clase":"ataque",
             "skins":[
