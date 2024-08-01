@@ -5,11 +5,20 @@
             <div class="arti">
                 <a class="container" routerLink="{{personaje.nombre}}">
                     <div class="card">
+                        @if(team=='general'){
+                            <div class="imgBx">
+                                <img src="assets/{{personaje.equipo}}/{{personaje.nombre}}/art-{{personaje.nombre}}.png">
+                            </div>
+                            <img src="assets/{{personaje.equipo}}/{{personaje.nombre}}/{{personaje.nombre}}.png" class="c3d">
+                            <h2>{{personaje.nombre}}</h2>
+                        }
+                        @else{
                         <div class="imgBx">
                             <img src="assets/{{team}}/{{personaje.nombre}}/art-{{personaje.nombre}}.png">
                         </div>
                         <img src="assets/{{team}}/{{personaje.nombre}}/{{personaje.nombre}}.png" class="c3d">
                         <h2>{{personaje.nombre}}</h2>
+                        }
                     </div>
                 </a>
             </div>
