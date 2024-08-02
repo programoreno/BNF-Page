@@ -13,7 +13,6 @@ h1{
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
-    gap: 40px; /* Ajusta el gap según sea necesario */
     align-items: flex-start;
     min-height: 100vh;
 }
@@ -21,9 +20,7 @@ h1{
 .arti {
     display: flex;
     justify-content: center;
-    flex: 1 1 calc(33.333% - 40px); /* Tres columnas con un gap de 40px */
     box-sizing: border-box;
-    max-width: 300px; /* Para asegurarte de que las cartas no se estiren demasiado */
 }
 
 @media (max-width: 950px) {
@@ -41,7 +38,7 @@ h1{
 .container{
     position: relative;
     display: flex;
-    gap: 80px;
+    margin:50px;
 }
 
 .container .card{
