@@ -39,4 +39,16 @@ export class AlbunComponent implements OnInit{
         return { 'background': 'linear-gradient(to right, #F4D03F, #16A085)' };
     }
   }
+
+  getDecoration(cate:string){
+    console.log(cate);
+    switch(cate) {
+      case 'plantas':
+        return { 'background': 'green' };
+      case 'zombies':
+        return { 'background': 'purple' };
+      default:
+        return { 'background': 'blue' };
+      }
+  }
 }

@@ -10,14 +10,14 @@
                                 <img src="assets/{{personaje.equipo}}/{{personaje.nombre}}/art-{{personaje.nombre}}.png">
                             </div>
                             <img src="assets/{{personaje.equipo}}/{{personaje.nombre}}/{{personaje.nombre}}.png" class="c3d">
-                            <h2>{{personaje.nombre}}</h2>
+                            <h2 [ngStyle]="getDecoration(personaje.equipo)">{{personaje.nombre}}</h2>
                         }
                         @else{
                         <div class="imgBx">
                             <img src="assets/{{team}}/{{personaje.nombre}}/art-{{personaje.nombre}}.png">
                         </div>
                         <img src="assets/{{team}}/{{personaje.nombre}}/{{personaje.nombre}}.png" class="c3d">
-                        <h2>{{personaje.nombre}}</h2>
+                        <h2 [ngStyle]="getDecoration(team)">{{personaje.nombre}}</h2>
                         }
                     </div>
                 </a>
