@@ -10,7 +10,6 @@
       { "nombre": "snapdragon", "equipo": "plantas" },
       { "nombre": "night cap", "equipo": "plantas" },
       { "nombre": "acorn", "equipo": "plantas" },
-      { "nombre": "oak", "equipo": "plantas" },
       { "nombre": "wildflower", "equipo": "plantas" },
       { "nombre": "foot soldier", "equipo": "zombies" },
       { "nombre": "engineer", "equipo": "zombies" },
@@ -22,7 +21,6 @@
       { "nombre": "80s action hero", "equipo": "zombies" },
       { "nombre": "electric slide", "equipo": "zombies" },
       { "nombre": "space cadet", "equipo": "zombies" },
-      { "nombre": "space station", "equipo": "zombies" },
       { "nombre": "wizard", "equipo": "zombies" },
       { "nombre": "tv head", "equipo": "zombies" }
     ]
