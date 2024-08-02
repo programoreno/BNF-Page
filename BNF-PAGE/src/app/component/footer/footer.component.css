@@ -1,13 +1,31 @@
 section{
-    height: 350px;
-    background-color: red;
-    display: flex;
-    justify-content: space-around;
+    height: 250px;
+    background-color: #001557;
+
     padding: 50px 20px;
 }
-section a {
+.links{
+    display: flex;
+    justify-content: space-around;
+    height: 90%;
+
+}
+.links a {
     font-family: "Blaka", system-ui;
     font-size: 40px;
+    transition: 0.25s;
     color: white;
+}
+a{
+    color:white;
     text-decoration: none;
+    height: 50px;
+}
+a:hover{
+    transform: scale(125%);
+    transition: 0.25s;
+}
+
+.nombre{
+    text-align: right;
 }
