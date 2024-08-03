@@ -1211,6 +1211,108 @@
                     "extra": "Universal (plants and zombies)"
                 }
             ] 
+        },
+        {
+            
+            "nombre":"night cap",
+            "descrip":"Excels at stealth and mobility. Use Shadow Sneak to get in and out of combat, or setup a knockout blow with Fung Fu.",
+            "clase":"ataque",
+            "skins":[
+                {
+                    "foto": 1,
+                    "nombre": "Fortune Cap",
+                    "rareza": "Legendary",
+                    "obtencion": "Purchasable from Rux for 1,000 Rainbow Stars, Purchasable from Rux for 200,000 Coins (Nintendo Switch Edition only)",
+                    "extra": "To seek fortune is to seek one's inner fortunate self, then one can be lucky."
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Gnomish Spot-Shroom",
+                    "rareza": "Rare",
+                    "obtencion": "Completing the gnome puzzle in Giddy Park",
+                    "extra": "Don't count her spots. It's rude."
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Jurassic Jammies",
+                    "rareza": "Rare",
+                    "obtencion": "Purchasable from Rux for 550 Rainbow Stars",
+                    "extra": "A walking, rarely-talking extinction event"
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Kitty Cap",
+                    "rareza": "Legendary",
+                    "obtencion": "Fall Food Fight prize map completion reward",
+                    "extra": "This kitty means business."
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Luminous Fungus",
+                    "rareza": "Common",
+                    "obtencion": "Summer DayZ prize map, cost 10 prize bulbs",
+                    "extra": "She's radiant, glowing, utterly beaming! But enough's enough when everyone just wants to go to sleep."
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Night-Sprinkles",
+                    "rareza": "SuperRare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Baking the seven layer pummel cake decorated with the frosting of fists!"
+                },
+                {
+                    "foto": 7,
+                    "nombre": "Night Mint",
+                    "rareza": "Common",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Surprisingly, Night Mint has bad breath."
+                },
+                {
+                    "foto": 8,
+                    "nombre": "Pretty Cap",
+                    "rareza": "Legendary",
+                    "obtencion": "Fall Food Fight prize map, cost 20 prize bulbs",
+                    "extra": "This kitty makes 'pretty' sound gritty."
+                }
+            ],
+            "sets":[
+                {
+                    "foto": 1,
+                    "nombre": "Cheesy Disguise",
+                    "rareza": "Rare",
+                    "obtencion": "Opening Golden Chests in Mount Steep",
+                    "extra": "This Set is used by Quest Giver Gilly the Kid."
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Crystal Crusader",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "This set is used by the Bounty Target Mirror-Shroom."
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Glam-Cap",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "This Set is used by the NPC Vivian."
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Kneat Knitter",
+                    "rareza": "SuperRare",
+                    "obtencion": "Purchasable from Rux for 600 Rainbow Stars, Purchasable from Rux for 180,000 Coins (Nintendo Switch Edition only)",
+                    "extra": ""
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Starfruit Fighter Set",
+                    "rareza": "SuperRare",
+                    "obtencion": "Purchasable from Rux for 600 Rainbow Stars",
+                    "extra":"Let the kicks fly like a chopper in the sky with the Frontline Fighter!"
+                }
+            ]
+                        
         }
     ]
 }
