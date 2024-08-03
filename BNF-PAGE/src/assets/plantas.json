@@ -1311,7 +1311,94 @@
                     "obtencion": "Purchasable from Rux for 600 Rainbow Stars",
                     "extra":"Let the kicks fly like a chopper in the sky with the Frontline Fighter!"
                 }
+            ],
+            "hats":[
+                {
+                    "foto": 1,
+                    "nombre": "Carousel Whirl‡",
+                    "rareza": "Reaction Legendary",
+                    "obtencion": "Feastivus prize map, cost 10 prize bulbs",
+                    "extra": ""
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Night cap partyhat",
+                    "rareza": "Universal (plants and zombies) Super Rare",
+                    "obtencion": "100% character challenge completion reward during Feastivus",
+                    "extra": ""
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Sudsy Squidy",
+                    "rareza": "Reaction Legendary",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Leaf cadet night cap",
+                    "rareza": "Universal (plants) Super Rare",
+                    "obtencion": "Defeating Olds Cool",
+                    "extra": ""
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Night cap mister mallow‡",
+                    "rareza": "Universal (plants and zombies) Super Rare",
+                    "obtencion": "100% character challenge completion reward during Fall Food Fight",
+                    "extra": ""
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Moonlight Fighter",
+                    "rareza": "Spectrum Super Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 7,
+                    "nombre": "Nature's Delight",
+                    "rareza": "Spectrum Super Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 8,
+                    "nombre": "Queen of fairies night cap",
+                    "rareza": "Universal (plants) Super Rare",
+                    "obtencion": "Defeating Major Problem",
+                    "extra": ""
+                },
+                {
+                    "foto":9,
+                    "nombre":"Slimy the Slug",
+                    "rareza":"SuperRare",
+                    "obtencion":"Fall Festival prize map, cost 7 prize bulbs",
+                    "extra":"Spectrum"
+                },
+                {
+                    "foto":10,
+                    "nombre":"Sushi Topper ",
+                    "rareza":"Rare",
+                    "obtencion":"Reward-O-Tron",
+                    "extra":"Standard"
+                },
+                {
+                    "foto":11,
+                    "nombre":"Swantimental Helm",
+                    "rareza":"Rare",
+                    "obtencion":"Valenbrainz prize map, cost 7 prize bulbs",
+                    "extra":"Standard"
+                },
+                {
+                    "foto":12,
+                    "nombre":"Windmill Wonderland",
+                    "rareza":"Super Rare ",
+                    "obtencion":"Defeating Sir Biff",
+                    "extra":"Universal (plants and zombies) "
+                }
             ]
+            
                         
         }
     ]

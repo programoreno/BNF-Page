@@ -16,10 +16,10 @@ h1{
     width:100%;
     justify-content: center;
     flex-flow: row wrap;
-  } 
-  @media (min-width:950px) {
+    align-items: center;
+  }
+  @media (min-width:1250px) {
     #tabs{
-      align-items: center;
       width: 1250px;
     } 
   }
