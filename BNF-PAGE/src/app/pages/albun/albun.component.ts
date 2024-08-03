@@ -5,11 +5,12 @@ import { TabsComponent } from "../../component/tabs/tabs.component";
 import { CommonModule } from '@angular/common';
 import { Personaje } from '../../entity/Personaje';
 import { PersonajesService } from '../../service/personajes.service';
+import { FooterComponent } from "../../component/footer/footer.component";
 
 @Component({
   selector: 'app-albun',
   standalone: true,
-  imports: [CommonModule,RouterLink],
+  imports: [CommonModule, RouterLink, FooterComponent],
   templateUrl: './albun.component.html',
   styleUrl: './albun.component.css'
 })
