@@ -1400,6 +1400,11 @@
             ]
             
                         
+        },
+        {
+            "nombre":"snapdragon",
+            "descrip":"Blaze a trail through zombie foes with flame-blowing Snapdragon. Crabby as they may look, they’re always ready to fight fire with fire.",
+            "clase":"ataque"
         }
     ]
 }
