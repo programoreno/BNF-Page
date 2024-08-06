@@ -1728,6 +1728,10 @@
                 }
                 
             ]
+        },{
+            "nombre":"wildflower",
+            "descrip":"Wildflowers by themselves may not pose a huge threat, but as a group they become overwhelmingly powerful. Wildflowers receive armor when they are near ally Wildflowers, pots, or minions.",
+            "clase":"apoyo"
         }
     ]
 }
