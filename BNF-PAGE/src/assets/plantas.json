@@ -1558,8 +1558,11 @@
                     "obtencion": "Defeating Sir Biff"
                 }
             ]
-            
-            
+        },
+        {
+            "nombre":"acorn",
+            "descrip":"Acorns work best when they attack in groups. Transform into Oak, and load up with Acorn passengers who'll get increased firepower and survivability.",
+            "clase":"defensa"
         }
     ]
 }
