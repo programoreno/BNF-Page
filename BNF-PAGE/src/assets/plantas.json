@@ -1315,7 +1315,7 @@
             "hats":[
                 {
                     "foto": 1,
-                    "nombre": "Carousel Whirl‡",
+                    "nombre": "Carousel Whirl",
                     "rareza": "Reaction Legendary",
                     "obtencion": "Feastivus prize map, cost 10 prize bulbs",
                     "extra": ""
@@ -1323,7 +1323,7 @@
                 {
                     "foto": 2,
                     "nombre": "Night cap partyhat",
-                    "rareza": "Universal (plants and zombies) Super Rare",
+                    "rareza": "Universal (plants and zombies) SuperRare",
                     "obtencion": "100% character challenge completion reward during Feastivus",
                     "extra": ""
                 },
@@ -1337,35 +1337,35 @@
                 {
                     "foto": 4,
                     "nombre": "Leaf cadet night cap",
-                    "rareza": "Universal (plants) Super Rare",
+                    "rareza": "Universal (plants) SuperRare",
                     "obtencion": "Defeating Olds Cool",
                     "extra": ""
                 },
                 {
                     "foto": 5,
-                    "nombre": "Night cap mister mallow‡",
-                    "rareza": "Universal (plants and zombies) Super Rare",
+                    "nombre": "Night cap mister mallow",
+                    "rareza": "Universal (plants and zombies) SuperRare",
                     "obtencion": "100% character challenge completion reward during Fall Food Fight",
                     "extra": ""
                 },
                 {
                     "foto": 6,
                     "nombre": "Moonlight Fighter",
-                    "rareza": "Spectrum Super Rare",
+                    "rareza": "Spectrum SuperRare",
                     "obtencion": "Reward-O-Tron",
                     "extra": ""
                 },
                 {
                     "foto": 7,
                     "nombre": "Nature's Delight",
-                    "rareza": "Spectrum Super Rare",
+                    "rareza": "Spectrum SuperRare",
                     "obtencion": "Reward-O-Tron",
                     "extra": ""
                 },
                 {
                     "foto": 8,
                     "nombre": "Queen of fairies night cap",
-                    "rareza": "Universal (plants) Super Rare",
+                    "rareza": "Universal (plants) SuperRare",
                     "obtencion": "Defeating Major Problem",
                     "extra": ""
                 },
@@ -1393,7 +1393,7 @@
                 {
                     "foto":12,
                     "nombre":"Windmill Wonderland",
-                    "rareza":"Super Rare ",
+                    "rareza":"SuperRare ",
                     "obtencion":"Defeating Sir Biff",
                     "extra":"Universal (plants and zombies) "
                 }
@@ -1404,7 +1404,162 @@
         {
             "nombre":"snapdragon",
             "descrip":"Blaze a trail through zombie foes with flame-blowing Snapdragon. Crabby as they may look, they’re always ready to fight fire with fire.",
-            "clase":"ataque"
+            "clase":"ataque",
+            "skins":[
+                {
+                    "foto": 1,
+                    "nombre": "Century Dragon",
+                    "rareza": "Legendary",
+                    "obtencion": "Snow Day prize map completion reward",
+                    "extra": "Emerges from his slumber at the turn of each century, as well as most Thursdays."
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Crimson dragon",
+                    "rareza": "Common",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Crimson Dragon looks up to Molten Firesnap, who is a half inch taller."
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Crystal dragon",
+                    "rareza": "SuperRare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "You can't see through the Crystal Dragon, and he can't see through you. But you both tried!"
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Millennium Dragon",
+                    "rareza": "Legendary",
+                    "obtencion": "Snow Day prize map, cost 20 prize bulbs",
+                    "extra": "Waxes himself daily to maintain his brilliant shine."
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Molten Firesnap",
+                    "rareza": "Legendary",
+                    "obtencion": "Purchasable from Rux for 1,000 Rainbow Stars",
+                    "extra": "The only place he doesn't feel cold is in the blazing core of Mount Steep."
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Set in Stone",
+                    "rareza": "Rare",
+                    "obtencion": "Purchasable from Rux for 550 Rainbow Stars",
+                    "extra": "Likes: Looking cool, standing still. Dislikes: Birds who recently ate from Uno Taco's dumpster."
+                },
+                {
+                    "foto": 7,
+                    "nombre": "Sparkle snap",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Nothing matters more than sparkles. Nothing."
+                }
+            ],
+            "sets":[
+                {
+                    "foto": 1,
+                    "nombre": "Fire Defender",
+                    "rareza": "Rare",
+                    "obtencion": "Founders Edition 1st week reward"
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Snap jovial jester",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "This Hat is used by Mount Steep Posse Candidate Mask R. Abe"
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Snap nice & spicy",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron"
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Snap pop-top aviator",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "This set is used by Air Ron"
+                }
+            ],
+            "hats":[
+                {
+                    "foto": 1,
+                    "nombre": "Bouncing Meteor",
+                    "rareza": "Super Rare",
+                    "obtencion": "Reward-O-Tron"
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Partyhat",
+                    "rareza": "Super Rare",
+                    "obtencion": "100% character challenge completion reward during Feastivus"
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Firespinner",
+                    "rareza": "Super Rare",
+                    "obtencion": "Purchasable from Rux for 250 rainbow stars"
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Happy Burger",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron"
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Leaf cadet",
+                    "rareza": "Super Rare",
+                    "obtencion": "Defeating Olds Cool"
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Snap mister mallow",
+                    "rareza": "Super Rare",
+                    "obtencion": "100% character challenge completion reward during Fall Food Fight"
+                },
+                {
+                    "foto": 7,
+                    "nombre": "Mount erupto",
+                    "rareza": "Legendary",
+                    "obtencion": "Reward-O-Tron"
+                },
+                {
+                    "foto": 8,
+                    "nombre": "Ranger Sparks",
+                    "rareza": "Super Rare",
+                    "obtencion": "Purchasable from Rux for 250 Rainbow Stars"
+                },
+                {
+                    "foto": 9,
+                    "nombre": "Speedway Cap",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron"
+                },
+                {
+                    "foto": 10,
+                    "nombre": "Queen of fairies",
+                    "rareza": "Super Rare",
+                    "obtencion": "Defeating Major Problem"
+                },
+                {
+                    "foto": 11,
+                    "nombre": "No hat",
+                    "rareza": "Standard",
+                    "obtencion": "Unlocked from the start"
+                },
+                {
+                    "foto": 12,
+                    "nombre": "Windmill wonderland",
+                    "rareza": "Super Rare",
+                    "obtencion": "Defeating Sir Biff"
+                }
+            ]
+            
+            
         }
     ]
 }
