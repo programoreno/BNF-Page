@@ -1488,19 +1488,19 @@
                 {
                     "foto": 1,
                     "nombre": "Bouncing Meteor",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Reward-O-Tron"
                 },
                 {
                     "foto": 2,
                     "nombre": "Partyhat",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "100% character challenge completion reward during Feastivus"
                 },
                 {
                     "foto": 3,
                     "nombre": "Firespinner",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Purchasable from Rux for 250 rainbow stars"
                 },
                 {
@@ -1512,13 +1512,13 @@
                 {
                     "foto": 5,
                     "nombre": "Leaf cadet",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Defeating Olds Cool"
                 },
                 {
                     "foto": 6,
                     "nombre": "Snap mister mallow",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "100% character challenge completion reward during Fall Food Fight"
                 },
                 {
@@ -1530,7 +1530,7 @@
                 {
                     "foto": 8,
                     "nombre": "Ranger Sparks",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Purchasable from Rux for 250 Rainbow Stars"
                 },
                 {
@@ -1542,7 +1542,7 @@
                 {
                     "foto": 10,
                     "nombre": "Queen of fairies",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Defeating Major Problem"
                 },
                 {
@@ -1554,7 +1554,7 @@
                 {
                     "foto": 12,
                     "nombre": "Windmill wonderland",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Defeating Sir Biff"
                 }
             ]
@@ -1562,7 +1562,172 @@
         {
             "nombre":"acorn",
             "descrip":"Acorns work best when they attack in groups. Transform into Oak, and load up with Acorn passengers who'll get increased firepower and survivability.",
-            "clase":"defensa"
+            "clase":"defensa",
+            "skins":[
+                {
+                    "foto": 1,
+                    "nombre": "Acorn Overlord",
+                    "rareza": "Legendary",
+                    "obtencion": "Purchasable from Rux for 1,000 rainbow stars",
+                    "extra": "This costume's internal name is 'Nordic.'"
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Dark-Nut",
+                    "rareza": "Common",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "This Costume is used by Battle Leader Sherman."
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Fortress Nut",
+                    "rareza": "Legendary",
+                    "obtencion": "Summer DayZ prize map, cost 20 prize bulbs"
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Gilded Oak",
+                    "rareza": "Legendary",
+                    "obtencion": "Summer DayZ prize map completion prize"
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Pink Catastrophe",
+                    "rareza": "SuperRare",
+                    "obtencion": "Purchasable from Sergeant Peel in plant Town Center for 500 tacos after unlocking all 50 medals for the region"
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Primordial Nut",
+                    "rareza": "SuperRare",
+                    "obtencion": "Purchasable from Rux for 800 Rainbow Stars",
+                    "extra": "This costume's internal name is 'Treeceratops.'"
+                },
+                {
+                    "foto": 7,
+                    "nombre": "Tiger-Birch",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "This Costume is used by Bounty Hunt Target the Tiger Klaus."
+                }
+            ],
+            "sets":[
+                {
+                    "foto": 1,
+                    "nombre": "Beach-Nut",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron"
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Floral Harmony",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron"
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Picnic Warrior",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron"
+                }
+            ],
+            "hats":[
+                {
+                    "foto": 1,
+                    "nombre": "Feastivus Partyhat",
+                    "rareza": "SuperRare",
+                    "obtencion": "100% character challenge completion reward during Feastivus",
+                    "extra": "Universal (plants and zombies)"
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Feathered Arrow Cap",
+                    "rareza": "Common",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Standard"
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Floral Beauty",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Spectrum"
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Furry Flingaminga",
+                    "rareza": "SuperRare",
+                    "obtencion": "Purchasable from Rux for 250 stars",
+                    "extra": "Spectrum",
+                    "tipo": "HeadProp",
+                    "de": "Acorn"
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Leaf Cadet",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Olds Cool",
+                    "extra": "Universal (plants)"
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Mister Mallow",
+                    "rareza": "SuperRare",
+                    "obtencion": "100% character challenge completion reward during Fall Food Fight",
+                    "extra": "Universal (plants and zombies)"
+                },
+                {
+                    "foto": 7,
+                    "nombre": "Potted Protection",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Spectrum"
+                },
+                {
+                    "foto": 8,
+                    "nombre": "Queen of Fairies",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Major Problem",
+                    "extra": "Universal (plants)"
+                },
+                {
+                    "foto": 9,
+                    "nombre": "Steam Conductor",
+                    "rareza": "Legendary",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Reaction"
+                },
+                {
+                    "foto": 10,
+                    "nombre": "Tasty Topper",
+                    "rareza": "SuperRare",
+                    "obtencion": "Collecting 24 pies and talking to Sir Crustworthy during Fall Food Fight",
+                    "extra": "Spectrum"
+                },
+                {
+                    "foto": 11,
+                    "nombre": "Windmill Wonderland",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Sir Biff",
+                    "extra": "Universal (plants and zombies)"
+                },
+                {
+                    "foto": 12,
+                    "nombre": "Animal Noseguard",
+                    "rareza": "Common",
+                    "obtencion": "Purchasing an Origin Access Basic or Premier subscription",
+                    "extra": "N/A"
+                },
+                {
+                    "foto": 13,
+                    "nombre": "Lost Cat Lip",
+                    "rareza": "Common",
+                    "obtencion": "Purchasing an Origin Access Premier subscription",
+                    "extra": "FaceProp",
+                    "tipo": "Oak"
+                }
+                
+            ]
         }
     ]
 }
