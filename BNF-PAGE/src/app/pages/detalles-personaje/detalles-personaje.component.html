@@ -1,5 +1,4 @@
-<section>
-    NO
+<section [ngStyle]="getStyle(team)">
     <app-presentacion [nom]="nom"></app-presentacion>
     @if(nom!=="wildflower"){
         <app-tabs [nom]="nom"></app-tabs>
