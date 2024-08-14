@@ -6,6 +6,7 @@ import { CommonModule } from '@angular/common';
 import { Personaje } from '../../entity/Personaje';
 import { PersonajesService } from '../../service/personajes.service';
 import { FooterComponent } from "../../component/footer/footer.component";
+import { Router } from 'express';
 
 @Component({
   selector: 'app-albun',
@@ -22,12 +23,12 @@ export class AlbunComponent implements OnInit{
   personajes:Personaje[];
 
   ngOnInit(): void {
+  paginaIniciada(){
     window.scrollTo(0, 0);
     this.team = this.route.snapshot.params['pagina'];
     this.personajesService.getPersonajes(this.team).subscribe(dato =>{
       this.personajes = dato;
     });
-    
   }
 
   getStyle(category: string) {
