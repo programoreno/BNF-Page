@@ -1,16 +1,16 @@
 <section id="page">
-    @for(planta of plantas; track plantas){
-            @if(planta.nombre == nom){
+    @for(personaje of personajes; track personajes){
+            @if(personaje.nombre == nom){
                 <div id="home-content">
-                    <p><a routerLink="/plantas">#Plants</a></p>
-                    <h1>{{planta.nombre}}</h1>
+                    <p><a routerLink="/personajes">#Plants</a></p>
+                    <h1>{{personaje.nombre}}</h1>
                     <div class="clas">
-                        <img src="assets/{{planta.clase}}.png" class="ima"><p class="clase">{{planta.clase}}</p><img src="assets/{{planta.clase}}.png" class="ima">
+                        <img src="assets/{{personaje.clase}}.png" class="ima"><p class="clase">{{personaje.clase}}</p><img src="assets/{{personaje.clase}}.png" class="ima">
                     </div>
-                    <p id="explain">{{planta.descrip}}</p>
+                    <p id="explain">{{personaje.descrip}}</p>
                 </div>
                 <div id="imagen">
-                    <img id="ima" src="assets/plantas/{{planta.nombre}}/{{planta.nombre}}.png">
+                    <img id="ima" src="assets/{{team}}/{{personaje.nombre}}/{{personaje.nombre}}.png">
                 </div>
             }
         

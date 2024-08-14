@@ -1,7 +1,7 @@
 import { Component, Input, OnInit } from '@angular/core';
-import { PlantasService } from '../../service/plantas.service';
 import { Personaje } from '../../entity/Personaje';
-import { RouterLink } from '@angular/router';
+import { ActivatedRoute, RouterLink } from '@angular/router';
+import { PersonajesService } from '../../service/personajes.service';
 
 @Component({
   selector: 'app-presentacion',
@@ -12,15 +12,20 @@ import { RouterLink } from '@angular/router';
 })
 export class PresentacionComponent implements OnInit{
 
-  constructor(private plantasService: PlantasService){}
+  constructor(private route:ActivatedRoute, private personajeService:PersonajesService){}
 
-  plantas:Personaje [];
-  
-  @Input() nom:string;
+  personajes:Personaje [];
+  team:string;
+  nom:string;
+  //@Input() nom:string;
 
   ngOnInit(): void {
-    this.plantasService.getPlantas().subscribe(dato =>{
-      this.plantas = dato;
+    this.team = this.route.snapshot.params['pagina'];
+    this.nom = this.route.snapshot.params['personaje'];
+    console.log(this.nom);
+    this.personajeService.getPersonajes(this.team).subscribe(dato =>{
+      this.personajes = dato;
+      console.log(dato);
     })
   }
 
