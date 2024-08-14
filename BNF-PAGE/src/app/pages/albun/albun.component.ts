@@ -23,7 +23,6 @@ export class AlbunComponent implements OnInit{
   personajes:Personaje[];
 
   ngOnInit(): void {
-  paginaIniciada(){
     window.scrollTo(0, 0);
     this.team = this.route.snapshot.params['pagina'];
     this.personajesService.getPersonajes(this.team).subscribe(dato =>{
