@@ -24,7 +24,7 @@ export class AlbunComponent implements OnInit{
 
   ngOnInit(): void {
     window.scrollTo(0, 0);
-    this.team = this.route.snapshot.params['pagina'];
+    this.team = this.route.snapshot.routeConfig?.path || '';
     this.personajesService.getPersonajes(this.team).subscribe(dato =>{
       this.personajes = dato;
     });

@@ -7,7 +7,9 @@ import { MapasComponent } from './pages/mapas/mapas.component';
 export const routes: Routes = [
     {path : 'home', component:HomeComponent},
     {path : '', redirectTo:'home',pathMatch:'full'},
-    /*{path : ':pagina', component:AlbunComponent},
-    {path : ':pagina/:personaje', component:DetallesPersonajeComponent},*/
+    {path : 'plantas', component:AlbunComponent},
+    {path : 'zombies', component:AlbunComponent},
+    {path : 'general', component:AlbunComponent},
+    {path : ':pagina/:personaje', component:DetallesPersonajeComponent},
     {path : 'mapas', component:MapasComponent}
 ];
