@@ -1,14 +1,14 @@
 <section class="boxes" id="skins">
     
-    @for(planta of plantas; track plantas){
+    @for(perso of personaje; track personaje){
 
         
-        @if(planta.nombre == nom){
+        @if(perso.nombre == nom){
             <h1>Skins</h1>
             <div id="tabs">
             @for(skin of skins; track skins){
                 <article id="tabs-content">
-                <img src="assets/plantas/{{planta.nombre}}/skins/{{skin.foto}}.png" (error)="imageError($event)"/>
+                <img src="assets/{{team}}/{{perso.nombre}}/skins/{{skin.foto}}.png" (error)="imageError($event)"/>
                 <h3>{{skin.nombre}}</h3>
                 <a (click)="abrir_info(skin.nombre,skin.rareza,skin.obtencion,skin.extra)">View More</a>
                 </article>
@@ -19,7 +19,7 @@
             <div id="tabs">
                 @for(set of sets; track sets){
                     <article id="tabs-content">
-                    <img src="assets/plantas/{{planta.nombre}}/sets/{{set.foto}}.png" (error)="imageError($event)"/>
+                    <img src="assets/{{team}}/{{perso.nombre}}/sets/{{set.foto}}.png" (error)="imageError($event)"/>
                     <h3>{{set.nombre}}</h3>
                     <a (click)="abrir_info(set.nombre,set.rareza,set.obtencion,set.extra)">View More</a>
                     </article>
@@ -30,7 +30,7 @@
             <div id="tabs">
                 @for(hat of hats; track hats){
                     <article id="tabs-content">
-                    <img src="assets/plantas/{{planta.nombre}}/hats/{{hat.foto}}.png" (error)="imageError($event)"/>
+                    <img src="assets/{{team}}/{{perso.nombre}}/hats/{{hat.foto}}.png" (error)="imageError($event)"/>
                     <h3>{{hat.nombre}}</h3>
                     <a (click)="abrir_info(hat.nombre,hat.rareza,hat.obtencion,hat.extra)">View More</a>
                     </article>

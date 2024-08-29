@@ -3,6 +3,8 @@ import { PlantasService } from '../../service/plantas.service';
 import { Personaje } from '../../entity/Personaje';
 import { Datos } from '../../entity/Datos';
 import Swal from 'sweetalert2';
+import { ActivatedRoute } from '@angular/router';
+import { PersonajesService } from '../../service/personajes.service';
 
 @Component({
   selector: 'app-tabs',
@@ -12,9 +14,10 @@ import Swal from 'sweetalert2';
   styleUrl: './tabs.component.css'
 })
 export class TabsComponent implements OnInit{
-  constructor(private plantasService: PlantasService){}
+  constructor(private route:ActivatedRoute, private personajeService:PersonajesService){}
 
-    plantas:Personaje [];
+    team:string;
+    personaje:Personaje [];
     skins:Datos[];
     sets:Datos[];
     hats:Datos[];
@@ -22,11 +25,14 @@ export class TabsComponent implements OnInit{
     @Input() nom:string;
 
     ngOnInit(): void {
-      this.plantasService.getPlantas().subscribe(dato => {
-        this.plantas = dato;
+
+      this.team = this.route.snapshot.params['pagina'];
+      this.nom = this.route.snapshot.params['personaje'];
+      this.personajeService.getPersonajes(this.team).subscribe(dato =>{
+        this.personaje = dato;
 
         /*FILTRAR DEL JSON LA PLATA QUE QUEREMOS Y Q NOS DE SKINS, SETS Y HATS */
-        const filteredPlantas = this.plantas.filter(planta => planta.nombre === this.nom);
+        const filteredPlantas = this.personaje.filter(perso => perso.nombre === this.nom);
 
         if (filteredPlantas.length > 0) {
           const selectedPlanta = filteredPlantas[0];
