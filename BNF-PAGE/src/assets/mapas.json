@@ -1,0 +1,79 @@
+{
+    "mapas":[
+        {
+            "foto":1,
+            "nombre":"ABSORCIÓN DE TERRITORIOS DE ISLA TRAMPA PARA TURISTAS",
+            "descrip":"Navega al nuevo mapa de Absorción de territorios, Isla Trampa para Turistas, donde los cerebros están incluidos en el bufé de este crucero zombi. Además, gana premios en el mapa de premios de Fiesta de jardín."
+        },
+        {
+            "foto":2,
+            "nombre":"ABSORCIÓN DE TERRITORIOS EN CONSERVA A PASTOS",
+            "descrip":"Algunos Zombisteins se infiltraron en los campos de Conserva de Pastos con el objetivo de buscar una base secreta donde esta mente maestra para el mal prueba su último pringue: un líquido rosa saltimbanqui diseñado para que los cerebroz humanos salten de sus casas a los platos de los zombis!"
+        },
+        {
+            "foto":3,
+            "nombre":"MUGRESERVA",
+            "descrip":"La Mugreserva de Z-Tech es una de las instalaciones secretas de Dr. Zombi, donde las plantas y los zombis están luchando, prueba su último pringue: un líquido rosa saltimbanqui diseñado para que los cerebroz humanos salten de sus casas a los platos de los zombis!"
+        },
+        {
+            "foto":4,
+            "nombre":"DIVERCÚPULA",
+            "descrip":"En la Divercúpula se juega a la actividad favorita de la ciudad: el reglascesto, un deporte cuya única regla es que hay un montón de reglas. Sin embargo, cuando las plantas y los zombis están luchando, la Divercúpula se convierte en su Arena de batallas, donde la única regla es que solo hay muy pocas reglas. Solo disponible en la Arena de batallas."
+        },
+        {
+            "foto": 5,
+            "nombre": "CENTRO DE NEIGHBORVILLE",
+            "descrip": "Desde la Mansión de Dave, el cuartel general de las plantas, hasta Colinas Soleadas; o desde el Cuartel de Dr. Zombi hasta Puerto Presión; el Centro de Neighborville es donde empieza tu viaje."
+        },
+        {
+            "foto": 6,
+            "nombre": "MONTE PENDIENTE",
+            "descrip": "Monte Pendiente es un lugar estupendo para que los habitantes de Neighborville aprendan sobre historia, minería … y polvo. Pero su atractivo más grande reside, sin duda, en la fábrica de queso."
+        },
+        {
+            "foto": 7,
+            "nombre": "BOSQUE EXTRAÑO",
+            "descrip": "La Fábrica Z-Tech próxima al Campamento Lagocerca se encuentra rodeada por los furiosos árboles de Horrorbosque y por sus aún más cabreadas raíces. Tanto, que los zombis quedan atrapados en ellas."
+        },
+        {
+            "foto": 8,
+            "nombre": "FÓSIL COLOSAL",
+            "descrip": "En estas minas han sido descubiertos algunos de los dinosaurios más grandes del mundo: el Enormosaurio, el Tremendoceratops … ¡Incluso el G-Rex!"
+        },
+        {
+            "foto": 9,
+            "nombre": "PASEO MARGARITA",
+            "descrip": "¿Ver a una Girasol darle una paliza a un Zombidito desde una casa desenterrada gracias a los cachivaches de Z-Tech? Lo que viene siendo un día normal en Neighborville."
+        },
+        {
+            "foto": 10,
+            "nombre": "BARRANCO PRINGOSO",
+            "descrip": "Dr. Zombi quiere poner una bandera en la Meseta Rocosa y, para ello, ha empezado a taladrar un agujero enorme en todo el medio. ¡Las plantas tienen que impedirlo!"
+        },
+        {
+            "foto": 11,
+            "nombre": "TERRENOS LENOSOS",
+            "descrip": "La Fábrica Z-Tech está sufriendo el asedio blandito del Malvamortero de las plantas. ¡Necesitamos malvaviscorrefuerzos!"
+        },
+        {
+            "foto": 12,
+            "nombre": "DISTRITO MELOCOTONERO",
+            "descrip": "Los zombis están colocando amplificadores de señal para piratear la emisión televisiva y lanzar su red de emisión dezcerebral: ‘Una televisión tan buena que no se necesitan cerebroz’."
+        },
+        {
+            "foto": 13,
+            "nombre": "RUINAS RUINOSAS",
+            "descrip": "¿Para qué usaban los gnomos este antiguo templo? ¿Para almacenar cientos de grabados en piedra que pidieron en Internet por error? ¡Quién sabe!"
+        },
+        {
+            "foto": 14,
+            "nombre": "FÁBRICA Z-TECH",
+            "descrip": "¿De dónde sacan los zombis los conos de tráfico, los cubos, las puertas y los maniquíes de placaje? ¡Pues de la Fábrica Z-Tech, por supuesto!"
+        },
+        {
+            "foto": 15,
+            "nombre": "PUNTO DE INFLEXIÓN",
+            "descrip": "¿Alguna vez te has preguntado por qué se parecen los faros a cohetes capaces de lanzar al espacio satélites buscadores de cerebros? Nosotros tampoco."
+        }
+    ]
+}
