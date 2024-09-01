@@ -1,8 +1,10 @@
 section{
     background: linear-gradient(to right, #F4D03F, #16A085);
-    height: 100vh;
-    padding: 10px 0;
+    padding: 50px 0;
     text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
 }
 h1{
     font-size: 75px;
