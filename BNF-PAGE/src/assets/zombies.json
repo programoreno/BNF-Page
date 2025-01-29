@@ -4,7 +4,7 @@
             "nombre":"foot soldier",
             "descrip":"With high morale and no trace of fatigue, Foot Soldiers consider it an honor to serve in the ongoing siege upon Neighborville’s brains.",
             "clase":"ataque",
-            "skins":[]
+            "skins":[1]
         }
     ]
 }
