@@ -98,8 +98,93 @@
                     "obtencion": "Fall Festival prize map, 28 prize bulbs total",
                     "extra": ""
                 }
-            ]            
-            
+            ],
+            "hats":[
+                {
+                    "foto": 1,
+                    "nombre": "Bomb Squad",
+                    "rareza": "SuperRare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "A play on bomb squad, an explosives engineering profession using the process by which hazardous explosive devices are rendered safe."
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Desserter Cap",
+                    "rareza": "SuperRare",
+                    "obtencion": "Valenbrainz prize map, costs 7 prize bulbs",
+                    "extra": ""
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Feastivus Partyhat",
+                    "rareza": "SuperRare",
+                    "obtencion": "100% character challenge completion reward during Feastivus",
+                    "extra": ""
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Jungle Warrior",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Mister Mallow",
+                    "rareza": "SuperRare",
+                    "obtencion": "100% character challenge completion reward during Fall Food Fight",
+                    "extra": ""
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Monkey Bangers",
+                    "rareza": "Legendary",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Used by the NPC Monkey"
+                },
+                {
+                    "foto": 7,
+                    "nombre": "None",
+                    "rareza": "Standard",
+                    "obtencion": "Unlocked from the start",
+                    "extra": ""
+                },
+                {
+                    "foto": 8,
+                    "nombre": "Perfect Part",
+                    "rareza": "Common",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 9,
+                    "nombre": "Pie Topper",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 10,
+                    "nombre": "Right of Dummies",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Dreadwood",
+                    "extra": ""
+                },
+                {
+                    "foto": 11,
+                    "nombre": "Thought Projector",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Blight Cap",
+                    "extra": ""
+                },
+                {
+                    "foto": 12,
+                    "nombre": "Windmill Wonderland",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Sir Biff",
+                    "extra": ""
+                }
+            ]
         }
     ]
 }
