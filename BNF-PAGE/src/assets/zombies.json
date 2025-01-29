@@ -4,7 +4,102 @@
             "nombre":"foot soldier",
             "descrip":"With high morale and no trace of fatigue, Foot Soldiers consider it an honor to serve in the ongoing siege upon Neighborville’s brains.",
             "clase":"ataque",
-            "skins":[1]
+            "skins":[
+                {
+                    "foto": 1,
+                    "nombre": "Cargo Commander",
+                    "rareza": "SuperRare",
+                    "obtencion": "Purchasable from Rux for 800 rainbow stars",
+                    "extra": "The fate of humanity rests in her hands. Hopefully she's not hungry."
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Corporal Shootypants",
+                    "rareza": "Common",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Take a guess as to how Corporal Shootypants got his name."
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Cowmooflage Commander",
+                    "rareza": "Rare",
+                    "obtencion": "Snow Day prize map, cost 10 prize bulbs",
+                    "extra": "Better hope you don't battle him in a place with a lot of cows! The Cow Store?"
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Gladius Shootimus",
+                    "rareza": "SuperRare",
+                    "obtencion": "Purchasable from Rux for 800 rainbow stars",
+                    "extra": "A pioneer in the 'combat diaper' field."
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Royal Plaid-Master",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "No one can stop the Royal Plaid-Master...from looking so rugged."
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Total Totalinator",
+                    "rareza": "SuperRare",
+                    "obtencion": "Purchasable from Rux for 800 rainbow stars",
+                    "extra": "He's been looking forward to the battle for the future since yesterday."
+                },
+                {
+                    "foto": 7,
+                    "nombre": "Vanquish Burglar",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "The only thing he stole...was our hearts. To be fair, he was aiming for our brains."
+                },
+                {
+                    "foto": 8,
+                    "nombre": "Zuper Grave",
+                    "rareza": "Rare",
+                    "obtencion": "Purchasable from Rux for 550 rainbow stars",
+                    "extra": "He once tried to jump over a beehive. It didn't go well."
+                }
+            ],
+            "sets":[
+                {
+                    "foto": 1,
+                    "nombre": "Agent Overkill",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Foraging Fun",
+                    "rareza": "SuperRare",
+                    "obtencion": "Purchasable from Rux for 600 rainbow stars",
+                    "extra": "This set has a description: He knows seventeen ways to tie a knot and eat it."
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Rubbish Ranger",
+                    "rareza": "Rare",
+                    "obtencion": "Opening golden chests in zombie Town Center",
+                    "extra": "This set is used by Elusive Foe Pack Rat (with the Captain Shootypants costume)"
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Super Safari",
+                    "rareza": "Rare",
+                    "obtencion": "Purchasing four individual parts from Otto Do in Weirding Woods for a total of 500 marshmallows",
+                    "extra": ""
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Thruster Thumper",
+                    "rareza": "SuperRare",
+                    "obtencion": "Fall Festival prize map, 28 prize bulbs total",
+                    "extra": ""
+                }
+            ]            
+            
         }
     ]
 }
