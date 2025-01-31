@@ -187,7 +187,7 @@
             ]
         },
         {
-            "nombre":"Imp",
+            "nombre":"imp",
             "descrip":"Meet Imp, the smallest of the zombies, and his massive secret weapon – Z-Mech. Built with Z-Tech, this duo is down to do some damage.",
             "clase":"ataque",
             "skins":[
@@ -240,7 +240,31 @@
                     "obtencion": "Purchasable from Rux for 800 rainbow stars.",
                     "extra": "Seeking revenge for cracked eggs everywhere!"
                 }
+            ],
+            "sets":[
+                {
+                    "foto": 1,
+                    "nombre": "Astro Imp",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "This set is used by the Battle Leader Captain Cozplay."
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Camp Scout",
+                    "rareza": "Rare",
+                    "obtencion": "Opening golden chests in Weirding Woods",
+                    "extra": "This set is used by the NPC Izzy."
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Fuzzy Fanatic",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "This set is used by the NPC Bart Barian."
+                }
             ]
+            
         }
         
     ]
