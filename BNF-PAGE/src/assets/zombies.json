@@ -186,63 +186,62 @@
                 }
             ]
         },
-      {
-        "nombre":"Imp",
-        "descrip":"Meet Imp, the smallest of the zombies, and his massive secret weapon – Z-Mech. Built with Z-Tech, this duo is down to do some damage.",
-        "clase":"ataque",
-        "skins":[
-    {
-        "foto": 1,
-        "nombre": "Crazy Colossus‡",
-        "rareza": "Legendary",
-        "obtencion": "Fall Festival prize map completion reward.",
-        "extra": "No one can get past this Imp, except those who ask nicely."
-    },
-    {
-        "foto": 2,
-        "nombre": "Impending Doom‡",
-        "rareza": "Legendary",
-        "obtencion": "Fall Festival prize map, costs 20 bulbs.",
-        "extra": "He laughs, knowing their fate."
-    },
-    {
-        "foto": 3,
-        "nombre": "Imp-Cab Express",
-        "rareza": "Rare",
-        "obtencion": "Purchasable from Otto Do in zombie Town Center for 500 tacos after unlocking all 50 medals for the region.",
-        "extra": "Have your fare ready! Remember: he has a self-destruct button."
-    },
-    {
-        "foto": 4,
-        "nombre": "Ivory Imp",
-        "rareza": "Common",
-        "obtencion": "Reward-O-Tron.",
-        "extra": "Voted 'Most Likely to Have Mustard Stain Even Though He Didn't Eat Any Mustard.'"
-    },
-    {
-        "foto": 5,
-        "nombre": "Kitty Darling Z-9000*",
-        "rareza": "Legendary",
-        "obtencion": "Purchasable from Rux for 1000 rainbow stars.",
-        "extra": "The cute cat videos she posts have WAY more explosions than the competition."
-    },
-    {
-        "foto": 6,
-        "nombre": "Ninjimp Dynasty",
-        "rareza": "SuperRare",
-        "obtencion": "Reward-O-Tron.",
-        "extra": "Nothing stealthy about this mech. Just don't tell the Imp--it will hurt his feelings."
-    },
-    {
-        "foto": 7,
-        "nombre": "Reptile Renegade",
-        "rareza": "SuperRare",
-        "obtencion": "Purchasable from Rux for 800 rainbow stars.",
-        "extra": "Seeking revenge for cracked eggs everywhere!"
-    }
-]
-
-      }
+        {
+            "nombre":"Imp",
+            "descrip":"Meet Imp, the smallest of the zombies, and his massive secret weapon – Z-Mech. Built with Z-Tech, this duo is down to do some damage.",
+            "clase":"ataque",
+            "skins":[
+                {
+                    "foto": 1,
+                    "nombre": "Crazy Colossus‡",
+                    "rareza": "Legendary",
+                    "obtencion": "Fall Festival prize map completion reward.",
+                    "extra": "No one can get past this Imp, except those who ask nicely."
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Impending Doom‡",
+                    "rareza": "Legendary",
+                    "obtencion": "Fall Festival prize map, costs 20 bulbs.",
+                    "extra": "He laughs, knowing their fate."
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Imp-Cab Express",
+                    "rareza": "Rare",
+                    "obtencion": "Purchasable from Otto Do in zombie Town Center for 500 tacos after unlocking all 50 medals for the region.",
+                    "extra": "Have your fare ready! Remember: he has a self-destruct button."
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Ivory Imp",
+                    "rareza": "Common",
+                    "obtencion": "Reward-O-Tron.",
+                    "extra": "Voted 'Most Likely to Have Mustard Stain Even Though He Didn't Eat Any Mustard.'"
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Kitty Darling Z-9000*",
+                    "rareza": "Legendary",
+                    "obtencion": "Purchasable from Rux for 1000 rainbow stars.",
+                    "extra": "The cute cat videos she posts have WAY more explosions than the competition."
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Ninjimp Dynasty",
+                    "rareza": "SuperRare",
+                    "obtencion": "Reward-O-Tron.",
+                    "extra": "Nothing stealthy about this mech. Just don't tell the Imp--it will hurt his feelings."
+                },
+                {
+                    "foto": 7,
+                    "nombre": "Reptile Renegade",
+                    "rareza": "SuperRare",
+                    "obtencion": "Purchasable from Rux for 800 rainbow stars.",
+                    "extra": "Seeking revenge for cracked eggs everywhere!"
+                }
+            ]
+        }
         
     ]
 }
