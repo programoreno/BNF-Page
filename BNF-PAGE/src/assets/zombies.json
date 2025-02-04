@@ -350,7 +350,180 @@
                     "extra": ""
                 }
             ]            
+        },
+        {
+            "nombre":"super brainz",
+            "descrip":"When Super Brainz sees a mirror, the gorgeous face staring back is almost makes him forget his quest to liberate Neighborville's brains.",
+            "clase":"ataque",
+            "skins":[
+                {
+                    "foto": 1,
+                    "nombre": "Crimson Fisticuffs",
+                    "rareza": "Common",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "More likely to punch himself than the enemy. This costume is used by Battle Leader Charnado and NPC Otto Do."
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Insecto Brainz",
+                    "rareza": "Legendary",
+                    "obtencion": "Lawn of Doom prize map, cost 20 prize bulbs",
+                    "extra": "The only bug that swats back--and hard!"
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Metal Head",
+                    "rareza": "Legendary",
+                    "obtencion": "Summer Nights prize map",
+                    "extra": "His favorite bands are Iron Laden, Metallic-ish, and Megabreath. His description parodies several different metal bands, namely Iron Maiden, Metallica, and Megadeth."
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Midas Tough",
+                    "rareza": "Legendary",
+                    "obtencion": "Summer Nights prize map completion reward",
+                    "extra": "Everything he touches turns into goldfish. Which is fine, I guess. His name and description are a reference to King Midas' Golden Touch."
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Reflecto Brainz",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "The ultimate costume for one that prefers to admire himself. This costume is used by Bounty Zombie Byte Knight."
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Super Scarab",
+                    "rareza": "Legendary",
+                    "obtencion": "Lawn of Doom prize map completion reward",
+                    "extra": "A stout-bodied beetle brainz looking to make balls of fun!"
+                },
+                {
+                    "foto": 7,
+                    "nombre": "Ugly Sweater Brainz",
+                    "rareza": "Rare",
+                    "obtencion": "Purchasable from Rux for 550 rainbow stars",
+                    "extra": "He's ready for this year's Z-Tech Feastivus office party."
+                }
+            ],
+            "sets":[
+                {
+                    "foto": 1,
+                    "nombre": "Callous Crusader",
+                    "rareza": "SuperRare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Hairflair Mastermind",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "A Champion Super Brainz uses this set in the quest Will You Be My Posse?."
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Master Chicken",
+                    "rareza": "Rare",
+                    "obtencion": "Three separate items in Snow Day prize map, cost 21 prize bulbs in total",
+                    "extra": ""
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Scruffy Brusher",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                }
+            ],
+            "hats":[
+                {
+                    "foto": 1,
+                    "nombre": "Feastivus Partyhat",
+                    "rareza": "SuperRare",
+                    "obtencion": "100% character challenge completion reward during Feastivus",
+                    "extra": ""
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Frosty Fantastico",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Furry Hero Cap",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Ironing Out",
+                    "rareza": "Rare",
+                    "obtencion": "Purchasable from Otto Do in zombie Town Center",
+                    "extra": ""
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Mister Mallow",
+                    "rareza": "SuperRare",
+                    "obtencion": "100% character challenge completion reward during Fall Food Fight",
+                    "extra": ""
+                },
+                {
+                    "foto": 6,
+                    "nombre": "None",
+                    "rareza": "Standard",
+                    "obtencion": "Unlocked from the start",
+                    "extra": ""
+                },
+                {
+                    "foto": 7,
+                    "nombre": "Pigtails of Power",
+                    "rareza": "Common",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 8,
+                    "nombre": "Right of Dummies",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Dreadwood",
+                    "extra": ""
+                },
+                {
+                    "foto": 9,
+                    "nombre": "Thought Projector",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Blight Cap",
+                    "extra": ""
+                },
+                {
+                    "foto": 10,
+                    "nombre": "Valentino Superpug",
+                    "rareza": "Legendary",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 11,
+                    "nombre": "Windmill Wonderland",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Sir Biff",
+                    "extra": ""
+                },
+                {
+                    "foto": 12,
+                    "nombre": "No accessories",
+                    "rareza": "N/A",
+                    "obtencion": "Unlocked from the start",
+                    "extra": ""
+                }
+            ]
             
+                      
         }
         
     ]
