@@ -521,9 +521,188 @@
                     "obtencion": "Unlocked from the start",
                     "extra": ""
                 }
+            ]      
+        },
+        {
+            "nombre":"80s action hero",
+            "descrip":"Zombies of few words and fewer thoughts, their bows have been looking to “make friends” ever since a plant insulted their hairdo.",
+            "clase":"ataque",
+            "skins":[
+                {
+                    "foto": 1,
+                    "nombre": "General D-Zero",
+                    "rareza": "Legendary",
+                    "obtencion": "Purchasable from Rux for 1,000 rainbow stars",
+                    "extra": "Sent back in time to get matching shark vest for his flying buddy, Zero."
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Hot Dog",
+                    "rareza": "Common",
+                    "obtencion": "Springening prize map, 10 prize bulbs",
+                    "extra": "Frankly, you bet your buns he relishes the opportunity to catch up with your friends."
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Judge Z",
+                    "rareza": "Legendary",
+                    "obtencion": "Purchasing Deluxe Edition Upgrade or Origin Access Premier subscription. Pre-ordering the game (Nintendo Switch Edition only).",
+                    "extra": "Judge, Jury, and excessive wearer of bling. The costume description is a reference to the phrase 'Judge, Jury, and Executioner'."
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Lite Fighter",
+                    "rareza": "Common",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "He fights for the 'Lite,' which is a lamp that's always been kind to him."
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Masked Mayhem",
+                    "rareza": "SuperRare",
+                    "obtencion": "Purchasable from Rux for 800 rainbow stars",
+                    "extra": "Leads the Masked Snakes of Mayhem, which has one member: him."
+                },
+                {
+                    "foto": 6,
+                    "nombre": "The Finisher",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "He didn't start the post-apocalypse, but he'll finish it. Whatever that means."
+                },
+                {
+                    "foto": 7,
+                    "nombre": "Unicorn Hero",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "When you need help, or a LOT of glitter in your eyes, he'll find you."
+                }
+            ],
+            "sets":[
+                {
+                    "foto": 1,
+                    "nombre": "Cy-Punk Funk",
+                    "rareza": "SuperRare",
+                    "obtencion": "Purchasable from Rux for 600 rainbow stars",
+                    "extra": "This set has a description: His cyborg eye lets him spot gnarly mosh pits at 400 yards."
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Groovy Smooth",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Mighty Mistake",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "This set is used by NPC Brick Fistmissile. The cast contains signatures from Dr. Zomboss, All-Star, and Scientist."
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Rainbow Bling",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                }
+            ],
+            "hats":[
+                {
+                    "foto": 1,
+                    "nombre": "Action Cam",
+                    "rareza": "Legendary",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Battlecat Blast Hat",
+                    "rareza": "Legendary",
+                    "obtencion": "Snow Day prize map, cost 10 prize bulbs",
+                    "extra": ""
+                },
+                {
+                    "foto": 3,
+                    "nombre": "80s action hero partyhat",
+                    "rareza": "SuperRare",
+                    "obtencion": "100% character challenge completion reward during Feastivus",
+                    "extra": ""
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Glam Town",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Hero of Power",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Hero Surprise",
+                    "rareza": "Rare",
+                    "obtencion": "Purchasable from Rux for 150 rainbow stars",
+                    "extra": ""
+                },
+                {
+                    "foto": 7,
+                    "nombre": "80s mister mallow",
+                    "rareza": "SuperRare",
+                    "obtencion": "100% character challenge completion reward during Fall Food Fight",
+                    "extra": ""
+                },
+                {
+                    "foto": 8,
+                    "nombre": "80s no hat",
+                    "rareza": "Standard",
+                    "obtencion": "Unlocked from the start",
+                    "extra": ""
+                },
+                {
+                    "foto": 9,
+                    "nombre": "Right of Dummies 80s",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Dreadwood",
+                    "extra": ""
+                },
+                {
+                    "foto": 10,
+                    "nombre": "Slithering Scalecap",
+                    "rareza": "Common",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 11,
+                    "nombre": "Thought Projector 80s",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Blight Cap",
+                    "extra": ""
+                },
+                {
+                    "foto": 12,
+                    "nombre": "Windmill Wonderland 80s",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Sir Biff",
+                    "extra": ""
+                },
+                {
+                    "foto": 13,
+                    "nombre": "No accessories",
+                    "rareza": "N/A",
+                    "obtencion": "Unlocked from the start",
+                    "extra": ""
+                }
             ]
+                   
             
-                      
         }
         
     ]
