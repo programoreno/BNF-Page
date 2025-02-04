@@ -701,7 +701,54 @@
                     "extra": ""
                 }
             ]
-                   
+        },{
+            "nombre":"electric slide",
+            "descrip":"Live wires in every sense, Electric Slides light up every battle with their relentless dancing and shockingly amped up attacks.",
+            "clase":"ataque",
+            "skins":[
+                {
+                    "foto": 1,
+                    "nombre": "Darkwheels",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Roller derby champion known for her signature move: a big push."
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Downhill-Jingle Slide",
+                    "rareza": "SuperRare",
+                    "obtencion": "Purchasing Season's Eatingz Upgrade",
+                    "extra": "If she realized she was skiing on roller skate wheels of ice, she'd fall for sure."
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Eternity Flash",
+                    "rareza": "Legendary",
+                    "obtencion": "Purchasable from Rux for 1,000 rainbow stars",
+                    "extra": "Helmet hair, don't care."
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Hotrod Hightail",
+                    "rareza": "SuperRare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Fastest Slide in the South Side by a landslide! This costume is used by Battle Leader Rolleeta."
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Mod Racer",
+                    "rareza": "Rare",
+                    "obtencion": "Purchasable from Rux for 550 rainbow stars",
+                    "extra": "She lives life in the fast lane. It's VERY stressful during rush hour."
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Orange Fury",
+                    "rareza": "Common",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "She thinks plants hate orange. Maybe she's never seen a Citron?"
+                }
+            ]
             
         }
         
