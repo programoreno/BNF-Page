@@ -221,7 +221,7 @@
                 },
                 {
                     "foto": 5,
-                    "nombre": "Kitty Darling Z-9000*",
+                    "nombre": "Kitty Darling Z-9000",
                     "rareza": "Legendary",
                     "obtencion": "Purchasable from Rux for 1000 rainbow stars.",
                     "extra": "The cute cat videos she posts have WAY more explosions than the competition."
@@ -263,7 +263,93 @@
                     "obtencion": "Reward-O-Tron",
                     "extra": "This set is used by the NPC Bart Barian."
                 }
-            ]
+            ],
+            "hats":[
+                {
+                    "foto": 1,
+                    "nombre": "Bug Beatz",
+                    "rareza": "Legendary",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Chameleon Cap",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Worn by NPC Monty at Giddy Park"
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Ele-Flop",
+                    "rareza": "Rare",
+                    "obtencion": "Snow Day prize map, cost 5 prize bulbs",
+                    "extra": ""
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Feastivus Partyhat",
+                    "rareza": "SuperRare",
+                    "obtencion": "100% character challenge completion reward during Feastivus",
+                    "extra": ""
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Glitched Signalz",
+                    "rareza": "Legendary",
+                    "obtencion": "Valenbrainz prize map, costs 20 prize bulbs",
+                    "extra": ""
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Mister Mallow",
+                    "rareza": "SuperRare",
+                    "obtencion": "100% character challenge completion reward during Fall Food Fight",
+                    "extra": ""
+                },
+                {
+                    "foto": 7,
+                    "nombre": "None",
+                    "rareza": "N/A",
+                    "obtencion": "Unlocked from the start",
+                    "extra": ""
+                },
+                {
+                    "foto": 8,
+                    "nombre": "Right of Dummies",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Dreadwood",
+                    "extra": ""
+                },
+                {
+                    "foto": 9,
+                    "nombre": "Target Tyrant",
+                    "rareza": "SuperRare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 10,
+                    "nombre": "Thought Projector",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Blight Cap",
+                    "extra": ""
+                },
+                {
+                    "foto": 11,
+                    "nombre": "Transmission Trapper",
+                    "rareza": "SuperRare",
+                    "obtencion": "Purchasable from Rux for 250 rainbow stars",
+                    "extra": ""
+                },
+                {
+                    "foto": 12,
+                    "nombre": "Windmill Wonderland",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Sir Biff",
+                    "extra": ""
+                }
+            ]            
             
         }
         
