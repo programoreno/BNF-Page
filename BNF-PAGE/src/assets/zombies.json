@@ -748,7 +748,38 @@
                     "obtencion": "Reward-O-Tron",
                     "extra": "She thinks plants hate orange. Maybe she's never seen a Citron?"
                 }
+            ],
+            "sets":[
+                {
+                    "foto": 1,
+                    "nombre": "Destination Punk",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "This set is used by the Bounty Zombies Shock Wheelz Crew."
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Disco Dazzle",
+                    "rareza": "SuperRare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "This set is used by the NPC Power Cora."
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Scarebear Party",
+                    "rareza": "Rare",
+                    "obtencion": "Three separate items in Lawn of Doom prize map, cost 21 prize bulbs in total",
+                    "extra": "The name and appearance of this set is a reference to Freddy Fazbear and Shadow Freddy, a character in Five Nights at Freddy's."
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Z-Bling Rancher",
+                    "rareza": "Rare",
+                    "obtencion": "Purchasable from Otto Do in zombie Town Center for 300 tacos after unlocking 35 medals for the region",
+                    "extra": "A Champion Electric Slide wears this set in the quest Will You Be My Posse?"
+                }
             ]
+            
             
         }
         
