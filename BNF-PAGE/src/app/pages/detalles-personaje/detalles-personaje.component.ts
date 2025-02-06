@@ -5,11 +5,12 @@ import { PersonajesService } from '../../service/personajes.service';
 import { PresentacionComponent } from "../../component/presentacion/presentacion.component";
 import { TabsComponent } from "../../component/tabs/tabs.component";
 import { ActivatedRoute } from '@angular/router';
+import { FooterComponent } from "../../component/footer/footer.component";
 
 @Component({
   selector: 'app-detalles-personaje',
   standalone: true,
-  imports: [CommonModule, PresentacionComponent, TabsComponent],
+  imports: [CommonModule, PresentacionComponent, TabsComponent, FooterComponent],
   templateUrl: './detalles-personaje.component.html',
   styleUrl: './detalles-personaje.component.css'
 })
