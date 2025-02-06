@@ -701,7 +701,8 @@
                     "extra": ""
                 }
             ]
-        },{
+        },
+        {
             "nombre":"electric slide",
             "descrip":"Live wires in every sense, Electric Slides light up every battle with their relentless dancing and shockingly amped up attacks.",
             "clase":"ataque",
@@ -778,8 +779,253 @@
                     "obtencion": "Purchasable from Otto Do in zombie Town Center for 300 tacos after unlocking 35 medals for the region",
                     "extra": "A Champion Electric Slide wears this set in the quest Will You Be My Posse?"
                 }
+            ],
+            "hats":[
+                {
+                    "foto": 1,
+                    "nombre": "Crash Cap",
+                    "rareza": "Common",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Disco Destruction",
+                    "rareza": "SuperRare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Dancehat Dynamo",
+                    "rareza": "Legendary",
+                    "obtencion": "Fall Food Fight prize map, cost 10 prize bulbs",
+                    "extra": ""
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Electro Striker",
+                    "rareza": "Legendary",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Electro-Cat",
+                    "rareza": "SuperRare",
+                    "obtencion": "Lawn of Doom prize map, cost 7 prize bulbs",
+                    "extra": ""
+                },
+                {
+                    "foto": 6,
+                    "nombre": "Feastivus Partyhat",
+                    "rareza": "SuperRare",
+                    "obtencion": "100% character challenge completion reward during Feastivus",
+                    "extra": ""
+                },
+                {
+                    "foto": 7,
+                    "nombre": "Mister Mallow",
+                    "rareza": "SuperRare",
+                    "obtencion": "100% character challenge completion reward during Fall Food Fight",
+                    "extra": ""
+                },
+                {
+                    "foto": 8,
+                    "nombre": "None",
+                    "rareza": "Standard",
+                    "obtencion": "Unlocked from the start",
+                    "extra": ""
+                },
+                {
+                    "foto": 9,
+                    "nombre": "Right of Dummies",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Dreadwood",
+                    "extra": ""
+                },
+                {
+                    "foto": 10,
+                    "nombre": "Thought Projector",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Blight Cap",
+                    "extra": ""
+                },
+                {
+                    "foto": 11,
+                    "nombre": "Warning Cone",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Worn by NPC Bea Careful at Giddy Park"
+                },
+                {
+                    "foto": 12,
+                    "nombre": "Windmill Wonderland",
+                    "rareza": "SuperRare",
+                    "obtencion": "Defeating Sir Biff",
+                    "extra": ""
+                },
+                {
+                    "foto":13,
+                    "nombre":"No accessories",
+                    "rareza":"N/A",
+                    "obtencion":"Unlocked from the start",
+                    "extra":""
+                }
             ]
-            
+        },
+        {
+            "nombre":"captain deadbear",
+            "descrip":"Captain Deadbeards are long-range specialists. Use abilities to get to high ground or take to the air with your Parrot Drone to attack from above.",
+            "clase":"defensa",
+            "skins":[
+                {
+                    "foto": 1,
+                    "nombre": "Captain Blingbutton",
+                    "rareza": "Super Rare",
+                    "obtencion": "Purchasable from Rux for 800 rainbow stars",
+                    "extra": "By the time he's finished getting dressed, the battle's usually over."
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Captain Patchy",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Captain Patchy rolls with the Pirate Doggy Crew: a team of quilting zombies. This costume is used by the Bounty Zombie Captain Featherbrainz."
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Captain Shipwreck",
+                    "rareza": "Super Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Having crabs on your head means free haircuts, and a LOT of pinching. Used by Battle Chest leader Peg Legpuller and Elusive Foe Squdidy Shaw."
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Cut Lass",
+                    "rareza": "Super Rare",
+                    "obtencion": "Purchasable from Rux for 800 rainbow stars",
+                    "extra": "TBA"
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Purple Pirate",
+                    "rareza": "Common",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "After a laundry mishap, the White Pirate rebranded himself as the Purple Pirate."
+                }
+            ],
+            "sets":[
+                {
+                    "foto": 1,
+                    "nombre": "Big Boom",
+                    "rareza": "Rare",
+                    "obtencion": "Purchasing four individual parts from Otto Do in zombie Town Center for a total of 500 tacos",
+                    "extra": ""
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Overboard",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Sharky Shark",
+                    "rareza": "Super Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                }
+            ],
+            "hats":[
+                {
+                    "foto": 1,
+                    "nombre": "Crow's Nest",
+                    "rareza": "Legendary",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Feastivus Partyhat",
+                    "rareza": "Super Rare",
+                    "obtencion": "100% character challenge completion reward during Feastivus",
+                    "extra": "Universal (plants and zombies)"
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Feathered Flotilla",
+                    "rareza": "Rare",
+                    "obtencion": "Purchasable from Otto Do in Weirding Woods",
+                    "extra": ""
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Ironclad Furnace",
+                    "rareza": "Super Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Mister Mallow",
+                    "rareza": "Super Rare",
+                    "obtencion": "100% character challenge completion reward during Fall Food Fight",
+                    "extra": "Universal (plants and zombies)"
+                },
+                {
+                    "foto": 6,
+                    "nombre": "None",
+                    "rareza": "Standard",
+                    "obtencion": "Unlocked from the start",
+                    "extra": ""
+                },
+                {
+                    "foto": 7,
+                    "nombre": "Octo-Dinner",
+                    "rareza": "Super Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 8,
+                    "nombre": "Right of Dummies",
+                    "rareza": "Super Rare",
+                    "obtencion": "Defeating Dreadwood",
+                    "extra": "Universal (zombies)"
+                },
+                {
+                    "foto": 9,
+                    "nombre": "Sardine Sailing",
+                    "rareza": "Rare",
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
+                },
+                {
+                    "foto": 10,
+                    "nombre": "Thought Projector",
+                    "rareza": "Super Rare",
+                    "obtencion": "Defeating Blight Cap",
+                    "extra": "Universal (zombies)"
+                },
+                {
+                    "foto": 11,
+                    "nombre": "Windmill Wonderland",
+                    "rareza": "Super Rare",
+                    "obtencion": "Defeating Sir Biff",
+                    "extra": "Universal (plants and zombies)"
+                },
+                {
+                    "foto": 12,
+                    "nombre": "No mouth attachment",
+                    "rareza": "N/A",
+                    "obtencion": "Unlocked from the start",
+                    "extra": ""
+                }
+            ]            
+        },
+        {
             
         }
         
