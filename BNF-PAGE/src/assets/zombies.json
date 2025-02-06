@@ -1034,41 +1034,36 @@
                     "foto": 1,
                     "nombre": "All-Superion",
                     "rareza": "Legendary",
-                    "descripcion": "Master Champion of Brainzball: the only sport of the future that matters (to him).",
                     "obtencion": "Purchasable from Rux for 1,000 rainbow stars",
-                    "extra": "Brainzball is a reference to Brainball, a competitive mode in Plants vs. Zombies Adventures."
+                    "extra": "Master Champion of Brainzball: the only sport of the future that matters (to him)."
                 },
                 {
                     "foto": 2,
                     "nombre": "Purple Pulverizer",
                     "rareza": "Common",
-                    "descripcion": "He can't get more purple than this. He's tried.",
                     "obtencion": "Reward-O-Tron",
-                    "extra": ""
+                    "extra": "He can't get more purple than this. He's tried."
                 },
                 {
                     "foto": 3,
                     "nombre": "Team Wolfy",
                     "rareza": "SuperRare",
-                    "descripcion": "He's on his own team, making his own rules, so he always wins!",
                     "obtencion": "Purchasable from Otto Do in Weirding Woods for 300 tacos after unlocking 35 medals for the region",
-                    "extra": "This costume is a reference to the Youtuber Wolfy Playz."
+                    "extra": "He's on his own team, making his own rules, so he always wins!"
                 },
                 {
                     "foto": 4,
                     "nombre": "Tiger Shrimp Endzone",
                     "rareza": "Rare",
-                    "descripcion": "Tiger Shrimp Endzone does not know what a tiger, shrimp, or an endzone is.",
                     "obtencion": "Reward-O-Tron",
-                    "extra": ""
+                    "extra": "Tiger Shrimp Endzone does not know what a tiger, shrimp, or an endzone is."
                 },
                 {
                     "foto": 5,
                     "nombre": "Ultimate Champ Star",
                     "rareza": "SuperRare",
-                    "descripcion": "Tough as nails until he gets a splinter, then watch him whimper.",
                     "obtencion": "Founders Edition 2nd week reward",
-                    "extra": ""
+                    "extra": "Tough as nails until he gets a splinter, then watch him whimper."
                 }
             ],
             "sets":[
@@ -1076,7 +1071,6 @@
                     "foto": 1,
                     "nombre": "Golf Gully",
                     "rareza": "Rare",
-                    "descripcion": "",
                     "obtencion": "Reward-O-Tron",
                     "extra": ""
                 },
@@ -1084,7 +1078,6 @@
                     "foto": 2,
                     "nombre": "Kendo Doomjaw",
                     "rareza": "Rare",
-                    "descripcion": "",
                     "obtencion": "Reward-O-Tron",
                     "extra": ""
                 },
@@ -1092,7 +1085,6 @@
                     "foto": 3,
                     "nombre": "Mr. Bikes",
                     "rareza": "Rare",
-                    "descripcion": "",
                     "obtencion": "Reward-O-Tron",
                     "extra": ""
                 }
@@ -1102,83 +1094,74 @@
                     "foto": 1,
                     "nombre": "Dart Punk",
                     "rareza": "Rare",
-                    "descripcion": "This hat's name may be a reference to French electronic duo Daft Punk.",
                     "obtencion": "Fall Festival prize map, 5 prize bulbs",
-                    "extra": ""
+                    "extra": "This hat's name may be a reference to French electronic duo Daft Punk."
                 },
                 {
                     "foto": 2,
                     "nombre": "Dumbbell Delight",
                     "rareza": "Common",
-                    "descripcion": "",
                     "obtencion": "Reward-O-Tron",
                     "extra": ""
                 },
                 {
                     "foto": 3,
-                    "nombre": "All-star partyhat",
+                    "nombre": "Feastivus Partyhat",
                     "rareza": "SuperRare",
-                    "descripcion": "100% character challenge completion reward during Feastivus",
-                    "obtencion": "Feastivus Partyhat",
-                    "extra": "Universal (plants and zombies)"
+                    "obtencion": "100% character challenge completion reward during Feastivus",
+                    "extra": ""
                 },
                 {
                     "foto": 4,
                     "nombre": "Goal-O-Matic",
                     "rareza": "Legendary",
-                    "descripcion": "",
                     "obtencion": "Reward-O-Tron",
-                    "extra": "Reaction"
+                    "extra": ""
                 },
                 {
                     "foto": 5,
-                    "nombre": "All star mister mallow",
+                    "nombre": "Mister Mallow",
                     "rareza": "SuperRare",
-                    "descripcion": "100% character challenge completion reward during Fall Food Fight",
-                    "obtencion": "Mister Mallow",
-                    "extra": "Universal (plants and zombies)"
+                    "obtencion": "100% character challenge completion reward during Fall Food Fight",
+                    "extra": ""
                 },
                 {
                     "foto": 6,
-                    "nombre": "No hat all star",
+                    "nombre": "No Hat",
                     "rareza": "Standard",
-                    "descripcion": "",
                     "obtencion": "Unlocked from the start",
-                    "extra": "N/A"
+                    "extra": ""
                 },
                 {
                     "foto": 7,
-                    "nombre": "Right of dummies all star",
+                    "nombre": "Right of Dummies",
                     "rareza": "SuperRare",
-                    "descripcion": "",
                     "obtencion": "Defeating Dreadwood",
-                    "extra": "Universal (zombies)"
+                    "extra": ""
                 },
                 {
                     "foto": 8,
                     "nombre": "Strategy Cap",
                     "rareza": "Rare",
-                    "descripcion": "",
                     "obtencion": "Reward-O-Tron",
-                    "extra": "Spectrum"
+                    "extra": ""
                 },
                 {
                     "foto": 9,
-                    "nombre": "Thought Projector all star",
+                    "nombre": "Thought Projector",
                     "rareza": "SuperRare",
-                    "descripcion": "",
                     "obtencion": "Defeating Blight Cap",
-                    "extra": "Universal (zombies)"
+                    "extra": ""
                 },
                 {
                     "foto": 10,
-                    "nombre": "Windmill Wonderland all star",
+                    "nombre": "Windmill Wonderland",
                     "rareza": "SuperRare",
-                    "descripcion": "",
                     "obtencion": "Defeating Sir Biff",
-                    "extra": "Universal (plants and zombies)"
+                    "extra": ""
                 }
-            ]            
+            ]
+                    
         },
         {
             "nombre":"space cadet",
@@ -1189,57 +1172,50 @@
                     "foto": 1,
                     "nombre": "Cold Steel",
                     "rareza": "Common",
-                    "descripcion": "Cold Steel is made of luke-warm aluminum, oddly.",
                     "obtencion": "Reward-O-Tron",
-                    "extra": ""
+                    "extra": "Cold Steel is made of luke-warm aluminum, oddly."
                 },
                 {
                     "foto": 2,
                     "nombre": "Fantasy Flightmaster",
                     "rareza": "SuperRare",
-                    "descripcion": "She's actually scared of heights, but only when viewed from the bottom.",
                     "obtencion": "Reward-O-Tron",
-                    "extra": ""
+                    "extra": "She's actually scared of heights, but only when viewed from the bottom."
                 },
                 {
                     "foto": 3,
                     "nombre": "Majorly Magenta",
                     "rareza": "Common",
-                    "descripcion": "If you start turning purple in space, that's usually a bad sign. She probably fine though.",
                     "obtencion": "Garden Party prize map, 10 Prize Bulbs",
-                    "extra": "Icon Astronaut Skin DefaultPurple large"
+                    "extra": "If you start turning purple in space, that's usually a bad sign. She probably fine though."
                 },
                 {
                     "foto": 4,
                     "nombre": "Overlord Zorgy",
                     "rareza": "Legendary",
-                    "descripcion": "She sneezed in her helmet, and it won't come off. Other than that, she's pretty cool.",
                     "obtencion": "Purchasable from Rux for 1000 rainbow stars",
-                    "extra": "Icon Astronaut Skin LordZ Large"
+                    "extra": "She sneezed in her helmet, and it won't come off. Other than that, she's pretty cool."
                 },
                 {
                     "foto": 5,
                     "nombre": "Space Racer",
                     "rareza": "Rare",
-                    "descripcion": "She's sponsored by a sticker company.",
                     "obtencion": "Reward-O-Tron",
-                    "extra": "This costume is used by Battle Leader Red Janet"
+                    "extra": "She's sponsored by a sticker company. This costume is used by Battle Leader Red Janet."
                 }
-            ],
+            ],            
             "sets":[
                 {
                     "foto": 1,
                     "nombre": "Bash Bonko",
                     "rareza": "Rare",
-                    "descripcion": "Three separate items in Feastivus prize map, costs 21 prize bulbs in total.",
-                    "obtencion": "Feastivus prize map",
+                    "obtencion": "Three separate items in Feastivus prize map, costs 21 prize bulbs in total.",
                     "extra": "The boxer appearance of this set is a reference to Boxing Day, a holiday celebrated the day after Christmas Day."
                 },
                 {
                     "foto": 2,
                     "nombre": "Funporium Explorium",
                     "rareza": "Rare",
-                    "descripcion": "Reward-O-Tron",
                     "obtencion": "Reward-O-Tron",
                     "extra": ""
                 },
@@ -1247,7 +1223,6 @@
                     "foto": 3,
                     "nombre": "Space Chopper",
                     "rareza": "Rare",
-                    "descripcion": "Reward-O-Tron",
                     "obtencion": "Reward-O-Tron",
                     "extra": ""
                 }
@@ -1257,7 +1232,6 @@
                     "foto": 1,
                     "nombre": "Danger Goggles",
                     "rareza": "SuperRare",
-                    "descripcion": "Reward-O-Tron",
                     "obtencion": "Reward-O-Tron",
                     "extra": ""
                 },
@@ -1265,15 +1239,13 @@
                     "foto": 2,
                     "nombre": "Space Cadet Partyhat",
                     "rareza": "SuperRare",
-                    "descripcion": "100% character challenge completion reward during Feastivus",
                     "obtencion": "Feastivus Partyhat",
-                    "extra": "Universal (plants and zombies)"
+                    "extra": "100% character challenge completion reward during Feastivus"
                 },
                 {
                     "foto": 3,
                     "nombre": "Laser Master",
                     "rareza": "Legendary",
-                    "descripcion": "Reward-O-Tron",
                     "obtencion": "Reward-O-Tron",
                     "extra": ""
                 },
@@ -1281,75 +1253,66 @@
                     "foto": 4,
                     "nombre": "Megalo Mindreader",
                     "rareza": "Rare",
-                    "descripcion": "Reward-O-Tron or the Fall Festival prize map, costs 5 bulbs.",
-                    "obtencion": "Reward-O-Tron or Fall Festival prize map",
+                    "obtencion": "Reward-O-Tron or the Fall Festival prize map, costs 5 bulbs.",
                     "extra": "This is the only customization that can be obtained through both the Reward-O-Tron and a Prize Map."
                 },
                 {
                     "foto": 5,
-                    "nombre": "Space Cadet Mister Mallow",
+                    "nombre": "Mister Mallow",
                     "rareza": "SuperRare",
-                    "descripcion": "100% character challenge completion reward during Fall Food Fight",
                     "obtencion": "Fall Food Fight",
-                    "extra": "Universal (plants and zombies)"
+                    "extra": "100% character challenge completion reward during Fall Food Fight"
                 },
                 {
                     "foto": 6,
                     "nombre": "No Hat Space Cadet",
-                    "rareza": "Standard",
-                    "descripcion": "Unlocked from the start",
+                    "rareza": "N/A",
                     "obtencion": "Unlocked from the start",
-                    "extra": "N/A"
+                    "extra": ""
                 },
                 {
                     "foto": 7,
                     "nombre": "Oblong Helmet Hair",
                     "rareza": "Common",
-                    "descripcion": "Reward-O-Tron",
                     "obtencion": "Reward-O-Tron",
-                    "extra": "Spectrum"
+                    "extra": ""
                 },
                 {
                     "foto": 8,
-                    "nombre": "Right of Dummies Space Cadet",
+                    "nombre": "Right of Dummies",
                     "rareza": "SuperRare",
-                    "descripcion": "Defeating Dreadwood",
                     "obtencion": "Defeating Dreadwood",
-                    "extra": "Universal (zombies)"
+                    "extra": ""
                 },
                 {
                     "foto": 9,
                     "nombre": "Rocko Rocket",
                     "rareza": "Rare",
-                    "descripcion": "Purchasable from Rux for 150 rainbow stars",
-                    "obtencion": "Rux",
-                    "extra": "Standard"
+                    "obtencion": "Purchasable from Rux for 150 rainbow stars",
+                    "extra": ""
                 },
                 {
                     "foto": 10,
                     "nombre": "Space Telescope",
                     "rareza": "Rare",
-                    "descripcion": "Purchasable from Rux for 150 rainbow stars",
-                    "obtencion": "Rux",
-                    "extra": "Standard"
+                    "obtencion": "Purchasable from Rux for 150 rainbow stars",
+                    "extra": ""
                 },
                 {
                     "foto": 11,
-                    "nombre": "Thought Projector Space Cadet",
+                    "nombre": "Thought Projector",
                     "rareza": "SuperRare",
-                    "descripcion": "Defeating Blight Cap",
                     "obtencion": "Defeating Blight Cap",
-                    "extra": "Universal (zombies)"
+                    "extra": ""
                 },
                 {
                     "foto": 12,
-                    "nombre": "Windmill Wonderland Space Cadet",
+                    "nombre": "Windmill Wonderland",
                     "rareza": "SuperRare",
-                    "descripcion": "Defeating Sir Biff",
                     "obtencion": "Defeating Sir Biff",
-                    "extra": "Universal (plants and zombies)"
+                    "extra": ""
                 }
-            ]                    
+            ]                
         },
         {
             "nombre":"scientist",
@@ -1360,57 +1323,50 @@
                     "foto": 1,
                     "nombre": "Commander S",
                     "rareza": "SuperRare",
-                    "descripcion": "Likes to get 'beamed up' by waving a flashlight around and then running away.",
                     "obtencion": "Reward-O-Tron",
-                    "extra": "This is the only costume that adds a right shoe to the Scientist. This costume is used by Battle Leader Dr. Spork."
+                    "extra": "Likes to get 'beamed up' by waving a flashlight around and then running away.\n\nThis is the only costume that adds a right shoe to the Scientist.\nThis costume is used by Battle Leader Dr. Spork."
                 },
                 {
                     "foto": 2,
                     "nombre": "Domino Dynamo",
                     "rareza": "Rare",
-                    "descripcion": "What's black and white, and red all over? This guy when he's a little crabby.",
                     "obtencion": "Purchasable from Rux for 550 rainbow stars",
-                    "extra": "Icon Scientist Skin DefaultBlackAndWhite large"
+                    "extra": "What's black and white, and red all over? This guy when he's a little crabby."
                 },
                 {
                     "foto": 3,
                     "nombre": "Foil Fanatic",
                     "rareza": "Rare",
-                    "descripcion": "If foil is used to keep things fresh, why does he smell so bad?",
                     "obtencion": "Reward-O-Tron",
-                    "extra": "This costume is used by the Big Boy Gang Leader and Elusive Foe Mag Pete-O."
+                    "extra": "If foil is used to keep things fresh, why does he smell so bad?\n\nThis costume is used by the Big Boy Gang Leader and Elusive Foe Mag Pete-O."
                 },
                 {
                     "foto": 4,
                     "nombre": "Maroon Buffoon",
                     "rareza": "Common",
-                    "descripcion": "Even inside-out, all his clothes are maroon. Impressive!",
                     "obtencion": "Reward-O-Tron",
-                    "extra": ""
+                    "extra": "Even inside-out, all his clothes are maroon. Impressive!"
                 },
                 {
                     "foto": 5,
                     "nombre": "Sprinkle Science",
                     "rareza": "SuperRare",
-                    "descripcion": "When he saw candy, he thought 'weapon.' Well, 'thought' is a strong word.",
                     "obtencion": "Fall Food Fight prize map, cost 10 prize bulbs",
-                    "extra": "Sprinkle Science"
+                    "extra": "When he saw candy, he thought 'weapon.' Well, 'thought' is a strong word."
                 },
                 {
                     "foto": 6,
                     "nombre": "Steam Master",
                     "rareza": "Legendary",
-                    "descripcion": "Steam's a dream when you use it for schemes. Otherwise, it's HOT!",
                     "obtencion": "Birthdayz prize map, cost 0 prize bulbs",
-                    "extra": "Icon Scientist Skin SteamPunk Large"
+                    "extra": "Steam's a dream when you use it for schemes. Otherwise, it's HOT!"
                 },
                 {
                     "foto": 7,
                     "nombre": "Sprocket Scientist",
                     "rareza": "Legendary",
-                    "descripcion": "Unknown",
                     "obtencion": "Birthdayz prize map completion reward",
-                    "extra": "Icon Scientist Skin SteamPunkBrown Large"
+                    "extra": "Unknown"
                 }
             ],
             "sets":[
@@ -1418,7 +1374,6 @@
                     "foto": 1,
                     "nombre": "Doctor Nurse",
                     "rareza": "Rare",
-                    "descripcion": "",
                     "obtencion": "Reward-O-Tron",
                     "extra": "This set is used by NPC Dr. Nurse Doctor."
                 },
@@ -1426,7 +1381,6 @@
                     "foto": 2,
                     "nombre": "Magnetic Magnificence",
                     "rareza": "Rare",
-                    "descripcion": "",
                     "obtencion": "Reward-O-Tron",
                     "extra": "This set is used by Elusive Foe Mag Pete-O."
                 },
@@ -1434,7 +1388,6 @@
                     "foto": 3,
                     "nombre": "Organism Overload",
                     "rareza": "Rare",
-                    "descripcion": "",
                     "obtencion": "Reward-O-Tron",
                     "extra": "This set is used by NPC Dr. Real Doctor."
                 }
@@ -1444,92 +1397,92 @@
                     "foto": 1,
                     "nombre": "Beaker Balancer",
                     "rareza": "Rare",
-                    "descripcion": "It is actually not a beaker glass, but rather a test tube.",
-                    "obtencion": "Lawn of Doom prize map, cost 7 prize bulbs."
+                    "obtencion": "Lawn of Doom prize map, cost 7 prize bulbs.",
+                    "extra": "It is actually not a beaker glass, but rather a test tube."
                 },
                 {
                     "foto": 2,
                     "nombre": "Bookworm",
                     "rareza": "SuperRare",
-                    "descripcion": "",
-                    "obtencion": "Reward-O-Tron"
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
                 },
                 {
                     "foto": 3,
-                    "nombre": "Scientist partyhat",
+                    "nombre": "Scientist Partyhat",
                     "rareza": "SuperRare",
-                    "descripcion": "100% character challenge completion reward during Feastivus.",
-                    "obtencion": "Feastivus Partyhat Universal (plants and zombies)"
+                    "obtencion": "100% character challenge completion reward during Feastivus",
+                    "extra": ""
                 },
                 {
                     "foto": 4,
                     "nombre": "Freezy Treat",
                     "rareza": "Rare",
-                    "descripcion": "",
-                    "obtencion": "Fall Food Fight prize map, cost 7 prize bulbs"
+                    "obtencion": "Fall Food Fight prize map, cost 7 prize bulbs",
+                    "extra": ""
                 },
                 {
                     "foto": 5,
                     "nombre": "Jelly Compound #5",
                     "rareza": "Rare",
-                    "descripcion": "",
-                    "obtencion": "Reward-O-Tron"
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
                 },
                 {
                     "foto": 6,
                     "nombre": "Mad Batty",
                     "rareza": "Rare",
-                    "descripcion": "",
-                    "obtencion": "Reward-O-Tron"
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
                 },
                 {
                     "foto": 7,
-                    "nombre": "Scientist mister mallow",
+                    "nombre": "Mister Mallow",
                     "rareza": "SuperRare",
-                    "descripcion": "100% character challenge completion reward during Fall Food Fight.",
-                    "obtencion": "Mister Mallow Universal (plants and zombies)"
+                    "obtencion": "100% character challenge completion reward during Fall Food Fight",
+                    "extra": ""
                 },
                 {
                     "foto": 8,
-                    "nombre": "No hat scientist",
+                    "nombre": "No Hat Scientist",
                     "rareza": "N/A",
-                    "descripcion": "",
-                    "obtencion": "Unlocked from the start"
+                    "obtencion": "Unlocked from the start",
+                    "extra": ""
                 },
                 {
                     "foto": 9,
                     "nombre": "Rat Master",
                     "rareza": "Legendary",
-                    "descripcion": "",
-                    "obtencion": "Reward-O-Tron"
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
                 },
                 {
                     "foto": 10,
-                    "nombre": "Right of Dummies scientist",
+                    "nombre": "Right of Dummies",
                     "rareza": "SuperRare",
-                    "descripcion": "Defeating Dreadwood.",
-                    "obtencion": "Universal (zombies)"
+                    "obtencion": "Defeating Dreadwood",
+                    "extra": ""
                 },
                 {
                     "foto": 11,
-                    "nombre": "Thought Projector scientist",
+                    "nombre": "Thought Projector",
                     "rareza": "SuperRare",
-                    "descripcion": "Defeating Blight Cap.",
-                    "obtencion": "Universal (zombies)"
+                    "obtencion": "Defeating Blight Cap",
+                    "extra": ""
                 },
                 {
                     "foto": 12,
-                    "nombre": "Windmill Wonderland scientist",
+                    "nombre": "Windmill Wonderland",
                     "rareza": "SuperRare",
-                    "descripcion": "Defeating Sir Biff.",
-                    "obtencion": "Universal (plants and zombies)"
-                },
+                    "obtencion": "Defeating Sir Biff",
+                    "extra": ""
+                },            
                 {
                     "foto": 13,
                     "nombre": "No accessories",
                     "rareza": "N/A",
-                    "descripcion": "",
-                    "obtencion": "Unlocked from the start"
+                    "obtencion": "Unlocked from the start",
+                    "extra":""
                 }
             ]
         },
@@ -1542,36 +1495,36 @@
                     "foto": 1,
                     "nombre": "Night Shift",
                     "rareza": "Common",
-                    "descripcion": "Nothing safer than working construction at night dressed all in black!",
-                    "obtencion": "Reward-O-Tron"
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Nothing safer than working construction at night dressed all in black!"
                 },
                 {
                     "foto": 2,
                     "nombre": "Dummy Cultist",
                     "rareza": "Rare",
-                    "descripcion": "Dedicated to the dumb-dumbness that Dummy makes you feel in your head parts.",
-                    "obtencion": "Purchasable from Otto Do in Weirding Woods for 500 marshmallows after unlocking all 50 medals for the region"
+                    "obtencion": "Purchasable from Otto Do in Weirding Woods for 500 marshmallows after unlocking all 50 medals for the region",
+                    "extra": "Dedicated to the dumb-dumbness that Dummy makes you feel in your head parts. This costume is used by Hugh D. Votee."
                 },
                 {
                     "foto": 3,
                     "nombre": "Feastivus Master",
                     "rareza": "Legendary",
-                    "descripcion": "He's a master of feastivus funny business.",
-                    "obtencion": "Feastivus prize map completion reward"
+                    "obtencion": "Feastivus prize map completion reward",
+                    "extra": "He's a master of feastivus funny business."
                 },
                 {
                     "foto": 4,
                     "nombre": "Inspiration Elf",
                     "rareza": "Legendary",
-                    "descripcion": "Was he inspired by elves or does he inspire elves?",
-                    "obtencion": "Feastivus prize map, costs 20 prize bulbs"
+                    "obtencion": "Feastivus prize map, costs 20 prize bulbs",
+                    "extra": "Was he inspired by elves or does he inspire elves?"
                 },
                 {
                     "foto": 5,
                     "nombre": "Painterly Splotchwork",
                     "rareza": "Rare",
-                    "descripcion": "Has yet to get paint on anything but himself.",
-                    "obtencion": "Reward-O-Tron"
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "Has yet to get paint on anything but himself. This costume is used by Battle Leader Basecoat Bert."
                 }
             ],
             "sets":[
@@ -1579,22 +1532,22 @@
                     "foto": 1,
                     "nombre": "Finer Miner",
                     "rareza": "SuperRare",
-                    "descripcion": "",
-                    "obtencion": "Reward-O-Tron"
+                    "obtencion": "Reward-O-Tron",
+                    "extra":""
                 },
                 {
                     "foto": 2,
                     "nombre": "Hotrod Hooligan",
                     "rareza": "Rare",
-                    "descripcion": "",
-                    "obtencion": "Reward-O-Tron"
+                    "obtencion": "Reward-O-Tron",
+                    "extra":""
                 },
                 {
                     "foto": 3,
                     "nombre": "Nautical Nonsense",
                     "rareza": "Rare",
-                    "descripcion": "This set is used by NPC Seabasstian.",
-                    "obtencion": "Reward-O-Tron"
+                    "obtencion": "Reward-O-Tron",
+                    "extra": "This set is used by NPC Seabasstian."
                 }
             ],
             "hats":[
@@ -1602,73 +1555,73 @@
                     "foto": 1,
                     "nombre": "Conk-1000",
                     "rareza": "Legendary",
-                    "descripcion": "",
-                    "obtencion": "Reward-O-Tron"
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
                 },
                 {
                     "foto": 2,
                     "nombre": "Extento-Wig",
                     "rareza": "Common",
-                    "descripcion": "",
-                    "obtencion": "Reward-O-Tron"
+                    "obtencion": "Reward-O-Tron",
+                    "extra": ""
                 },
                 {
                     "foto": 3,
                     "nombre": "Engineer Partyhat",
                     "rareza": "SuperRare",
-                    "descripcion": "100% character challenge completion reward during Feastivus.",
-                    "obtencion": "Feastivus Partyhat"
+                    "obtencion": "100% character challenge completion reward during Feastivus",
+                    "extra": ""
                 },
                 {
                     "foto": 4,
                     "nombre": "Hazard Head",
                     "rareza": "Rare",
-                    "descripcion": "Fall Food Fight prize map, cost 7 prize bulbs.",
-                    "obtencion": "Fall Food Fight prize map"
+                    "obtencion": "Fall Food Fight prize map, cost 7 prize bulbs",
+                    "extra": ""
                 },
                 {
                     "foto": 5,
                     "nombre": "Engineer Mister Mallow",
                     "rareza": "SuperRare",
-                    "descripcion": "100% character challenge completion reward during Fall Food Fight.",
-                    "obtencion": "Fall Food Fight"
+                    "obtencion": "100% character challenge completion reward during Fall Food Fight",
+                    "extra": ""
                 },
                 {
                     "foto": 6,
                     "nombre": "No Hat Engineer",
-                    "rareza": "Standard",
-                    "descripcion": "Unlocked from the start.",
-                    "obtencion": "N/A"
+                    "rareza": "N/A",
+                    "obtencion": "Unlocked from the start",
+                    "extra": ""
                 },
                 {
                     "foto": 7,
                     "nombre": "Right of Dummies Engineer",
                     "rareza": "SuperRare",
-                    "descripcion": "Defeating Dreadwood.",
-                    "obtencion": "Universal (zombies)"
+                    "obtencion": "Defeating Dreadwood",
+                    "extra": ""
                 },
                 {
                     "foto": 8,
                     "nombre": "Thought Projector Engineer",
                     "rareza": "SuperRare",
-                    "descripcion": "Defeating Blight Cap.",
-                    "obtencion": "Universal (zombies)"
+                    "obtencion": "Defeating Blight Cap",
+                    "extra": ""
                 },
                 {
                     "foto": 9,
                     "nombre": "Engineer Waffle Wobbler",
                     "rareza": "Rare",
-                    "descripcion": "Fall Food Fight prize map, cost 5 prize bulbs.",
-                    "obtencion": "Fall Food Fight prize map"
+                    "obtencion": "Fall Food Fight prize map, cost 5 prize bulbs",
+                    "extra": ""
                 },
                 {
                     "foto": 10,
                     "nombre": "Windmill Wonderland Engineer",
                     "rareza": "SuperRare",
-                    "descripcion": "Defeating Sir Biff.",
-                    "obtencion": "Universal (plants and zombies)"
+                    "obtencion": "Defeating Sir Biff",
+                    "extra": ""
                 }
-            ]                        
+            ]                                    
         },
         {
             "nombre":"wizard",
@@ -1679,36 +1632,36 @@
                     "foto": 1,
                     "nombre": "Fairy Step-Oddmother",
                     "rareza": "Legendary",
-                    "descripcion": "She'll make your dreams come true, especially the ones where you're chased by zombies.",
-                    "obtencion": "Purchasable from Rux for 1,000 rainbow stars"
+                    "obtencion": "Purchasable from Rux for 1,000 rainbow stars",
+                    "extra": "She'll make your dreams come true, especially the ones where you're chased by zombies."
                 },
                 {
                     "foto": 2,
                     "nombre": "Grand Elf",
                     "rareza": "Rare",
-                    "descripcion": "This elf can cast spells, but can't spell 'spells.' Or 'cast.' Or anything.",
-                    "obtencion": "Purchasable from Rux for 550 rainbow stars"
+                    "obtencion": "Purchasable from Rux for 550 rainbow stars",
+                    "extra": "This elf can cast spells, but can't spell 'spells.' Or 'cast.' Or anything."
                 },
                 {
                     "foto": 3,
                     "nombre": "Last Wishez",
                     "rareza": "Legendary",
-                    "descripcion": "Like toothpaste, he can't be put back in the bottle.",
-                    "obtencion": "Purchasable from Rux for 1,000 rainbow stars"
+                    "obtencion": "Purchasable from Rux for 1,000 rainbow stars",
+                    "extra": "Like toothpaste, he can't be put back in the bottle."
                 },
                 {
                     "foto": 4,
                     "nombre": "Snore-cerer",
                     "rareza": "Rare",
-                    "descripcion": "Last night, he had the strangest dream. And, unfortunately, he's gonna tell you all about it.",
-                    "obtencion": "Purchasable from Rux for 550 rainbow stars"
+                    "obtencion": "Purchasable from Rux for 550 rainbow stars",
+                    "extra": "Last night, he had the strangest dream. And, unfortunately, he's gonna tell you all about it."
                 },
                 {
                     "foto": 5,
                     "nombre": "Wishbreaker",
                     "rareza": "Legendary",
-                    "descripcion": "Looking for a roommate for his spacious 2-bedroom lamp. No pets.",
-                    "obtencion": "Luck O' the Zombie prize map completion reward"
+                    "obtencion": "Luck O' the Zombie prize map completion reward",
+                    "extra": "Looking for a roommate for his spacious 2-bedroom lamp. No pets."
                 }
             ]            
         },
