@@ -193,14 +193,14 @@
             "skins":[
                 {
                     "foto": 1,
-                    "nombre": "Crazy Colossus‡",
+                    "nombre": "Crazy Colossus",
                     "rareza": "Legendary",
                     "obtencion": "Fall Festival prize map completion reward.",
                     "extra": "No one can get past this Imp, except those who ask nicely."
                 },
                 {
                     "foto": 2,
-                    "nombre": "Impending Doom‡",
+                    "nombre": "Impending Doom",
                     "rareza": "Legendary",
                     "obtencion": "Fall Festival prize map, costs 20 bulbs.",
                     "extra": "He laughs, knowing their fate."
@@ -882,7 +882,7 @@
                 {
                     "foto": 1,
                     "nombre": "Captain Blingbutton",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Purchasable from Rux for 800 rainbow stars",
                     "extra": "By the time he's finished getting dressed, the battle's usually over."
                 },
@@ -896,14 +896,14 @@
                 {
                     "foto": 3,
                     "nombre": "Captain Shipwreck",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Reward-O-Tron",
                     "extra": "Having crabs on your head means free haircuts, and a LOT of pinching. Used by Battle Chest leader Peg Legpuller and Elusive Foe Squdidy Shaw."
                 },
                 {
                     "foto": 4,
                     "nombre": "Cut Lass",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Purchasable from Rux for 800 rainbow stars",
                     "extra": "TBA"
                 },
@@ -933,7 +933,7 @@
                 {
                     "foto": 3,
                     "nombre": "Sharky Shark",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Reward-O-Tron",
                     "extra": ""
                 }
@@ -949,7 +949,7 @@
                 {
                     "foto": 2,
                     "nombre": "Feastivus Partyhat",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "100% character challenge completion reward during Feastivus",
                     "extra": "Universal (plants and zombies)"
                 },
@@ -963,14 +963,14 @@
                 {
                     "foto": 4,
                     "nombre": "Ironclad Furnace",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Reward-O-Tron",
                     "extra": ""
                 },
                 {
                     "foto": 5,
                     "nombre": "Mister Mallow",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "100% character challenge completion reward during Fall Food Fight",
                     "extra": "Universal (plants and zombies)"
                 },
@@ -984,14 +984,14 @@
                 {
                     "foto": 7,
                     "nombre": "Octo-Dinner",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Reward-O-Tron",
                     "extra": ""
                 },
                 {
                     "foto": 8,
                     "nombre": "Right of Dummies",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Defeating Dreadwood",
                     "extra": "Universal (zombies)"
                 },
@@ -1005,14 +1005,14 @@
                 {
                     "foto": 10,
                     "nombre": "Thought Projector",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Defeating Blight Cap",
                     "extra": "Universal (zombies)"
                 },
                 {
                     "foto": 11,
                     "nombre": "Windmill Wonderland",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "obtencion": "Defeating Sir Biff",
                     "extra": "Universal (plants and zombies)"
                 },
@@ -1049,7 +1049,7 @@
                 {
                     "foto": 3,
                     "nombre": "Team Wolfy",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "He's on his own team, making his own rules, so he always wins!",
                     "obtencion": "Purchasable from Otto Do in Weirding Woods for 300 tacos after unlocking 35 medals for the region",
                     "extra": "This costume is a reference to the Youtuber Wolfy Playz."
@@ -1065,7 +1065,7 @@
                 {
                     "foto": 5,
                     "nombre": "Ultimate Champ Star",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "Tough as nails until he gets a splinter, then watch him whimper.",
                     "obtencion": "Founders Edition 2nd week reward",
                     "extra": ""
@@ -1117,9 +1117,9 @@
                 {
                     "foto": 3,
                     "nombre": "All-star partyhat",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "100% character challenge completion reward during Feastivus",
-                    "obtencion": "Feastivus Partyhat†",
+                    "obtencion": "Feastivus Partyhat",
                     "extra": "Universal (plants and zombies)"
                 },
                 {
@@ -1133,9 +1133,9 @@
                 {
                     "foto": 5,
                     "nombre": "All star mister mallow",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "100% character challenge completion reward during Fall Food Fight",
-                    "obtencion": "Mister Mallow†",
+                    "obtencion": "Mister Mallow",
                     "extra": "Universal (plants and zombies)"
                 },
                 {
@@ -1149,7 +1149,7 @@
                 {
                     "foto": 7,
                     "nombre": "Right of dummies all star",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "",
                     "obtencion": "Defeating Dreadwood",
                     "extra": "Universal (zombies)"
@@ -1165,7 +1165,7 @@
                 {
                     "foto": 9,
                     "nombre": "Thought Projector all star",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "",
                     "obtencion": "Defeating Blight Cap",
                     "extra": "Universal (zombies)"
@@ -1173,7 +1173,7 @@
                 {
                     "foto": 10,
                     "nombre": "Windmill Wonderland all star",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "",
                     "obtencion": "Defeating Sir Biff",
                     "extra": "Universal (plants and zombies)"
@@ -1196,7 +1196,7 @@
                 {
                     "foto": 2,
                     "nombre": "Fantasy Flightmaster",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "She's actually scared of heights, but only when viewed from the bottom.",
                     "obtencion": "Reward-O-Tron",
                     "extra": ""
@@ -1229,7 +1229,7 @@
             "sets":[
                 {
                     "foto": 1,
-                    "nombre": "Bash Bonko†",
+                    "nombre": "Bash Bonko",
                     "rareza": "Rare",
                     "descripcion": "Three separate items in Feastivus prize map, costs 21 prize bulbs in total.",
                     "obtencion": "Feastivus prize map",
@@ -1256,7 +1256,7 @@
                 {
                     "foto": 1,
                     "nombre": "Danger Goggles",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "Reward-O-Tron",
                     "obtencion": "Reward-O-Tron",
                     "extra": ""
@@ -1264,9 +1264,9 @@
                 {
                     "foto": 2,
                     "nombre": "Space Cadet Partyhat",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "100% character challenge completion reward during Feastivus",
-                    "obtencion": "Feastivus Partyhat†",
+                    "obtencion": "Feastivus Partyhat",
                     "extra": "Universal (plants and zombies)"
                 },
                 {
@@ -1288,7 +1288,7 @@
                 {
                     "foto": 5,
                     "nombre": "Space Cadet Mister Mallow",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "100% character challenge completion reward during Fall Food Fight",
                     "obtencion": "Fall Food Fight",
                     "extra": "Universal (plants and zombies)"
@@ -1312,7 +1312,7 @@
                 {
                     "foto": 8,
                     "nombre": "Right of Dummies Space Cadet",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "Defeating Dreadwood",
                     "obtencion": "Defeating Dreadwood",
                     "extra": "Universal (zombies)"
@@ -1336,7 +1336,7 @@
                 {
                     "foto": 11,
                     "nombre": "Thought Projector Space Cadet",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "Defeating Blight Cap",
                     "obtencion": "Defeating Blight Cap",
                     "extra": "Universal (zombies)"
@@ -1344,7 +1344,7 @@
                 {
                     "foto": 12,
                     "nombre": "Windmill Wonderland Space Cadet",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "Defeating Sir Biff",
                     "obtencion": "Defeating Sir Biff",
                     "extra": "Universal (plants and zombies)"
@@ -1359,7 +1359,7 @@
                 {
                     "foto": 1,
                     "nombre": "Commander S",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "Likes to get 'beamed up' by waving a flashlight around and then running away.",
                     "obtencion": "Reward-O-Tron",
                     "extra": "This is the only costume that adds a right shoe to the Scientist. This costume is used by Battle Leader Dr. Spork."
@@ -1391,10 +1391,10 @@
                 {
                     "foto": 5,
                     "nombre": "Sprinkle Science",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "When he saw candy, he thought 'weapon.' Well, 'thought' is a strong word.",
                     "obtencion": "Fall Food Fight prize map, cost 10 prize bulbs",
-                    "extra": "Sprinkle Science†"
+                    "extra": "Sprinkle Science"
                 },
                 {
                     "foto": 6,
@@ -1450,16 +1450,16 @@
                 {
                     "foto": 2,
                     "nombre": "Bookworm",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "",
                     "obtencion": "Reward-O-Tron"
                 },
                 {
                     "foto": 3,
                     "nombre": "Scientist partyhat",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "100% character challenge completion reward during Feastivus.",
-                    "obtencion": "Feastivus Partyhat† Universal (plants and zombies)"
+                    "obtencion": "Feastivus Partyhat Universal (plants and zombies)"
                 },
                 {
                     "foto": 4,
@@ -1485,9 +1485,9 @@
                 {
                     "foto": 7,
                     "nombre": "Scientist mister mallow",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "100% character challenge completion reward during Fall Food Fight.",
-                    "obtencion": "Mister Mallow† Universal (plants and zombies)"
+                    "obtencion": "Mister Mallow Universal (plants and zombies)"
                 },
                 {
                     "foto": 8,
@@ -1506,21 +1506,21 @@
                 {
                     "foto": 10,
                     "nombre": "Right of Dummies scientist",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "Defeating Dreadwood.",
                     "obtencion": "Universal (zombies)"
                 },
                 {
                     "foto": 11,
                     "nombre": "Thought Projector scientist",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "Defeating Blight Cap.",
                     "obtencion": "Universal (zombies)"
                 },
                 {
                     "foto": 12,
                     "nombre": "Windmill Wonderland scientist",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "Defeating Sir Biff.",
                     "obtencion": "Universal (plants and zombies)"
                 },
@@ -1578,7 +1578,7 @@
                 {
                     "foto": 1,
                     "nombre": "Finer Miner",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "",
                     "obtencion": "Reward-O-Tron"
                 },
@@ -1615,9 +1615,9 @@
                 {
                     "foto": 3,
                     "nombre": "Engineer Partyhat",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "100% character challenge completion reward during Feastivus.",
-                    "obtencion": "Feastivus Partyhat†"
+                    "obtencion": "Feastivus Partyhat"
                 },
                 {
                     "foto": 4,
@@ -1629,7 +1629,7 @@
                 {
                     "foto": 5,
                     "nombre": "Engineer Mister Mallow",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "100% character challenge completion reward during Fall Food Fight.",
                     "obtencion": "Fall Food Fight"
                 },
@@ -1643,14 +1643,14 @@
                 {
                     "foto": 7,
                     "nombre": "Right of Dummies Engineer",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "Defeating Dreadwood.",
                     "obtencion": "Universal (zombies)"
                 },
                 {
                     "foto": 8,
                     "nombre": "Thought Projector Engineer",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "Defeating Blight Cap.",
                     "obtencion": "Universal (zombies)"
                 },
@@ -1664,7 +1664,7 @@
                 {
                     "foto": 10,
                     "nombre": "Windmill Wonderland Engineer",
-                    "rareza": "Super Rare",
+                    "rareza": "SuperRare",
                     "descripcion": "Defeating Sir Biff.",
                     "obtencion": "Universal (plants and zombies)"
                 }
