@@ -1532,7 +1532,190 @@
                     "obtencion": "Unlocked from the start"
                 }
             ]
+        },
+        {
+            "nombre":"engineer",
+            "descrip":"Free spirits who fly by the seat of their butt-baring pants, Engineers help hammer Zomboss’ inventions together while battling plants.",
+            "clase":"apoyo",
+            "skins":[
+                {
+                    "foto": 1,
+                    "nombre": "Night Shift",
+                    "rareza": "Common",
+                    "descripcion": "Nothing safer than working construction at night dressed all in black!",
+                    "obtencion": "Reward-O-Tron"
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Dummy Cultist",
+                    "rareza": "Rare",
+                    "descripcion": "Dedicated to the dumb-dumbness that Dummy makes you feel in your head parts.",
+                    "obtencion": "Purchasable from Otto Do in Weirding Woods for 500 marshmallows after unlocking all 50 medals for the region"
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Feastivus Master",
+                    "rareza": "Legendary",
+                    "descripcion": "He's a master of feastivus funny business.",
+                    "obtencion": "Feastivus prize map completion reward"
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Inspiration Elf",
+                    "rareza": "Legendary",
+                    "descripcion": "Was he inspired by elves or does he inspire elves?",
+                    "obtencion": "Feastivus prize map, costs 20 prize bulbs"
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Painterly Splotchwork",
+                    "rareza": "Rare",
+                    "descripcion": "Has yet to get paint on anything but himself.",
+                    "obtencion": "Reward-O-Tron"
+                }
+            ],
+            "sets":[
+                {
+                    "foto": 1,
+                    "nombre": "Finer Miner",
+                    "rareza": "Super Rare",
+                    "descripcion": "",
+                    "obtencion": "Reward-O-Tron"
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Hotrod Hooligan",
+                    "rareza": "Rare",
+                    "descripcion": "",
+                    "obtencion": "Reward-O-Tron"
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Nautical Nonsense",
+                    "rareza": "Rare",
+                    "descripcion": "This set is used by NPC Seabasstian.",
+                    "obtencion": "Reward-O-Tron"
+                }
+            ],
+            "hats":[
+                {
+                    "foto": 1,
+                    "nombre": "Conk-1000",
+                    "rareza": "Legendary",
+                    "descripcion": "",
+                    "obtencion": "Reward-O-Tron"
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Extento-Wig",
+                    "rareza": "Common",
+                    "descripcion": "",
+                    "obtencion": "Reward-O-Tron"
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Engineer Partyhat",
+                    "rareza": "Super Rare",
+                    "descripcion": "100% character challenge completion reward during Feastivus.",
+                    "obtencion": "Feastivus Partyhat†"
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Hazard Head",
+                    "rareza": "Rare",
+                    "descripcion": "Fall Food Fight prize map, cost 7 prize bulbs.",
+                    "obtencion": "Fall Food Fight prize map"
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Engineer Mister Mallow",
+                    "rareza": "Super Rare",
+                    "descripcion": "100% character challenge completion reward during Fall Food Fight.",
+                    "obtencion": "Fall Food Fight"
+                },
+                {
+                    "foto": 6,
+                    "nombre": "No Hat Engineer",
+                    "rareza": "Standard",
+                    "descripcion": "Unlocked from the start.",
+                    "obtencion": "N/A"
+                },
+                {
+                    "foto": 7,
+                    "nombre": "Right of Dummies Engineer",
+                    "rareza": "Super Rare",
+                    "descripcion": "Defeating Dreadwood.",
+                    "obtencion": "Universal (zombies)"
+                },
+                {
+                    "foto": 8,
+                    "nombre": "Thought Projector Engineer",
+                    "rareza": "Super Rare",
+                    "descripcion": "Defeating Blight Cap.",
+                    "obtencion": "Universal (zombies)"
+                },
+                {
+                    "foto": 9,
+                    "nombre": "Engineer Waffle Wobbler",
+                    "rareza": "Rare",
+                    "descripcion": "Fall Food Fight prize map, cost 5 prize bulbs.",
+                    "obtencion": "Fall Food Fight prize map"
+                },
+                {
+                    "foto": 10,
+                    "nombre": "Windmill Wonderland Engineer",
+                    "rareza": "Super Rare",
+                    "descripcion": "Defeating Sir Biff.",
+                    "obtencion": "Universal (plants and zombies)"
+                }
+            ]                        
+        },
+        {
+            "nombre":"wizard",
+            "descrip":"Wizards aid their allies with invincibility potions and give buffs such as increased firepower to Co-Star zombie hosts.",
+            "clase":"apoyo",
+            "skins":[
+                {
+                    "foto": 1,
+                    "nombre": "Fairy Step-Oddmother",
+                    "rareza": "Legendary",
+                    "descripcion": "She'll make your dreams come true, especially the ones where you're chased by zombies.",
+                    "obtencion": "Purchasable from Rux for 1,000 rainbow stars"
+                },
+                {
+                    "foto": 2,
+                    "nombre": "Grand Elf",
+                    "rareza": "Rare",
+                    "descripcion": "This elf can cast spells, but can't spell 'spells.' Or 'cast.' Or anything.",
+                    "obtencion": "Purchasable from Rux for 550 rainbow stars"
+                },
+                {
+                    "foto": 3,
+                    "nombre": "Last Wishez",
+                    "rareza": "Legendary",
+                    "descripcion": "Like toothpaste, he can't be put back in the bottle.",
+                    "obtencion": "Purchasable from Rux for 1,000 rainbow stars"
+                },
+                {
+                    "foto": 4,
+                    "nombre": "Snore-cerer",
+                    "rareza": "Rare",
+                    "descripcion": "Last night, he had the strangest dream. And, unfortunately, he's gonna tell you all about it.",
+                    "obtencion": "Purchasable from Rux for 550 rainbow stars"
+                },
+                {
+                    "foto": 5,
+                    "nombre": "Wishbreaker",
+                    "rareza": "Legendary",
+                    "descripcion": "Looking for a roommate for his spacious 2-bedroom lamp. No pets.",
+                    "obtencion": "Luck O' the Zombie prize map completion reward"
+                }
+            ]            
+        },
+        {
+            "nombre":"tv head",
+            "descrip":"TV Heads may be unassuming when they are on their own, but as a group they become overwhelmingly powerful. When they are near ally TV Heads, bots, or minions they receive armor.",
+            "clase":"apoyo"
         }
-        
     ]
 }
