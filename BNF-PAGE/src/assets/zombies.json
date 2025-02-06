@@ -1026,7 +1026,10 @@
             ]            
         },
         {
-            
+            "nombre":"all-star",
+            "descrip":"All-Stars are the go-to zombie for pushing the line forward—however, they’re unsure about the purpose of a football.",
+            "clase":"defensa",
+            "skins":[]
         }
         
     ]
