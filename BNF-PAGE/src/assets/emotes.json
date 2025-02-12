@@ -1,4 +1,13 @@
 {
     "emotes": [
+        {
+            "obtencion":"staring",
+            "emotes":[
+                {
+                    "foto":1,
+                    "nombre":"Angry"
+                }
+            ]
+        }
     ]
 }
