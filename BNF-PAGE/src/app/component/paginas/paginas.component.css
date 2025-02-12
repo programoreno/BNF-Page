@@ -19,9 +19,3 @@ article img:hover{
     transition: 0.5s;
     transform: scale(100%);
 }
-.paginas img{
-    transform: scale(0.20);
-}
-.paginas img:hover{
-    transform: scale(0.30);
-}
