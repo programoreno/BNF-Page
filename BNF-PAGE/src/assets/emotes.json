@@ -18,6 +18,22 @@
                 {
                     "foto":4,
                     "nombre":"Happy"
+                },
+                {
+                    "foto":5,
+                    "nombre":"Sad"
+                },
+                {
+                    "foto":6,
+                    "nombre":"Loving"
+                },
+                {
+                    "foto":7,
+                    "nombre":"Sleepy"
+                },
+                {
+                    "foto":8,
+                    "nombre":"Scared"
                 }
             ]
         }
