@@ -10,6 +10,10 @@
                 {
                     "foto":2,
                     "nombre":"Blushing"
+                },
+                {
+                    "foto":3,
+                    "nombre":"Frustrated"
                 }
             ]
         }
