@@ -6,6 +6,10 @@
                 {
                     "foto":1,
                     "nombre":"Angry"
+                },
+                {
+                    "foto":2,
+                    "nombre":"Blushing"
                 }
             ]
         }
