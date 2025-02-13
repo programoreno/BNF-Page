@@ -2,7 +2,7 @@
     "emotes": [
         {
             "obtencion":"staring",
-            "emotes":[
+            "gestos":[
                 {
                     "foto":1,
                     "nombre":"Angry"
