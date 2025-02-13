@@ -1,10 +1,9 @@
-export class Emotes{
-    obtencion:string;
+export class EmotesMap{
+    mes:string;
     gestos:Gestos[];
 }
 
 class Gestos{
     foto:number;
     nombre:string;
-    mes:string;
 }

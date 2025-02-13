@@ -1,0 +1,13 @@
+{
+    "emotesMap": [
+        {
+            "mes":"snow day",
+            "gestos":[
+                {
+                    "foto":1,
+                    "nombre":"angry"
+                }
+            ]
+        }
+    ]
+}
