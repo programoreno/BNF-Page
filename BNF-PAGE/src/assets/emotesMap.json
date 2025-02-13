@@ -5,7 +5,19 @@
             "gestos":[
                 {
                     "foto":1,
-                    "nombre":"angry"
+                    "nombre":"chubby birdie"
+                },
+                {
+                    "foto":2,
+                    "nombre":"cute kitty"
+                },
+                {
+                    "foto":3,
+                    "nombre":"fish"
+                },
+                {
+                    "foto":4,
+                    "nombre":"happy puppy"
                 }
             ]
         }
