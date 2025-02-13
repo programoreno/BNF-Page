@@ -1,0 +1,11 @@
+<section>
+    @for(emo of emote; track emote){
+        <h1>{{emo.obtencion}}</h1>
+        @for(gesto of emo.gestos; track gesto.nombre){
+            <div>
+                <h3>{{gesto.nombre}}</h3>
+                <img src="assets/emotes/{{gesto.foto}}.png"/>
+            </div>
+        }
+    }
+</section>
