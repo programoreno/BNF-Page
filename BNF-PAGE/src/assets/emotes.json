@@ -1,39 +1,108 @@
 {
     "emotes": [
         {
-            "obtencion":"staring",
+            "obtencion":"starting",
             "gestos":[
                 {
                     "foto":1,
-                    "nombre":"Angry"
+                    "nombre":"angry"
                 },
                 {
                     "foto":2,
-                    "nombre":"Blushing"
+                    "nombre":"blushing"
                 },
                 {
                     "foto":3,
-                    "nombre":"Frustrated"
+                    "nombre":"frustrated"
                 },
                 {
                     "foto":4,
-                    "nombre":"Happy"
+                    "nombre":"happy"
                 },
                 {
                     "foto":5,
-                    "nombre":"Sad"
+                    "nombre":"sad"
                 },
                 {
                     "foto":6,
-                    "nombre":"Loving"
+                    "nombre":"loving"
                 },
                 {
                     "foto":7,
-                    "nombre":"Sleepy"
+                    "nombre":"sleepy"
                 },
                 {
                     "foto":8,
-                    "nombre":"Scared"
+                    "nombre":"scared"
+                }
+            ]
+        },
+        {
+            "obtencion":"reward-o-tron",
+            "gestos":[
+                {   "foto":1,
+                    "nombre":"dancing"
+                },
+                {
+                    "foto":2,
+                    "nombre":"dandelion"
+                },
+                {
+                    "foto":3,
+                    "nombre":"gnomish"
+                },
+                {
+                    "foto":4,
+                    "nombre":"vase"
+                },
+                {
+                    "foto":5,
+                    "nombre":"time"
+                }
+            ]   
+        },
+        {
+            "obtencion":"rux",
+            "gestos":[
+                {
+                    "foto":1,
+                    "nombre":"dave angry"
+                },
+                {
+                    "foto":2,
+                    "nombre":"dave crying"
+                },
+                {
+                    "foto":3,
+                    "nombre":"dave happy"
+                },
+                {
+                    "foto":4,
+                    "nombre":"dave scared"
+                },
+                {
+                    "foto":5,
+                    "nombre":"zomboss angry"
+                },
+                {
+                    "foto":6,
+                    "nombre":"zomboss crying"
+                },
+                {
+                    "foto":7,
+                    "nombre":"zomboss happy"
+                },
+                {
+                    "foto":8,
+                    "nombre":"zomboss scared"
+                },
+                {
+                    "foto":9,
+                    "nombre":"exploding imp"
+                },
+                {
+                    "foto":10,
+                    "nombre":"gems in a chest"
                 }
             ]
         }
