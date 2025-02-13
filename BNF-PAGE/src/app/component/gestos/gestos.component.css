@@ -1,0 +1,14 @@
+h1{
+    font-size: 30px;
+    text-transform: capitalize;
+}
+img{
+    width: 150px;
+    height: 150px;
+}
+.emotes{
+    background-color: rebeccapurple;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
