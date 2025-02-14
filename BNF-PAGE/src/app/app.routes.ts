@@ -4,6 +4,7 @@ import { AlbunComponent } from './pages/albun/albun.component';
 import { DetallesPersonajeComponent } from './pages/detalles-personaje/detalles-personaje.component';
 import { MapasComponent } from './pages/mapas/mapas.component';
 import { EmotesComponent } from './pages/emotes/emotes.component';
+import { TumbasComponent } from './pages/tumbas/tumbas.component';
 
 export const routes: Routes = [
     {path : 'home', component:HomeComponent},
@@ -13,5 +14,6 @@ export const routes: Routes = [
     {path : 'general', component:AlbunComponent},
     {path : ':pagina/:personaje', component:DetallesPersonajeComponent},
     {path : 'mapas', component:MapasComponent},
-    {path : 'emotes', component:EmotesComponent}
+    {path : 'emotes', component:EmotesComponent},
+    {path : 'tumbas', component:TumbasComponent}
 ];
