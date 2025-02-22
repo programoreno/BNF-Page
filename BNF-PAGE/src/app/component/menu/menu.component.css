@@ -1,0 +1,99 @@
+
+  nav {
+    background-color: #333;
+  }
+  
+  .menu {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    position: relative;
+  }
+  
+  .menu a {
+    color: white;
+    padding: 14px 20px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .menu a:hover {
+    background-color: #575757;
+  }
+  
+  /* Estilos para el submenú */
+  .submenu {
+    display: none;
+    position: absolute;
+    top: 100%;
+    left: 0;
+    background-color: #333;
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+  }
+  
+  .submenu li a {
+    padding: 10px 20px;
+  }
+  
+  /* Media query para pantallas pequeñas (máximo 800px) */
+  @media (max-width: 800px) {
+    .menu {
+      flex-direction: column;
+      display: none;
+      width: 100%;
+    }
+  
+    .menu li {
+      width: 100%;
+      text-align: center;
+    }
+  
+    .submenu {
+      position: relative;
+      top: 0;
+      left: 0;
+      display: none; /* Asegurarse de que esté oculto por defecto */
+    }
+  
+    .menu li.active .submenu {
+      display: block; /* Mostrar submenú si está activo */
+    }
+  
+    .menu li a {
+      padding: 14px;
+      text-align: left;
+    }
+  
+    .menu-toggle {
+      display: block;
+      background-color: #333;
+      color: white;
+      padding: 14px;
+      text-align: center;
+      width: 100%;
+      cursor: pointer;
+    }
+  
+    .menu.show {
+      display: block; /* Mostrar el menú cuando esté abierto */
+    }
+  }
+  
+  /* Estilo para el menú en pantallas más grandes */
+  @media (min-width: 801px) {
+    .menu {
+      display: flex;
+    }
+  
+    .menu-toggle {
+      display: none;
+    }
+  }
+  
