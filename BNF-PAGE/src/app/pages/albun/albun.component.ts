@@ -1,17 +1,15 @@
 import { Component, OnInit } from '@angular/core';
 import { ActivatedRoute, RouterLink } from '@angular/router';
-import { PresentacionComponent } from "../../component/presentacion/presentacion.component";
-import { TabsComponent } from "../../component/tabs/tabs.component";
 import { CommonModule } from '@angular/common';
 import { Personaje } from '../../entity/Personaje';
 import { PersonajesService } from '../../service/personajes.service';
 import { FooterComponent } from "../../component/footer/footer.component";
-import { Router } from 'express';
+import { MenuComponent } from "../../component/menu/menu.component";
 
 @Component({
   selector: 'app-albun',
   standalone: true,
-  imports: [CommonModule, RouterLink, FooterComponent],
+  imports: [CommonModule, RouterLink, FooterComponent, MenuComponent],
   templateUrl: './albun.component.html',
   styleUrl: './albun.component.css'
 })
