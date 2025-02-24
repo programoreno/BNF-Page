@@ -20,9 +20,10 @@
       </div>
     </div>
   </nav>
--->  
+-->
+
+<!--  
 <nav>
-    <!-- Botón para abrir y cerrar el menú en dispositivos pequeños -->
     <div class="menu-toggle" (click)="toggleMenu()">☰ Menú</div>
   
     <ul class="menu" [class.show]="isMenuOpen">
@@ -38,4 +39,30 @@
       <li><a href="#">Nosotros</a></li>
       <li><a href="#">Contacto</a></li>
     </ul>
-  </nav>  
+  </nav>
+-->
+
+<nav>
+  <div class="menu-toggle" (click)="toggleMenu()">
+    <div class="burger" [class.open]="isOpen">
+      <span></span>
+      <span></span>
+      <span></span>
+    </div>
+  </div>
+  
+  <ul class="menu" [class.show]="isMenuOpen">
+    <li>
+      <a href="#">Inicio</a>
+    </li>
+
+    <li>
+      <a href="#">Contacto</a>
+    </li>
+  </ul>
+</nav>
+
+
+
+
+
