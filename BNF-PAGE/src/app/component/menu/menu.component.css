@@ -2,10 +2,12 @@
 nav {
   background: #001557;
   padding: 20px 20px;
-  position: relative;
+  position: sticky;
   display: flex;
   align-items: center;
   justify-content: space-between;
+  top:0;
+  z-index: 1000;
 }
 
 /* --- Botón de menú hamburguesa --- */
@@ -101,7 +103,7 @@ nav {
     top: 100%;
     left: 0;
     text-align: center;
-    border-radius: 0 0 10px 10px;
+    /*border-radius: 0 0 10px 10px;*/
     z-index: 1000;
 
     transform: scaleY(0);
@@ -117,7 +119,7 @@ nav {
 
   .menu li {
     display: block;
-    padding: 10px;
+    padding: 15px 20px;
     text-align: left;
   }
 }
@@ -125,7 +127,10 @@ nav {
 a{
   text-decoration: none;
   color:#fff;
+  transition: 0.25s;
+  /*font-family: "Blaka", system-ui;*/
 }
 a:hover{
-  text-decoration: underline;
+  font-size: 20px;
+  transition: 0.25s;
 }
