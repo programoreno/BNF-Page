@@ -32,6 +32,7 @@ nav {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
+  align-items: center;
   position: relative;
 }
 
@@ -41,11 +42,25 @@ nav {
   width: 100%;
   border-radius: 2px;
   transition: transform 0.3s ease, opacity 0.3s ease;
+  position: absolute;
+}
+
+/* Ajuste de posiciones */
+.burger span:nth-child(1) {
+  top: 0;
+}
+
+.burger span:nth-child(2) {
+  top: 10px;
+}
+
+.burger span:nth-child(3) {
+  top: 20px;
 }
 
 /* --- Animación de "X" cuando el menú está abierto --- */
 .burger.open span:nth-child(1) {
-  transform: translateY(9px) rotate(45deg);
+  transform: translateY(10px) rotate(45deg);
 }
 
 .burger.open span:nth-child(2) {
@@ -53,7 +68,7 @@ nav {
 }
 
 .burger.open span:nth-child(3) {
-  transform: translateY(-9px) rotate(-45deg);
+  transform: translateY(-10px) rotate(-45deg);
 }
 
 /* --- Estilos del Menú --- */
@@ -104,4 +119,12 @@ nav {
     display: block;
     padding: 10px 0;
   }
+}
+
+a{
+  text-decoration: none;
+  color:#fff;
+}
+a:hover{
+  text-decoration: underline;
 }
