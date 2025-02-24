@@ -1,7 +1,7 @@
 /* --- Estilos del Nav --- */
 nav {
-  background: #333;
-  padding: 10px 20px;
+  background: #001557;
+  padding: 20px 20px;
   position: relative;
   display: flex;
   align-items: center;
@@ -95,7 +95,7 @@ nav {
 @media screen and (max-width: 800px) {
   .menu {
     flex-direction: column;
-    background: #333;
+    background: #001557;
     position: absolute;
     width: 100%;
     top: 100%;
@@ -117,7 +117,8 @@ nav {
 
   .menu li {
     display: block;
-    padding: 10px 0;
+    padding: 10px;
+    text-align: left;
   }
 }
 
