@@ -1,99 +1,111 @@
+nav {
+  background: #333;
+  padding: 10px;
+  position: relative;
+}
 
-  nav {
-    background-color: #333;
-  }
-  
-  .menu {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    display: flex;
-    justify-content: space-around;
-  }
-  
-  .menu li {
-    position: relative;
-  }
-  
-  .menu a {
-    color: white;
-    padding: 14px 20px;
-    text-decoration: none;
+.menu-toggle button {
+  background: #444;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  font-size: 18px;
+  cursor: pointer;
+  display: none;
+}
+
+.menu {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: flex;
+  gap: 15px;
+  transition: transform 0.3s ease-in-out, opacity 0.3s ease-in-out;
+}
+
+.menu li {
+  display: inline;
+}
+
+.menu a {
+  text-decoration: none;
+  color: white;
+  padding: 10px;
+  display: block;
+}
+
+@media screen and (max-width: 800px) {
+  .menu-toggle button {
     display: block;
   }
-  
-  .menu a:hover {
-    background-color: #575757;
-  }
-  
-  /* Estilos para el submenú */
-  .submenu {
-    display: none;
+
+  .menu {
+    flex-direction: column;
+    background: #333;
     position: absolute;
-    top: 100%;
+    width: 100%;
+    top: 100%;  /* Evita que se solape con el botón */
     left: 0;
-    background-color: #333;
-    list-style-type: none;
-    padding: 0;
-    margin: 0;
+    text-align: center;
+    border-radius: 0 0 10px 10px;
+    z-index: 1000;
+
+    transform: scaleY(0);
+    transform-origin: top;
+    opacity: 0;
+    overflow: hidden;
   }
-  
-  .submenu li a {
-    padding: 10px 20px;
+
+  .menu.show {
+    transform: scaleY(1);
+    opacity: 1;
   }
-  
-  /* Media query para pantallas pequeñas (máximo 800px) */
-  @media (max-width: 800px) {
-    .menu {
-      flex-direction: column;
-      display: none;
-      width: 100%;
-    }
-  
-    .menu li {
-      width: 100%;
-      text-align: center;
-    }
-  
-    .submenu {
-      position: relative;
-      top: 0;
-      left: 0;
-      display: none; /* Asegurarse de que esté oculto por defecto */
-    }
-  
-    .menu li.active .submenu {
-      display: block; /* Mostrar submenú si está activo */
-    }
-  
-    .menu li a {
-      padding: 14px;
-      text-align: left;
-    }
-  
-    .menu-toggle {
-      display: block;
-      background-color: #333;
-      color: white;
-      padding: 14px;
-      text-align: center;
-      width: 100%;
-      cursor: pointer;
-    }
-  
-    .menu.show {
-      display: block; /* Mostrar el menú cuando esté abierto */
-    }
+
+  .menu li {
+    display: block;
+    padding: 10px 0;
   }
-  
-  /* Estilo para el menú en pantallas más grandes */
-  @media (min-width: 801px) {
-    .menu {
-      display: flex;
-    }
-  
-    .menu-toggle {
-      display: none;
-    }
-  }
-  
+}
+
+
+
+
+
+.menu-toggle {
+  width: 40px;
+  height: 40px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  cursor: pointer;
+}
+
+.burger {
+  width: 30px;
+  height: 24px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: relative;
+}
+
+.burger span {
+  background-color: #fff;
+  height: 4px;
+  width: 100%;
+  border-radius: 2px;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+/* Animación cuando se abre */
+.burger.open span:nth-child(1) {
+  transform: translateY(10px) rotate(45deg);
+}
+
+.burger.open span:nth-child(2) {
+  opacity: 0;
+}
+
+.burger.open span:nth-child(3) {
+  transform: translateY(-10px) rotate(-45deg);
+}
