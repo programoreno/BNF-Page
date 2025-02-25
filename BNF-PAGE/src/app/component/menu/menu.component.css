@@ -129,8 +129,19 @@ a{
   color:#fff;
   transition: 0.25s;
   /*font-family: "Blaka", system-ui;*/
+  position: relative;
 }
-a:hover{
-  font-size: 20px;
-  transition: 0.25s;
+a::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: 0;
+  width: 0;
+  height: 2px;
+  background-color: #fff;
+  transition: width 0.3s ease-in-out;
+}
+
+a:hover::after {
+  width: 100%;
 }
