@@ -32,11 +32,15 @@
     #tabs{
       align-items: center;
       width: 1250px;
-    } 
+    }
+    #home-content {
+        margin-top: 0;
+    }
   }
   
 #home-content {
     color:white;
+    margin-top: 75px;
 }
 #home-content h1{
     font-family: "Blaka", system-ui;
