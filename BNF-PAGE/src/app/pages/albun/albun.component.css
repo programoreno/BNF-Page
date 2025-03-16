@@ -106,3 +106,12 @@ h1{
     opacity: 1;
     bottom: 30px;
 }
+
+@media(max-width:450px){
+    .card h2{
+        width: 70%;
+    }
+    .arti{
+        width: 350px;
+    }
+}
