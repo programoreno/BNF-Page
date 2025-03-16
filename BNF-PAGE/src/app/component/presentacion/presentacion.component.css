@@ -16,6 +16,7 @@
 @media(max-width:1300px){
     #page{
         flex-direction: column;
+        height: auto;
     }
     #page img{
         transform:scale(65%);
