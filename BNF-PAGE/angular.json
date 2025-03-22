@@ -15,10 +15,7 @@
           "options": {
             "outputPath": "dist/BNF-Page",
             "index": "src/index.html",
-<<<<<<< HEAD
-=======
             "baseHref": "/BNF-Page/",
->>>>>>> f8fc466 (resubida)
             "browser": "src/main.ts",
             "polyfills": [
               "zone.js"
