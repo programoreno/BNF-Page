@@ -28,6 +28,7 @@
               "src/styles.css"
             ],
             "scripts": [],
+            "baseHref": "/bnf-page/",
             "server": "src/main.server.ts",
             "prerender": true,
             "ssr": {
