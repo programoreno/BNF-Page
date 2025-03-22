@@ -12,13 +12,13 @@ export class EmotesService {
   constructor(private http:HttpClient) { }
 
   getEmotes():Observable<Emotes[]>{
-    return this.http.get<{ emotes:Emotes[]}>('/assets/emotes.json').pipe(
+    return this.http.get<{ emotes:Emotes[]}>('assets/emotes.json').pipe(
       map(response => response.emotes)
     );
   }
 
   getEmotesMap():Observable<EmotesMap[]>{
-    return this.http.get<{ emotesMap:EmotesMap[]}>('/assets/emotesMap.json').pipe(
+    return this.http.get<{ emotesMap:EmotesMap[]}>('assets/emotesMap.json').pipe(
       map(response => response.emotesMap)
     );
   }

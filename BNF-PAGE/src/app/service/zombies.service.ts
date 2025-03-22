@@ -11,7 +11,7 @@ export class ZombiesService {
   constructor(private http:HttpClient) { }
 
   getZombies():Observable<Personaje[]>{
-    return this.http.get<{ zombies: Personaje[] }>('/assets/zombies.json').pipe(
+    return this.http.get<{ zombies: Personaje[] }>('assets/zombies.json').pipe(
       map(response => response.zombies)
     );
   }

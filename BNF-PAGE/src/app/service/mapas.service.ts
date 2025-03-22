@@ -11,7 +11,7 @@ export class MapasService {
   constructor(private http:HttpClient) { }
   
   getMapas(): Observable<Lugares[]> {
-    return this.http.get<{ maps: Lugares[] }>('/assets/mapas.json').pipe(
+    return this.http.get<{ maps: Lugares[] }>('assets/mapas.json').pipe(
       map(response => response.maps) // Aquí extraes el array de la propiedad "maps"
     );
   }

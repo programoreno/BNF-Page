@@ -1,0 +1,10 @@
+{
+  "routes": [
+    "/emotes",
+    "/general",
+    "/home",
+    "/mapas",
+    "/plantas",
+    "/zombies"
+  ]
+}
