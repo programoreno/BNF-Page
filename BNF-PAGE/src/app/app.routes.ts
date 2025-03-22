@@ -15,5 +15,5 @@ export const routes: Routes = [
     {path : ':pagina/:personaje', component:DetallesPersonajeComponent},
     {path : 'mapas', component:MapasComponent},
     {path : 'emotes', component:EmotesComponent},
-    {path : 'tumbas', component:TumbasComponent}
+    /*{path : 'tumbas', component:TumbasComponent}*/
 ];
