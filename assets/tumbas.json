@@ -1,0 +1,17 @@
+{
+    "tumbas":[
+        {
+            "obtencion":"reward-o-tron",
+            "victory":[
+                {
+                    "foto":1,
+                    "nombre":"funday sundae"
+                },
+                {
+                    "foto":2,
+                    "nombre":"just a fence!"
+                }
+            ]
+        }
+    ]
+}
