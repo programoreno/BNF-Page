@@ -18,3 +18,12 @@
     object-fit: cover; /* Asegura que el video cubra todo el contenedor */
     z-index: -1; /* Coloca el video detrás del contenido */
 }
+
+@media(max-width:750px){
+    .inicio{
+        background-image: url("../../../assets/sky.jpg");
+    }
+    .inicio img{
+        transform: scale(0.65);
+    }
+}

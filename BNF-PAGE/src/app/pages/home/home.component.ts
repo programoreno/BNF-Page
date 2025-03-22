@@ -3,15 +3,17 @@ import { InicioComponent } from "../../component/inicio/inicio.component";
 import { PaginasComponent } from "../../component/paginas/paginas.component";
 import { FooterComponent } from "../../component/footer/footer.component";
 import { MenuComponent } from '../../component/menu/menu.component';
+import { GestosComponent } from '../../component/gestos/gestos.component';
 
 @Component({
   selector: 'app-home',
   standalone: true,
-  imports: [MenuComponent, InicioComponent, PaginasComponent, FooterComponent],
+  imports: [MenuComponent, InicioComponent, PaginasComponent, FooterComponent,GestosComponent],
   templateUrl: './home.component.html',
   styleUrl: './home.component.css'
 })
-export class HomeComponent implements OnInit{
+
+export class HomeComponent implements OnInit {
 
   ngOnInit(): void {
     window.scrollTo(0, 0);
