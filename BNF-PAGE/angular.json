@@ -12,7 +12,8 @@
         "build": {
           "builder": "@angular-devkit/build-angular:application",
           "options": {
-            "outputPath": "dist/bnf-page",
+            "outputPath": "dist/BNF-Page",
+            "baseHref": "/BNF-Page/",
             "index": "src/index.html",
             "browser": "src/main.ts",
             "polyfills": [
@@ -27,7 +28,6 @@
               "src/styles.css"
             ],
             "scripts": [],
-            "baseHref": "/bnf-page/",
             "server": "src/main.server.ts",
             "prerender": true,
             "ssr": {
