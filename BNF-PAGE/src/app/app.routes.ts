@@ -8,7 +8,8 @@ import { TumbasComponent } from './pages/tumbas/tumbas.component';
 
 export const routes: Routes = [
     {path : 'home', component:HomeComponent},
-    {path : '', redirectTo:'home',pathMatch:'full'},
+    {path : '   ', component:HomeComponent},
+    //{path : '', redirectTo:'home',pathMatch:'full'},
     {path : 'plantas', component:AlbunComponent},
     {path : 'zombies', component:AlbunComponent},
     {path : 'general', component:AlbunComponent},

@@ -1,0 +1,28 @@
+{
+    "general": [
+      { "nombre": "peashooter", "equipo": "plantas" },
+      { "nombre": "sunflower", "equipo": "plantas" },
+      { "nombre": "chomper", "equipo": "plantas" },
+      { "nombre": "cactus", "equipo": "plantas" },
+      { "nombre": "citron", "equipo": "plantas" },
+      { "nombre": "rose", "equipo": "plantas" },
+      { "nombre": "kernel corn", "equipo": "plantas" },
+      { "nombre": "snapdragon", "equipo": "plantas" },
+      { "nombre": "night cap", "equipo": "plantas" },
+      { "nombre": "acorn", "equipo": "plantas" },
+      { "nombre": "wildflower", "equipo": "plantas" },
+      { "nombre": "foot soldier", "equipo": "zombies" },
+      { "nombre": "engineer", "equipo": "zombies" },
+      { "nombre": "scientist", "equipo": "zombies" },
+      { "nombre": "all-star", "equipo": "zombies" },
+      { "nombre": "captain deadbeard", "equipo": "zombies" },
+      { "nombre": "imp", "equipo": "zombies" },
+      { "nombre": "super brainz", "equipo": "zombies" },
+      { "nombre": "80s action hero", "equipo": "zombies" },
+      { "nombre": "electric slide", "equipo": "zombies" },
+      { "nombre": "space cadet", "equipo": "zombies" },
+      { "nombre": "wizard", "equipo": "zombies" },
+      { "nombre": "tv head", "equipo": "zombies" }
+    ]
+}
+  
