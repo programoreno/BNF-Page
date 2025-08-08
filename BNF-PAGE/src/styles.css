@@ -41,3 +41,8 @@ body{
     /*color:#FFBA08;*/
     color:#FAA307;
   }
+
+  /*evitar desboradmientos del sweet alert en movil*/
+  html, body {
+  overflow-x: hidden;
+  }
